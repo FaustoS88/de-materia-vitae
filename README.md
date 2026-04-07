@@ -1,8 +1,24 @@
-# De Materia Vitae
+<p align="center">
+  <img src="assets/logo.png" alt="De Materia Vitae" width="200" />
+</p>
 
-> **The Body Manual** — ancient wisdom, modern evidence, daily practice.
->
-> *What the greatest physicians of antiquity knew, what modern science has confirmed, and what you should actually do about it — starting today.*
+<h1 align="center">De Materia Vitae</h1>
+
+<p align="center">
+  <strong>The Body Manual</strong> — ancient wisdom, modern evidence, daily practice.
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License" /></a>
+  <img src="https://img.shields.io/badge/evidence-graded-4a6741" alt="Evidence Graded" />
+  <img src="https://img.shields.io/badge/protocols-6-c4722f" alt="6 Protocols" />
+  <img src="https://img.shields.io/badge/languages-4-3a6b8c" alt="4 Languages" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
+</p>
+
+<p align="center">
+  <em>What the greatest physicians of antiquity knew, what modern science has confirmed, and what you should actually do about it — starting today.</em>
+</p>
 
 ---
 
