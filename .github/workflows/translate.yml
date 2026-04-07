@@ -1,0 +1,81 @@
+name: Auto-translate protocols
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'protocols/*.md'
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Translate protocols to IT + ES
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          cat > /tmp/translate.mjs << 'SCRIPT'
+          import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs'
+          import { join } from 'node:path'
+
+          const BACKEND = process.env.GITHUB_WORKSPACE
+          const PROTOCOLS = join(BACKEND, 'protocols')
+          const LANGS = { it: 'Italian', es: 'Spanish' }
+          const MODEL = 'llama-3.1-8b-instant'
+          const API = 'https://api.groq.com/openai/v1/chat/completions'
+
+          async function translate(markdown, lang, langName) {
+            const res = await fetch(API, {
+              method: 'POST',
+              headers: { Authorization: `Bearer ${process.env.GROQ_API_KEY}`, 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                model: MODEL,
+                messages: [
+                  { role: 'system', content: `You are a precise medical/scientific translator. Translate the following markdown from English to ${langName}. Preserve ALL markdown formatting, URLs, DOIs, PMIDs, author names, journal names, years, page numbers, citation references, star ratings. Translate naturally using proper ${langName} medical terminology. Return ONLY the translated markdown.` },
+                  { role: 'user', content: markdown },
+                ],
+                temperature: 0.2,
+                max_tokens: 32000,
+              }),
+            })
+            if (!res.ok) throw new Error(`Groq ${res.status}: ${await res.text()}`)
+            const data = await res.json()
+            return data.choices[0]?.message?.content || ''
+          }
+
+          const files = readdirSync(PROTOCOLS).filter(f => f.endsWith('.md') && f !== '_template.md').sort()
+          console.log(`Translating ${files.length} files...`)
+
+          for (const [lang, name] of Object.entries(LANGS)) {
+            const outDir = join(BACKEND, 'translations', lang)
+            mkdirSync(outDir, { recursive: true })
+            for (const file of files) {
+              const english = readFileSync(join(PROTOCOLS, file), 'utf-8')
+              process.stdout.write(`  [${lang.toUpperCase()}] ${file}... `)
+              const t0 = Date.now()
+              const translated = await translate(english, lang, name)
+              writeFileSync(join(outDir, file), translated, 'utf-8')
+              console.log(`done (${((Date.now()-t0)/1000).toFixed(1)}s)`)
+            }
+          }
+          console.log('Done.')
+          SCRIPT
+          node /tmp/translate.mjs
+
+      - name: Commit and push translations
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add translations/
+          if git diff --cached --quiet; then
+            echo "No translation changes"
+          else
+            git commit -m "chore(i18n): auto-update IT/ES translations [skip ci]"
+            git push
+          fi
