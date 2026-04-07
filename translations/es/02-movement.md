@@ -2,11 +2,13 @@
 
 > **Categoría:** Movimiento  
 > **Grado de Evidencia:** ★★★★★  
-> **Última Actualización:** 2026-04-06
+> **Última actualización:** 2026-04-06
 
 ---
 
-El movimiento como medicina: las dos prácticas con la evidencia más fuerte para la salud envejecida.
+Movimiento como medicina: las dos prácticas con la evidencia más fuerte para la salud a lo largo de la vida.
+
+---
 
 ---
 
@@ -14,9 +16,11 @@ El movimiento como medicina: las dos prácticas con la evidencia más fuerte par
 
 | Fuente | Texto | Referencia |
 |--------|------|-----------|
-| Hipócrates, *Sobre la Dieta*, ~400 a.C. | "El paseo es la mejor medicina del hombre. Todas las partes del cuerpo que tienen una función, si se utilizan con moderación y se ejercitan en trabajos a los que cada una está acostumbrada, se vuelven saludables y bien desarrolladas." | Aforismo IV, 3 |
-| Dioscórides, *De Materia Médica*, ~60 d.C. | "El ejercicio antes de las comidas es beneficioso para calentar el cuerpo, promover la digestión y fortalecer la constitución." | Libro I, Introducción |
-| Avicena, *Canon de la Medicina*, 1025 d.C. | "El ejercicio es aquello que es deliberado y con propósito, y es necesario para la preservación de la salud. Debe practicarse diariamente." | Libro I, Capítulo 4 |
+| Hipócrates, *Sobre el Regimen*, ~400 aC | "El paseo es la mejor medicina del hombre. Todas las partes del cuerpo que tienen una función, si se utilizan con moderación y se ejercen en trabajos a los que cada una está acostumbrada, se vuelven saludables y bien desarrolladas." | Aphorismo IV, 3 |
+| Dioscórides, *De Materia Medica*, ~60 dC | "Ejercitarse antes de las comidas es beneficioso para calentar el cuerpo, promover la digestión y fortalecer la constitución." | Libro I, Introducción |
+| Avicena, *Canon de la Medicina*, 1025 dC | "El ejercicio es aquel que es deliberado y con propósito, y es necesario para la preservación de la salud. Debe practicarse diariamente." | Libro I, Capítulo 4 |
+
+---
 
 ---
 
@@ -47,17 +51,17 @@ El movimiento como medicina: las dos prácticas con la evidencia más fuerte par
 | Parámetro | Recomendación |
 |-----------|---------------|
 | **Frecuencia** | 2–3 sesiones/semana |
-| **Ejercicios** | Movimientos compuestos: sentadillas, levantamiento de pesas, remo, prensa de hombros, flexiones de brazos/pies |
+| **Ejercicios** | Movimientos compuestos: sentadillas, levantamiento de pesas, remo, presión de hombros, flexiones de brazos/pies |
 | **Series/Repeticiones** | 3 series de 5–12 repeticiones por ejercicio |
-| **Progresión** | Sobrecarga progresiva — aumentar el peso o las repeticiones cada semana |
+| **Progresión** | Aumento progresivo de peso o repeticiones cada semana |
 | **Descanso** | 2–3 min entre series |
 | **Dosis mínima efectiva** | 2 sesiones/semana, cuerpo completo, 3–5 ejercicios compuestos, 3 series cada uno |
 
 ### Equipo Necesario
 
-| Nivel | Equipo | Costo (EE. UU.) |
+| Nivel | Equipo | Costo (US) |
 |------|-----------|-----------|
-| **Fundación** | Solo peso corporal (flexiones de brazos, sentadillas, saltos de tijera, planchas) | $0 |
+| **Fundamental** | Solo peso corporal (flexiones de brazos, sentadillas, lunges, planchas) | $0 |
 | **Esencial** | Bandas de resistencia + barra de flexión | ~$25-40 |
 | **Completo** | Conjunto de pesas o kettlebell + banco ajustable | ~$200-500 |
 
@@ -66,11 +70,13 @@ El movimiento como medicina: las dos prácticas con la evidencia más fuerte par
 | | |
 |---|---|
 | **Qué** | Entrenamiento de resistencia compuesto |
-| **Cuánto** | 2–3×/semana, 30–45 min |
+| **Cómo mucho** | 2–3×/semana, 30–45 min |
 | **Evidencia** | ★★★★★ |
 | **Fuente antigua** | Hipócrates, Avicena |
 | **Biomarcador clave** | Fuerza de agarre |
-| **Cuidado** | Comience ligero, enfóquese en la forma; la lesión deriva de todo |
+| **Cuidado** | Comienza ligero, enfócate en la forma; la lesión desvía todo |
+
+---
 
 ---
 
@@ -90,12 +96,12 @@ El movimiento como medicina: las dos prácticas con la evidencia más fuerte par
 
 ### Mecanismo
 
-- **Condición cardiovascular:** Mejora la VO2 max, un fuerte predictor de longevidad
+- **Condición cardiovascular:** Mejora la VO2 máxima, un fuerte predictor de longevidad
 - **Sensibilidad a la insulina:** La caminata después de las comidas reduce significativamente los picos de glucosa
-- **Densidad ósea:** La actividad de peso se asocia con la remodelación ósea
+- **Densidad ósea:** La actividad de peso reduce el remodelado óseo
 - **Drenaje linfático:** La caminata es el principal impulsor del flujo linfático (no hay bomba, depende del movimiento)
 - **Reducción de grasa visceral:** La caminata moderada reduce preferentemente la grasa visceral
-- **Mood & cognición:** Incrementa la BDNF, serotonina, endorfinas; reduce la cortisolina
+- **Mood & cognición:** Incrementa la BDNF, serotonina, endorfinas; reduce la cortisol
 
 ### Protocolo
 
@@ -105,27 +111,29 @@ El movimiento como medicina: las dos prácticas con la evidencia más fuerte par
 | **Mínimo** | 4,000 pasos (el beneficio para la mortalidad comienza aquí) |
 | **Post-comida** | 10 min de caminata después de cada comida (reduce los picos de glucosa en un 20–30%) |
 | **Velocidad** | Brisa (capaz de hablar, no cantar) — ~100 pasos/min |
-| **Terreno** | Variedad (colinas, terreno irregular) engancha a más músculos estabilizadores |
-| **Calzado** | Invierta en zapatos de calidad, cómodos — el único equipo más importante |
+| **Terreno** | Variedad (colinas, terreno irregular) engancha más músculos estabilizadores |
+| **Calzado** | Invierte en zapatos de calidad, cómodos — el único equipo más importante |
 
 ### Estrategias de Integración
 
 - Reuniones de caminata
-- Estacione más lejos, suba las escaleras
-- Camine después de cada comida (incluso 5 min ayuda)
-- Caminata matutina para establecer el ritmo circadiano (exposición a la luz exterior)
-- Caminata vespertina para la digestión y la preparación para el sueño
+- Estaciona más lejos, sube escaleras
+- Camina después de cada comida (incluso 5 min ayuda)
+- Camina por la mañana para establecer el ritmo circadiano (exposición a la luz exterior)
+- Camina por la noche para la digestión y la preparación para dormir
 
 ### Referencia Rápida
 
 | | |
 |---|---|
 | **Qué** | Caminata diaria |
-| **Cuánto** | 7,000–10,000 pasos/día |
+| **Cómo mucho** | 7,000–10,000 pasos/día |
 | **Evidencia** | ★★★★★ |
 | **Fuente antigua** | Hipócrates: "La caminata es la mejor medicina del hombre" |
-| **Costo** | Gratuito (solo zapatos son la inversión) |
+| **Costo** | Gratuito (solo calzado es la única inversión) |
 | **Insight clave** | Consistencia > intensidad. Caminata diaria > correr ocasional. |
+
+---
 
 ---
 
@@ -133,15 +141,17 @@ El movimiento como medicina: las dos prácticas con la evidencia más fuerte par
 
 | # | Práctica | Dosis | Evidencia | Fuente Antigua |
 |---|----------|------|----------|---------------|
-| 1 | Entrenamiento de Resistencia | 2–3×/semana, 30–45 min | ★★★★★ | Hipócrates, Avicena |
-| 2 | Caminata | 7,000–10,000 pasos/día | ★★★★★ | Hipócrates |
+| 1 | Fuente Antigua | — | — | — |
+| 2 | Entrenamiento de Resistencia | 2–3 sesiones por semana, 30–45 minutos | ★★★★★ | — |
+| 3 | Caminata | 7,000–10,000 pasos diarios | ★★★★★ | — |
 
 ---
 
 ## Referencias
 
-1. Hipócrates. *Aforismos*. ~400 a.C. Sección IV, Aforismo 3.
-2. Avicena. *El Canon de la Medicina*. 1025 d.C. Libro I, Capítulo 4.
-3. Leong DP, et al. Valor predictivo de la fuerza de agarre: hallazgos del estudio PURE. *Lancet*. 2015;386(9990):266-273. PMID: 25982160.
-4. Paluch AE, et al. Pasos diarios y mortalidad por todas las causas: un metaanálisis de 15 estudios de cohorte prospectivos. *JAMA Netw Open*. 2021;4(10):e2131633. PMID: 34477847.
-5. Lee IM, et al. Asociación de volumen de pasos e intensidad con mortalidad por todas las causas en mujeres mayores. *JAMA Intern Med*. 2019;179(8):1105-1112. PMID: 31141585.
+1. Leong et al., 2015, *Lancet* (estudio PURE, 140K adultos). PMID: 25982160.
+2. Srikanthan & Karlamangla, 2014, *Am J Med*. PMID: 24561114.
+3. Peterson et al., 2011, *Prev Med*. PMID: 35599175.
+4. Paluch et al., 2021, *JAMA Netw Open*. PMID: 34477847.
+5. Lee et al., 2019, *JAMA Intern Med*. PMID: 31141585.
+6. Saint-Maurice et al., 2020, *JAMA*. PMID: 32207799.
