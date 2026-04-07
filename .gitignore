@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Personal data (don't commit health data)
+trackers/*.personal.csv
+*.private.csv
+
+# Large files
+*.pdf
+*.zip
