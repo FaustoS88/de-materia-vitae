@@ -5,7 +5,8 @@
 <h1 align="center">De Materia Vitae</h1>
 
 <p align="center">
-  <strong>The Body Manual</strong> — ancient wisdom, modern evidence, daily practice.
+  Ancient wisdom × Modern evidence — an open-source, evidence-graded guide for healthspan and longevity.<br/>
+  <a href="https://demateriavitae.duckdns.org">demateriavitae.duckdns.org</a>
 </p>
 
 <p align="center">

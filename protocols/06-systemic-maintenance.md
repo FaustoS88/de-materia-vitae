@@ -27,7 +27,7 @@ Periodic maintenance of internal systems: deworming, testing schedules, and biom
 
 ### Modern Evidence
 
-See the full protocol: [→ Deworming Protocol](../deworming-protocol.md) (linked from the dedicated file in the health folder)
+For a comprehensive overview, see: Olds GR. "Deworming the World." *Trans Am Clin Climatol Assoc*. 2013;124:265-274. [PMID: 23874034](https://pubmed.ncbi.nlm.nih.gov/23874034/)
 
 **Summary:**
 
