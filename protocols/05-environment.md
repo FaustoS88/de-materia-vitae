@@ -112,15 +112,11 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 
 ---
 
----
-
-### Air Quality
-
-#### Dose
+## III. Air Quality
 
 **Dose:** Monitor AQI daily; HEPA filter indoors; ventilate after cooking
 
-#### Ancient Source
+### Ancient Source
 
 | Source | Text | Reference |
 |--------|------|-----------|
@@ -128,7 +124,7 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 | Avicenna, *Canon of Medicine*, 1025 AD | "Corrupt air, whether from stagnant water, rotting matter, or smoke, enters the lungs and poisons the spirit. One should seek dwelling places with clean, moving air and avoid areas near swamps, tanneries, or burning refuse." | Book I, Part 4 |
 | Galen, *On the Preservation of Health*, ~175 AD | "The air surrounding us contributes greatly to health or disease. Air polluted by smoke, dust, or the exhalations of marshes weakens the lungs and corrupts the humors." | Book I, Chapter 11 |
 
-#### Modern Evidence
+### Modern Evidence
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
@@ -138,11 +134,11 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 | Younan et al., 2020, *J Alzheimers Dis* | 10-year prospective study: higher traffic-related air pollution associated with 55% increased dementia risk (HR 1.55), ~20% mediated through type 2 diabetes | PMID: 32651321 |
 | Pathak et al., 2020, *Int J Environ Health Res* | Meta-analysis of 35 studies (73,122 participants): biomass cooking fuel increases COPD risk 2.65× and chronic bronchitis 2.89× | PMID: 30754998 |
 
-#### Evidence Summary
+### Evidence Summary
 
 **Evidence Summary:** ★★★★☆ (Strong) — Large cohort studies and meta-analyses establish clear dose-response relationships. RCT evidence for filtration interventions is growing but still limited.
 
-#### Mechanism
+### Mechanism
 
 - **PM2.5 systemic inflammation:** Fine particles (<2.5 μm) cross the alveolar barrier into the bloodstream → trigger vascular inflammation, accelerate atherosclerosis, increase thrombosis risk
 - **VOCs & formaldehyde:** Damage airway epithelial cells directly; form DNA adducts at chronic exposure levels → mutagenic potential; common sources include new furniture, cleaning products, building materials
@@ -150,7 +146,7 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 - **Oxidative stress cascade:** Inhaled pollutants generate reactive oxygen species (ROS) in lung tissue → systemic oxidative stress → lipid peroxidation, protein damage, chronic low-grade inflammation
 - **Cooking fume PAHs:** Polycyclic aromatic hydrocarbons from high-heat cooking (especially frying, grilling) damage lung epithelial DNA; chronic exposure without ventilation increases lung cancer risk even in non-smokers
 
-#### Protocol
+### Protocol
 
 | Parameter | Recommendation |
 |-----------|---------------|
@@ -161,7 +157,7 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 | **Commuting** | Keep car windows closed in traffic; use recirculate mode; consider cabin HEPA filter |
 | **Plants** | Limited evidence for air purification, but some VOC absorption (pothos, snake plant, peace lily) |
 
-#### Budget Tiers
+### Budget Tiers
 
 | Tier | US Baseline | Notes |
 |------|------------|-------|
