@@ -112,6 +112,65 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 
 ---
 
+---
+
+### Air Quality
+
+#### Dose
+
+**Dose:** Monitor AQI daily; HEPA filter indoors; ventilate after cooking
+
+#### Ancient Source
+
+| Source | Text | Reference |
+|--------|------|-----------|
+| Hippocrates, *Airs, Waters, Places*, ~400 BC | "Whoever wishes to investigate medicine properly should consider the seasons of the year, the winds, the quality of the waters, and the nature of the air in each locality. For the air we breathe has the greatest influence upon health." | Section 1 |
+| Avicenna, *Canon of Medicine*, 1025 AD | "Corrupt air, whether from stagnant water, rotting matter, or smoke, enters the lungs and poisons the spirit. One should seek dwelling places with clean, moving air and avoid areas near swamps, tanneries, or burning refuse." | Book I, Part 4 |
+| Galen, *On the Preservation of Health*, ~175 AD | "The air surrounding us contributes greatly to health or disease. Air polluted by smoke, dust, or the exhalations of marshes weakens the lungs and corrupts the humors." | Book I, Chapter 11 |
+
+#### Modern Evidence
+
+| Study | Finding | Reference |
+|-------|---------|-----------|
+| Pope et al., 2002, *JAMA* | Each 10 μg/m³ increase in PM2.5 associated with 4% higher all-cause mortality, 6% cardiopulmonary, 8% lung cancer — in ~500,000 adults over 16 years | PMID: 11879110 |
+| Nielsen et al., 2017, *Arch Toxicol* | Indoor formaldehyde above 0.1 mg/m³ causes airway inflammation and sensory irritation; WHO guideline of 0.08 ppm remains protective against cancer risk | PMID: 27209488 |
+| Young et al., 2023, *Ann Intern Med* | Randomized crossover trial: in-vehicle HEPA filtration reduced particles by 86% and lowered diastolic blood pressure by 4.7 mmHg within 1 hour | PMID: 38011704 |
+| Younan et al., 2020, *J Alzheimers Dis* | 10-year prospective study: higher traffic-related air pollution associated with 55% increased dementia risk (HR 1.55), ~20% mediated through type 2 diabetes | PMID: 32651321 |
+| Pathak et al., 2020, *Int J Environ Health Res* | Meta-analysis of 35 studies (73,122 participants): biomass cooking fuel increases COPD risk 2.65× and chronic bronchitis 2.89× | PMID: 30754998 |
+
+#### Evidence Summary
+
+**Evidence Summary:** ★★★★☆ (Strong) — Large cohort studies and meta-analyses establish clear dose-response relationships. RCT evidence for filtration interventions is growing but still limited.
+
+#### Mechanism
+
+- **PM2.5 systemic inflammation:** Fine particles (<2.5 μm) cross the alveolar barrier into the bloodstream → trigger vascular inflammation, accelerate atherosclerosis, increase thrombosis risk
+- **VOCs & formaldehyde:** Damage airway epithelial cells directly; form DNA adducts at chronic exposure levels → mutagenic potential; common sources include new furniture, cleaning products, building materials
+- **Ultrafine particles & neurodegeneration:** Particles <100 nm penetrate the blood-brain barrier and travel via the olfactory nerve → neuroinflammation, amyloid-β accumulation, accelerated cognitive decline
+- **Oxidative stress cascade:** Inhaled pollutants generate reactive oxygen species (ROS) in lung tissue → systemic oxidative stress → lipid peroxidation, protein damage, chronic low-grade inflammation
+- **Cooking fume PAHs:** Polycyclic aromatic hydrocarbons from high-heat cooking (especially frying, grilling) damage lung epithelial DNA; chronic exposure without ventilation increases lung cancer risk even in non-smokers
+
+#### Protocol
+
+| Parameter | Recommendation |
+|-----------|---------------|
+| **Monitor** | Check AQI daily (airnow.gov, IQAir, or local app); avoid outdoor exercise when AQI > 100 |
+| **Indoor filtration** | HEPA filter in bedroom (minimum); run during sleep and high-pollution days |
+| **Ventilation** | Open windows when outdoor AQI < 50; use exhaust hood when cooking |
+| **Cooking** | Always use range hood on high; avoid frying without ventilation; prefer induction over gas |
+| **Commuting** | Keep car windows closed in traffic; use recirculate mode; consider cabin HEPA filter |
+| **Plants** | Limited evidence for air purification, but some VOC absorption (pothos, snake plant, peace lily) |
+
+#### Budget Tiers
+
+| Tier | US Baseline | Notes |
+|------|------------|-------|
+| **Foundation** | $0 | Check AQI daily, open windows strategically, use exhaust hood when cooking |
+| **Essential** | ~$80–150 (one-time) + $20/yr filters | Portable HEPA air purifier for bedroom |
+| **Complete** | ~$300–600 + $60/yr | Multiple HEPA units, AQI monitor, range hood upgrade |
+
+---
+
 ## Quick Reference — Environment
 
 | # | Practice | Dose | Evidence | Ancient Source |
