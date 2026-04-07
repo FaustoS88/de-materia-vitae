@@ -20,7 +20,7 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 
 ---
 
-## I. Blue Light Management (Apricotte Protocol)
+## I. Blue Light Management
 
 **Dose:** During all screen exposure — 14+ hours/day for heavy users
 
@@ -48,9 +48,9 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 - **Circadian misalignment:** Disrupts cortisol rhythm, glucose metabolism, immune function, DNA repair cycles
 - **Digital eye strain:** Blue light scatters more in the eye, increasing accommodation effort → dryness, fatigue, headache
 
-### Apricotte Glasses Protocol
+### Blue Light Filtering Protocol
 
-**Brand:** Apricotte — lenses tested at EYCO laboratory (ENAC/EA traceable calibration), 3-year warranty, 25,000+ users since 2017.
+**What you need:** Blue light blocking glasses with interchangeable filters — a daytime lens (yellow) and an evening lens (red). Available from multiple brands.
 
 **Configuration: Clip-On System**
 - Base frame (clear, no prescription needed) + interchangeable clip-on filters
@@ -74,8 +74,8 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 | Tier | US Baseline | Notes |
 |------|------------|-------|
 | **Foundation** | $0 | Software filters (f.lux, Night Shift) — partial protection, doesn't help during daytime |
-| **Essential** | ~$40-60 (one-time) | Apricotte clip-on system (yellow + red lenses) |
-| **Complete** | ~$80-120 (one-time) | Premium Apricotte frames + all lens types + spare clips |
+| **Essential** | ~$40-60 (one-time) | Blue light blocking clip-on system (yellow + red lenses) |
+| **Complete** | ~$80-120 (one-time) | Premium blue light blocking frames + all lens types |
 
 ### Quick Reference
 
