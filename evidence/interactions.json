@@ -1,0 +1,197 @@
+{
+  "interactions": [
+    {
+      "substance": "Garlic (allicin)",
+      "interacts_with": "Warfarin and other anticoagulants",
+      "effect": "Increased bleeding risk — garlic has antiplatelet properties",
+      "severity": "Moderate",
+      "recommendation": "Monitor INR closely; consider reducing dose or avoiding high-dose garlic supplements"
+    },
+    {
+      "substance": "Garlic (allicin)",
+      "interacts_with": "HIV protease inhibitors (saquinavir)",
+      "effect": "Reduces saquinavir plasma levels by up to 54%",
+      "severity": "Severe",
+      "recommendation": "Avoid high-dose garlic supplements with saquinavir"
+    },
+    {
+      "substance": "Green tea (EGCG)",
+      "interacts_with": "Iron supplements / iron-rich meals",
+      "effect": "Reduces non-heme iron absorption by 25–70%",
+      "severity": "Mild",
+      "recommendation": "Take iron supplements 2+ hours apart from green tea"
+    },
+    {
+      "substance": "Green tea (EGCG)",
+      "interacts_with": "Warfarin",
+      "effect": "Green tea contains vitamin K; may reduce warfarin effectiveness",
+      "severity": "Moderate",
+      "recommendation": "Monitor INR; keep green tea intake consistent"
+    },
+    {
+      "substance": "Green tea (caffeine)",
+      "interacts_with": "Stimulants (ADHD medications, ephedrine)",
+      "effect": "Additive stimulant effect — increased heart rate, blood pressure, anxiety",
+      "severity": "Moderate",
+      "recommendation": "Limit green tea if taking stimulant medications"
+    },
+    {
+      "substance": "Wormwood (thujone)",
+      "interacts_with": "Anticonvulsants",
+      "effect": "Thujone is pro-convulsant at high doses; may reduce anticonvulsant effectiveness",
+      "severity": "Severe",
+      "recommendation": "Contraindicated in seizure disorders; avoid with anticonvulsants"
+    },
+    {
+      "substance": "Wormwood (thujone)",
+      "interacts_with": "Alcohol",
+      "effect": "May increase neurotoxic effects of thujone",
+      "severity": "Moderate",
+      "recommendation": "Avoid alcohol during wormwood protocol"
+    },
+    {
+      "substance": "Black walnut",
+      "interacts_with": "Blood thinners",
+      "effect": "May increase bleeding risk",
+      "severity": "Mild",
+      "recommendation": "Monitor if on anticoagulants"
+    },
+    {
+      "substance": "Cloves (eugenol)",
+      "interacts_with": "Warfarin and anticoagulants",
+      "effect": "Eugenol has antiplatelet properties; increased bleeding risk",
+      "severity": "Moderate",
+      "recommendation": "Monitor INR closely"
+    },
+    {
+      "substance": "Cloves (eugenol)",
+      "interacts_with": "Liver-metabolized drugs (CYP450 substrates)",
+      "effect": "High-dose eugenol may affect hepatic metabolism",
+      "severity": "Mild",
+      "recommendation": "Avoid exceeding recommended doses"
+    },
+    {
+      "substance": "Oil of oregano (carvacrol)",
+      "interacts_with": "Iron supplements",
+      "effect": "Reduces iron absorption",
+      "severity": "Mild",
+      "recommendation": "Take iron 2+ hours apart"
+    },
+    {
+      "substance": "Oil of oregano (carvacrol)",
+      "interacts_with": "Probiotics",
+      "effect": "Antimicrobial activity may kill beneficial bacteria",
+      "severity": "Mild",
+      "recommendation": "Take probiotics 2+ hours apart from oregano oil"
+    },
+    {
+      "substance": "Berberine",
+      "interacts_with": "CYP450-metabolized drugs (metformin, cyclosporine)",
+      "effect": "Inhibits CYP2D6 and CYP3A4; increases levels of many medications",
+      "severity": "Moderate to Severe",
+      "recommendation": "Consult physician; may need dose adjustments"
+    },
+    {
+      "substance": "Berberine",
+      "interacts_with": "Metformin",
+      "effect": "Additive blood glucose lowering — risk of hypoglycemia",
+      "severity": "Moderate",
+      "recommendation": "Monitor blood glucose; metformin dose may need reduction"
+    },
+    {
+      "substance": "Albendazole",
+      "interacts_with": "Cimetidine",
+      "effect": "Increases albendazole blood levels (may be desirable for systemic parasites)",
+      "severity": "Mild",
+      "recommendation": "Can be used intentionally for systemic parasites; monitor liver enzymes"
+    },
+    {
+      "substance": "Albendazole",
+      "interacts_with": "Praziquantel",
+      "effect": "Increases praziquantel levels by ~50%",
+      "severity": "Mild",
+      "recommendation": "Can be used intentionally for combined parasite treatment"
+    },
+    {
+      "substance": "Albendazole",
+      "interacts_with": "Dexamethasone",
+      "effect": "Increases albendazole levels",
+      "severity": "Mild",
+      "recommendation": "Monitor liver enzymes"
+    },
+    {
+      "substance": "Mebendazole",
+      "interacts_with": "Metronidazole",
+      "effect": "Significantly increased risk of Stevens-Johnson syndrome / toxic epidermal necrolysis",
+      "severity": "Contraindicated",
+      "recommendation": "DO NOT COMBINE"
+    },
+    {
+      "substance": "Mebendazole",
+      "interacts_with": "Carbamazepine, phenytoin",
+      "effect": "Reduced mebendazole levels",
+      "severity": "Moderate",
+      "recommendation": "May need extended treatment course"
+    },
+    {
+      "substance": "Leafy greens (vitamin K)",
+      "interacts_with": "Warfarin",
+      "effect": "Vitamin K antagonizes warfarin's anticoagulant effect",
+      "severity": "Moderate",
+      "recommendation": "Keep vitamin K intake consistent; don't suddenly increase or decrease"
+    },
+    {
+      "substance": "Omega-3 (EPA/DHA)",
+      "interacts_with": "Anticoagulants (warfarin, aspirin, clopidogrel)",
+      "effect": "Additive antiplatelet effect; slightly increased bleeding risk",
+      "severity": "Mild",
+      "recommendation": "Generally safe at 2–3 g/day; monitor at higher doses"
+    },
+    {
+      "substance": "Omega-3 (EPA/DHA)",
+      "interacts_with": "Blood pressure medications",
+      "effect": "Additive blood pressure lowering",
+      "severity": "Mild",
+      "recommendation": "Monitor blood pressure; may allow medication dose reduction"
+    },
+    {
+      "substance": "L-theanine (green tea)",
+      "interacts_with": "Blood pressure medications",
+      "effect": "Additive blood pressure lowering",
+      "severity": "Mild",
+      "recommendation": "Monitor blood pressure"
+    },
+    {
+      "substance": "Brazil nuts (selenium)",
+      "interacts_with": "Selenium supplements",
+      "effect": "Risk of selenium toxicity (>400 mcg/day) — 2 Brazil nuts = ~200 mcg",
+      "severity": "Moderate",
+      "recommendation": "Limit to 1–2 Brazil nuts/day; don't combine with selenium supplements"
+    },
+    {
+      "substance": "Diatomaceous earth",
+      "interacts_with": "Oral medications",
+      "effect": "May adsorb medications, reducing absorption",
+      "severity": "Moderate",
+      "recommendation": "Take medications 2+ hours apart from diatomaceous earth"
+    },
+    {
+      "substance": "Activated charcoal",
+      "interacts_with": "All oral medications and supplements",
+      "effect": "Adsorbs medications and supplements, reducing absorption by 30–80%",
+      "severity": "Severe",
+      "recommendation": "Take ALL medications/supplements 2–4 hours apart from activated charcoal"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-04-06",
+    "total_interactions": 26,
+    "severity_levels": {
+      "Contraindicated": "Never combine",
+      "Severe": "Combination may cause serious harm; avoid or closely monitor",
+      "Moderate": "Monitor and adjust as needed",
+      "Mild": "Be aware; usually manageable with timing adjustments"
+    },
+    "note": "This is not exhaustive. Always consult a pharmacist or physician for your specific medication list."
+  }
+}
