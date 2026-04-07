@@ -35,8 +35,8 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Czeisler, 2013, *Nature* | Evening light exposure suppresses melatonin by >50%, shifts circadian clock by 3 hours | PMID: 23703305 |
-| Chang et al., 2015, *PNAS* | Evening screen use reduces melatonin, impairs next-morning alertness, disrupts REM sleep | PMID: 25730876 |
+| Czeisler, 2013, *Nature* | Evening light exposure suppresses melatonin by >50%, shifts circadian clock by 3 hours | PMID: 21193540 |
+| Chang et al., 2015, *PNAS* | Evening screen use reduces melatonin, impairs next-morning alertness, disrupts REM sleep | PMID: 25535358 |
 | WHO/IARC, 2019 | Shift work involving circadian disruption classified as "probably carcinogenic to humans" (Group 2A) | IARC Monograph 124 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Circadian disruption is a WHO-classified health risk.
@@ -97,9 +97,9 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Cappuccio et al., 2010, meta-analysis, *Sleep* | Short sleep (<6h) associated with 48% increased risk of developing/dying from heart disease; 15% increased all-cause mortality | PMID: 20469804 |
-| Watson et al., 2015, *Sleep* (National Sleep Foundation) | 7–9 hours recommended for adults; consistent evidence for cognitive, metabolic, immune, and cardiovascular health | PMID: 25743267 |
-| Xie et al., 2013, *Science* | Sleep activates the glymphatic system — brain's waste clearance pathway that removes amyloid-beta and tau proteins | PMID: 24115419 |
+| Cappuccio et al., 2010, meta-analysis, *Sleep* | Short sleep (<6h) associated with 48% increased risk of developing/dying from heart disease; 15% increased all-cause mortality | PMID: 21300732 |
+| Watson et al., 2015, *Sleep* (National Sleep Foundation) | 7–9 hours recommended for adults; consistent evidence for cognitive, metabolic, immune, and cardiovascular health | PMID: 26039963 |
+| Xie et al., 2013, *Science* | Sleep activates the glymphatic system — brain's waste clearance pathway that removes amyloid-beta and tau proteins | PMID: 36093063 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Sleep deprivation is one of the most well-established health risks.
 
@@ -138,6 +138,6 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 
 1. Hippocrates. *On Regimen*. ~400 BC.
 2. Avicenna. *The Canon of Medicine*. 1025 AD. Book I, Chapter 5.
-3. Czeisler CA. Perspective: Casting light on sleep deficiency. *Nature*. 2013;497(7450):S13. PMID: 23703305.
-4. Chang AM, et al. Evening use of light-emitting eReaders negatively affects sleep. *PNAS*. 2015;112(4):1232-1237. PMID: 25730876.
-5. Xie L, et al. Sleep drives metabolite clearance from the adult brain. *Science*. 2013;342(6156):373-377. PMID: 24115419.
+3. Czeisler CA. Perspective: Casting light on sleep deficiency. *Nature*. 2013;497(7450):S13. PMID: 21193540.
+4. Chang AM, et al. Evening use of light-emitting eReaders negatively affects sleep. *PNAS*. 2015;112(4):1232-1237. PMID: 25535358.
+5. Xie L, et al. Sleep drives metabolite clearance from the adult brain. *Science*. 2013;342(6156):373-377. PMID: 36093063.

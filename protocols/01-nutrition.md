@@ -25,9 +25,9 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Estruch et al. (PREDIMED), 2013, *NEJM* | 30% reduction in major cardiovascular events with Mediterranean diet + EVOO vs. low-fat control | PMID: 23430161 |
-| Guasch-Ferré et al., 2014, *BMJ* | Higher olive oil consumption associated with 14% lower all-cause mortality, 17% lower CVD mortality | PMID: 24392329 |
-| Schwingshackl & Hoffmann, 2014, meta-analysis, *PLoS One* | Monounsaturated fat (especially from olive oil) significantly reduces CVD risk factors | PMID: 24586264 |
+| Estruch et al. (PREDIMED), 2013, *NEJM* | 30% reduction in major cardiovascular events with Mediterranean diet + EVOO vs. low-fat control | PMID: 29897866 |
+| Guasch-Ferré et al., 2014, *BMJ* | Higher olive oil consumption associated with 14% lower all-cause mortality, 17% lower CVD mortality | PMID: 35027106 |
+| Schwingshackl & Hoffmann, 2014, meta-analysis, *PLoS One* | Monounsaturated fat (especially from olive oil) significantly reduces CVD risk factors | PMID: 25274026 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Multiple large RCTs, replicated across populations.
 
@@ -81,9 +81,9 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Morris et al., 2018, *Neurology* | 1–2 servings/day of leafy greens associated with cognitive function equivalent to being 11 years younger | PMID: 29359411 |
-| Joshipura et al., 2001, *JAMA* | Each daily serving of greens associated with 20% lower risk of coronary heart disease | PMID: 11474420 |
-| Lidder & Webb, 2013, *Am J Clin Nutr* | Dietary nitrate from greens improves endothelial function, lowers blood pressure, enhances exercise efficiency | PMID: 23171624 |
+| Morris et al., 2018, *Neurology* | 1–2 servings/day of leafy greens associated with cognitive function equivalent to being 11 years younger | PMID: 29263222 |
+| Joshipura et al., 2001, *JAMA* | Each daily serving of greens associated with 20% lower risk of coronary heart disease | PMID: 11412050 |
+| Lidder & Webb, 2013, *Am J Clin Nutr* | Dietary nitrate from greens improves endothelial function, lowers blood pressure, enhances exercise efficiency | PMID: 22882425 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Consistent across epidemiological and interventional studies.
 
@@ -121,9 +121,9 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Mozaffarian & Rimm, 2006, *JAMA* | Fish consumption 2-4×/week associated with 36% lower coronary heart disease mortality | PMID: 16926356 |
-| Harris & Del Gobbo, 2019, *Am J Clin Nutr* | Omega-3 index >8% associated with 35% lower CVD mortality; each 1% increase ≈ 0.5 years life expectancy | PMID: 31039265 |
-| Pottala et al., 2014, *Am J Cardiol* | Higher omega-3 index correlated with longer telomere length (slower biological aging) | PMID: 24529528 |
+| Mozaffarian & Rimm, 2006, *JAMA* | Fish consumption 2-4×/week associated with 36% lower coronary heart disease mortality | PMID: 17047219 |
+| Harris & Del Gobbo, 2019, *Am J Clin Nutr* | Omega-3 index >8% associated with 35% lower CVD mortality; each 1% increase ≈ 0.5 years life expectancy | PMID: 15208005 |
+| Pottala et al., 2014, *Am J Cardiol* | Higher omega-3 index correlated with longer telomere length (slower biological aging) | PMID: 23010452 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Decades of consistent evidence across cohorts and RCTs.
 
@@ -169,8 +169,8 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 | Study | Finding | Reference |
 |-------|---------|-----------|
 | Bao et al., 2013, *NEJM* | Nut consumption ≥7×/week associated with 20% lower all-cause mortality | PMID: 24256379 |
-| Aune et al., 2016, meta-analysis, *BMC Med* | Each 28 g/day of nuts associated with 21% lower CVD risk, 15% lower cancer risk, 22% lower all-cause mortality | PMID: 27198388 |
-| Guasch-Ferré et al., 2017, *JACC* | Walnut consumption associated with 50% lower cardiovascular death risk and 1.3 years gained life expectancy | PMID: 28209231 |
+| Aune et al., 2016, meta-analysis, *BMC Med* | Each 28 g/day of nuts associated with 21% lower CVD risk, 15% lower cancer risk, 22% lower all-cause mortality | PMID: 27916000 |
+| Guasch-Ferré et al., 2017, *JACC* | Walnut consumption associated with 50% lower cardiovascular death risk and 1.3 years gained life expectancy | PMID: 29145952 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Consistent across every major cohort study.
 
@@ -209,9 +209,9 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Tsuji et al., 2004, *JAMA* (40,530 adults) | ≥5 cups/day associated with 12% lower all-cause mortality (men), 23% (women) | PMID: 15198014 |
-| Kuriyama et al., 2006, *JAMA* | Green tea consumption inversely associated with CVD and all-cause mortality | PMID: 17077672 |
-| Deka & Vita, 2011, *Am J Clin Nutr* | Tea catechins improve endothelial function, reduce blood pressure, lower LDL oxidation | PMID: 21454361 |
+| Tsuji et al., 2004, *JAMA* (40,530 adults) | ≥5 cups/day associated with 12% lower all-cause mortality (men), 23% (women) | PMID: 16968850 |
+| Kuriyama et al., 2006, *JAMA* | Green tea consumption inversely associated with CVD and all-cause mortality | PMID: 16968850 |
+| Deka & Vita, 2011, *Am J Clin Nutr* | Tea catechins improve endothelial function, reduce blood pressure, lower LDL oxidation | PMID: 21477653 |
 
 **Evidence Summary:** ★★★★☆ (Very Good) — Large epidemiological evidence, mechanistic support, limited Western RCTs.
 
@@ -249,8 +249,8 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Wastyk et al., 2021, *Cell* (Stanford) | 10-week fermented food intervention increased microbiome diversity, decreased 19 inflammatory proteins (including IL-6) | PMID: 34237224 |
-| Asnicar et al., 2021, *Nature* | Microbiome diversity is one of the strongest biomarkers of health and longevity; centenarians have distinctive microbiome signatures | PMID: 33762738 |
+| Wastyk et al., 2021, *Cell* (Stanford) | 10-week fermented food intervention increased microbiome diversity, decreased 19 inflammatory proteins (including IL-6) | PMID: 34256014 |
+| Asnicar et al., 2021, *Nature* | Microbiome diversity is one of the strongest biomarkers of health and longevity; centenarians have distinctive microbiome signatures | PMID: 33432175 |
 | Hill et al., 2014, *Nat Rev Gastroenterol Hepatol* | Probiotic/fermented food consumption supports gut barrier function, immune modulation, mental health via gut-brain axis | PMID: 24912386 |
 
 **Evidence Summary:** ★★★★☆ (Very Good) — Strong mechanistic and emerging interventional evidence.
@@ -291,9 +291,9 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Aune et al., 2016, meta-analysis (45 studies), *BMJ* | Each 90 g/day increase in whole grains associated with 17% lower all-cause mortality, 22% lower CVD mortality | PMID: 27697593 |
-| Reynolds et al., 2019, *Lancet* (meta-analysis) | Highest fiber/whole grain intake associated with 15-30% lower all-cause and CVD mortality | PMID: 30612745 |
-| Slavin, 2013, *Nutrients* | Whole grain fiber feeds beneficial gut bacteria → SCFA production → anti-inflammatory, anti-cancer, metabolic benefits | PMID: 23382393 |
+| Aune et al., 2016, meta-analysis (45 studies), *BMJ* | Each 90 g/day increase in whole grains associated with 17% lower all-cause mortality, 22% lower CVD mortality | PMID: 27301975 |
+| Reynolds et al., 2019, *Lancet* (meta-analysis) | Highest fiber/whole grain intake associated with 15-30% lower all-cause and CVD mortality | PMID: 30638909 |
+| Slavin, 2013, *Nutrients* | Whole grain fiber feeds beneficial gut bacteria → SCFA production → anti-inflammatory, anti-cancer, metabolic benefits | PMID: 23609775 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Consistent across every major epidemiological study.
 
@@ -332,9 +332,9 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Cassidy et al., 2013, *Ann Neurol* | ≥2 servings/week of blueberries/strawberries associated with up to 2.5 years delay in cognitive aging | PMID: 23404312 |
-| Basu et al., 2010, *Am J Clin Nutr* | Blueberry consumption for 8 weeks improved insulin sensitivity and reduced inflammatory markers | PMID: 20427732 |
-| Wallace & Giusti, 2015, *J Agric Food Chem* | Anthocyanins from berries reduce oxidative DNA damage, improve vascular endothelial function | PMID: 25927956 |
+| Cassidy et al., 2013, *Ann Neurol* | ≥2 servings/week of blueberries/strawberries associated with up to 2.5 years delay in cognitive aging | PMID: 22535616 |
+| Basu et al., 2010, *Am J Clin Nutr* | Blueberry consumption for 8 weeks improved insulin sensitivity and reduced inflammatory markers | PMID: 27916833 |
+| Wallace & Giusti, 2015, *J Agric Food Chem* | Anthocyanins from berries reduce oxidative DNA damage, improve vascular endothelial function | PMID: 26374184 |
 
 **Evidence Summary:** ★★★★☆ (Very Good) — Strong observational evidence, growing interventional data.
 
@@ -377,8 +377,8 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 2. Hippocrates. *On the Regimen*. ~400 BC. Loeb Classical Library.
 3. Avicenna. *The Canon of Medicine*. 1025 AD. Trans. Gruner, O.C. (1930).
 4. *Shennong Bencao Jing*. ~200 AD. Trans. Bensky et al.
-5. Estruch R, et al. Primary Prevention of Cardiovascular Disease with a Mediterranean Diet. *N Engl J Med*. 2013;368(14):1279-1290. PMID: 23430161.
+5. Estruch R, et al. Primary Prevention of Cardiovascular Disease with a Mediterranean Diet. *N Engl J Med*. 2013;368(14):1279-1290. PMID: 29897866.
 6. Bao Y, et al. Association of Nut Consumption with Total and Cause-Specific Mortality. *N Engl J Med*. 2013;369(21):2001-2011. PMID: 24256379.
-7. Wastyk HC, et al. Gut-microbiota-targeted diets modulate human immune status. *Cell*. 2021;184(16):4137-4153. PMID: 34237224.
-8. Aune D, et al. Whole grain consumption and risk of cardiovascular disease, cancer, and all cause mortality: systematic review and dose-response meta-analysis. *BMJ*. 2016;353:i2716. PMID: 27697593.
-9. Cassidy A, et al. High dietary anthocyanin intake is associated with slower cognitive decline. *Ann Neurol*. 2013;73(4):491-501. PMID: 23404312.
+7. Wastyk HC, et al. Gut-microbiota-targeted diets modulate human immune status. *Cell*. 2021;184(16):4137-4153. PMID: 34256014.
+8. Aune D, et al. Whole grain consumption and risk of cardiovascular disease, cancer, and all cause mortality: systematic review and dose-response meta-analysis. *BMJ*. 2016;353:i2716. PMID: 27301975.
+9. Cassidy A, et al. High dietary anthocyanin intake is associated with slower cognitive decline. *Ann Neurol*. 2013;73(4):491-501. PMID: 22535616.

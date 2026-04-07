@@ -28,9 +28,9 @@ Movement as medicine: the two practices with the strongest evidence for healthsp
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Leong et al., 2015, *Lancet* (PURE study, 140K adults) | Grip strength is a stronger predictor of all-cause mortality than systolic blood pressure | PMID: 26432304 |
-| Srikanthan & Karlamangla, 2014, *Am J Med* | Muscle mass index inversely associated with all-cause mortality in elderly | PMID: 24508377 |
-| Peterson et al., 2011, *Prev Med* | Resistance training associated with 23% reduction in all-cause mortality | PMID: 21195105 |
+| Leong et al., 2015, *Lancet* (PURE study, 140K adults) | Grip strength is a stronger predictor of all-cause mortality than systolic blood pressure | PMID: 25982160 |
+| Srikanthan & Karlamangla, 2014, *Am J Med* | Muscle mass index inversely associated with all-cause mortality in elderly | PMID: 24561114 |
+| Peterson et al., 2011, *Prev Med* | Resistance training associated with 23% reduction in all-cause mortality | PMID: 35599175 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Grip strength is one of the most validated biomarkers of aging.
 
@@ -82,9 +82,9 @@ Movement as medicine: the two practices with the strongest evidence for healthsp
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Paluch et al., 2021, *JAMA Netw Open* | Each 1,000-step increment associated with 6–36% lower mortality; benefits plateau ~7,000–10,000 steps | PMID: 34287614 |
-| Lee et al., 2019, *JAMA Intern Med* | 4,400 steps/day associated with 41% lower mortality vs. 2,700; benefit continues to ~7,500 | PMID: 31135876 |
-| Saint-Maurice et al., 2020, *JAMA* | 8,000 steps/day associated with 51% lower all-cause mortality vs. 4,000; 75% lower cardiovascular mortality | PMID: 32282010 |
+| Paluch et al., 2021, *JAMA Netw Open* | Each 1,000-step increment associated with 6–36% lower mortality; benefits plateau ~7,000–10,000 steps | PMID: 34477847 |
+| Lee et al., 2019, *JAMA Intern Med* | 4,400 steps/day associated with 41% lower mortality vs. 2,700; benefit continues to ~7,500 | PMID: 31141585 |
+| Saint-Maurice et al., 2020, *JAMA* | 8,000 steps/day associated with 51% lower all-cause mortality vs. 4,000; 75% lower cardiovascular mortality | PMID: 32207799 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Walking is the most studied and most accessible health intervention.
 
@@ -142,6 +142,6 @@ Movement as medicine: the two practices with the strongest evidence for healthsp
 
 1. Hippocrates. *Aphorisms*. ~400 BC. Section IV, Aphorism 3.
 2. Avicenna. *The Canon of Medicine*. 1025 AD. Book I, Chapter 4.
-3. Leong DP, et al. Prognostic value of grip strength: findings from the PURE study. *Lancet*. 2015;386(9990):266-273. PMID: 26432304.
-4. Paluch AE, et al. Daily Steps and All-Cause Mortality: A Meta-analysis of 15 Prospective Cohort Studies. *JAMA Netw Open*. 2021;4(10):e2131633. PMID: 34287614.
-5. Lee IM, et al. Association of Step Volume and Intensity With All-Cause Mortality in Older Women. *JAMA Intern Med*. 2019;179(8):1105-1112. PMID: 31135876.
+3. Leong DP, et al. Prognostic value of grip strength: findings from the PURE study. *Lancet*. 2015;386(9990):266-273. PMID: 25982160.
+4. Paluch AE, et al. Daily Steps and All-Cause Mortality: A Meta-analysis of 15 Prospective Cohort Studies. *JAMA Netw Open*. 2021;4(10):e2131633. PMID: 34477847.
+5. Lee IM, et al. Association of Step Volume and Intensity With All-Cause Mortality in Older Women. *JAMA Intern Med*. 2019;179(8):1105-1112. PMID: 31141585.

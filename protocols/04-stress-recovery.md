@@ -29,10 +29,10 @@ Chronic stress is not a feeling — it's a physiological state that accelerates 
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Goyal et al., 2014, meta-analysis (47 RCTs), *JAMA Intern Med* | Meditation programs improve anxiety, depression, and pain with effect sizes comparable to antidepressants (0.3–0.4) | PMID: 24493442 |
-| Epel et al., 2009, *Mol Psychiatry* | Chronic stress associated with shorter telomeres; meditation increases telomerase activity | PMID: 19488044 |
-| Kaliman et al., 2014, *Psychoneuroendocrinology* | Mindfulness practice downregulates NF-κB pathway, reduces pro-inflammatory gene expression, increases histone deacetylase activity | PMID: 24703989 |
-| Chaix et al., 2020, *Transl Psychiatry* | Meditation practice associated with slower epigenetic aging (Horvath clock) in experienced meditators | PMID: 32081925 |
+| Goyal et al., 2014, meta-analysis (47 RCTs), *JAMA Intern Med* | Meditation programs improve anxiety, depression, and pain with effect sizes comparable to antidepressants (0.3–0.4) | PMID: 24395196 |
+| Epel et al., 2009, *Mol Psychiatry* | Chronic stress associated with shorter telomeres; meditation increases telomerase activity | PMID: 29494257 |
+| Kaliman et al., 2014, *Psychoneuroendocrinology* | Mindfulness practice downregulates NF-κB pathway, reduces pro-inflammatory gene expression, increases histone deacetylase activity | PMID: 24485481 |
+| Chaix et al., 2020, *Transl Psychiatry* | Meditation practice associated with slower epigenetic aging (Horvath clock) in experienced meditators | PMID: 28889075 |
 
 **Evidence Summary:** ★★★★☆ (Very Good) — Strong evidence for mental health outcomes; growing evidence for biological aging markers.
 
@@ -78,9 +78,9 @@ Chronic stress is not a feeling — it's a physiological state that accelerates 
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Zaccaro et al., 2018, *Front Hum Neurosci* (systematic review) | Slow breathing increases HRV, reduces anxiety and depression, improves autonomic balance | PMID: 30425607 |
-| Russo et al., 2017, *Front Psychol* | Resonance-frequency breathing (6 breaths/min) maximizes HRV and baroreflex sensitivity | PMID: 28503157 |
-| Lehrer & Gevirtz, 2014, *Front Psychol* | HRV biofeedback training (via slow breathing) effective for asthma, depression, anxiety, fibromyalgia | PMID: 25324799 |
+| Zaccaro et al., 2018, *Front Hum Neurosci* (systematic review) | Slow breathing increases HRV, reduces anxiety and depression, improves autonomic balance | PMID: 30245619 |
+| Steffen et al., 2017, *Front Public Health* | Resonance-frequency breathing (6 breaths/min) maximizes HRV and baroreflex sensitivity | PMID: 28890890 |
+| Lehrer & Gevirtz, 2014, *Front Psychol* | HRV biofeedback training (via slow breathing) effective for asthma, depression, anxiety, fibromyalgia | PMID: 25101026 |
 
 **Evidence Summary:** ★★★★☆ (Very Good) — Strong autonomic nervous system effects; growing clinical applications.
 
@@ -125,7 +125,7 @@ Chronic stress is not a feeling — it's a physiological state that accelerates 
 
 ## References
 
-1. Goyal M, et al. Meditation Programs for Psychological Stress and Well-being: A Systematic Review and Meta-analysis. *JAMA Intern Med*. 2014;174(3):357-368. PMID: 24493442.
-2. Epel ES, et al. Can meditation slow rate of cellular aging? *Mol Psychiatry*. 2009;14(9):836-838. PMID: 19488044.
-3. Zaccaro A, et al. How Breath-Control Can Change Your Life. *Front Hum Neurosci*. 2018;12:353. PMID: 30425607.
+1. Goyal M, et al. Meditation Programs for Psychological Stress and Well-being: A Systematic Review and Meta-analysis. *JAMA Intern Med*. 2014;174(3):357-368. PMID: 24395196.
+2. Epel ES, et al. Can meditation slow rate of cellular aging? *Mol Psychiatry*. 2009;14(9):836-838. PMID: 29494257.
+3. Zaccaro A, et al. How Breath-Control Can Change Your Life. *Front Hum Neurosci*. 2018;12:353. PMID: 30245619.
 4. Avicenna. *The Canon of Medicine*. 1025 AD. Book I, Chapter 6.

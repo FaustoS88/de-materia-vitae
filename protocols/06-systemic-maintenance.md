@@ -134,9 +134,9 @@ Quick version:
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Wilkinson et al., 2020, *Cell Metab* | 10-hour TRE in humans improves metabolic health, reduces weight, improves blood pressure | PMID: 31883848 |
-| Sutton et al., 2018, *Cell Metab* | Early TRE (6-hr window, early dinner) improves insulin sensitivity, blood pressure, oxidative stress | PMID: 29754972 |
-| de Cabo & Mattson, 2019, *NEJM* (review) | Intermittent fasting improves glucose regulation, stress resistance, reduces inflammation | PMID: 31812668 |
+| Wilkinson et al., 2020, *Cell Metab* | 10-hour TRE in humans improves metabolic health, reduces weight, improves blood pressure | PMID: 31813824 |
+| Sutton et al., 2018, *Cell Metab* | Early TRE (6-hr window, early dinner) improves insulin sensitivity, blood pressure, oxidative stress | PMID: 29754952 |
+| de Cabo & Mattson, 2019, *NEJM* (review) | Intermittent fasting improves glucose regulation, stress resistance, reduces inflammation | PMID: 31881139 |
 
 **Evidence Summary:** ★★★★☆ (Very Good) — Strong metabolic benefits; longevity extension proven in animals, emerging in humans.
 
@@ -173,5 +173,5 @@ Quick version:
 
 1. Dioscorides. *De Materia Medica*. ~60 AD. Book III, Chapter 116.
 2. Avicenna. *The Canon of Medicine*. 1025 AD. Book II.
-3. de Cabo R, Mattson MP. Effects of Intermittent Fasting on Health, Aging, and Disease. *N Engl J Med*. 2019;381(26):2541-2551. PMID: 31812668.
-4. Wilkinson DS, et al. Ten-Hour Time-Restricted Eating Reduces Weight, Blood Pressure, and Atherogenic Lipids. *Cell Metab*. 2020;31(1):92-104. PMID: 31883848.
+3. de Cabo R, Mattson MP. Effects of Intermittent Fasting on Health, Aging, and Disease. *N Engl J Med*. 2019;381(26):2541-2551. PMID: 31881139.
+4. Wilkinson DS, et al. Ten-Hour Time-Restricted Eating Reduces Weight, Blood Pressure, and Atherogenic Lipids. *Cell Metab*. 2020;31(1):92-104. PMID: 31813824.

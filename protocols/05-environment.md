@@ -26,9 +26,9 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Grandjean & Landrigan, 2006, *Lancet* | Chemical contaminants (lead, arsenic, fluoride, PFAS) cause developmental neurotoxicity in millions of children worldwide | PMID: 16912107 |
-| Steenland et al., 2022, *Environ Health Perspect* | PFAS exposure associated with reduced vaccine response, increased cholesterol, liver damage, testicular/kidney cancer | PMID: 35200391 |
-| Calderon et al., 2006, *J Water Health* | Disinfection byproducts (trihalomethanes) in chlorinated water linked to increased bladder cancer risk | PMID: 16805409 |
+| Grandjean & Landrigan, 2006, *Lancet* | Chemical contaminants (lead, arsenic, fluoride, PFAS) cause developmental neurotoxicity in millions of children worldwide | PMID: 17174709 |
+| Steenland et al., 2022, *Environ Health Perspect* | PFAS exposure associated with reduced vaccine response, increased cholesterol, liver damage, testicular/kidney cancer | PMID: 33385391 |
+| Helte et al., 2025, *Environ Res* | Long-term exposure to disinfection byproducts in drinking water associated with increased cancer risk | PMID: 39837568 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Water contaminants are among the most well-documented environmental health risks.
 
@@ -78,9 +78,9 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Green et al., 2011, *J Clin Oncol* | Daily sunscreen use reduces squamous cell carcinoma by 40% and melanoma by 50% | PMID: 21606330 |
-| Hughes et al., 2013, *Ann Intern Med* (meta-analysis) | Daily sunscreen use prevents photoaging — the primary cause of visible skin aging | PMID: 23922064 |
-| Rittié & Fisher, 2005, *Am J Pathol* | UV radiation causes ~90% of visible skin aging via collagen/elastin degradation and MMP activation | PMID: 15972942 |
+| Green et al., 2011, *J Clin Oncol* | Daily sunscreen use reduces squamous cell carcinoma by 40% and melanoma by 50% | PMID: 21135266 |
+| Hughes et al., 2013, *Ann Intern Med* (meta-analysis) | Daily sunscreen use prevents photoaging — the primary cause of visible skin aging | PMID: 23732711 |
+| Rittié & Fisher, 2005, *Am J Pathol* | UV radiation causes ~90% of visible skin aging via collagen/elastin degradation and MMP activation | PMID: 12208239 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Sunscreen is the most proven topical anti-aging intervention in existence.
 
@@ -178,7 +178,7 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 
 ## References
 
-1. Grandjean P, Landrigan PJ. Developmental neurotoxicity of industrial chemicals. *Lancet*. 2006;368(9553):2167-2178. PMID: 16912107.
-2. Green AC, et al. Reduced melanoma after regular sunscreen use: randomized trial follow-up. *J Clin Oncol*. 2011;29(3):257-263. PMID: 21606330.
+1. Grandjean P, Landrigan PJ. Developmental neurotoxicity of industrial chemicals. *Lancet*. 2006;368(9553):2167-2178. PMID: 17174709.
+2. Green AC, et al. Reduced melanoma after regular sunscreen use: randomized trial follow-up. *J Clin Oncol*. 2011;29(3):257-263. PMID: 21135266.
 3. Hippocrates. *On Regimen*. ~400 BC. Book II.
 4. Avicenna. *The Canon of Medicine*. 1025 AD. Book III.
