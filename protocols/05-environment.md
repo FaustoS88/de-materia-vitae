@@ -10,6 +10,10 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 
 ---
 
+---
+
+---
+
 ## I. Water Filtration
 
 **Dose:** All drinking and cooking water
@@ -63,6 +67,10 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 
 ---
 
+---
+
+---
+
 ## II. Sun Protection
 
 **Dose:** Daily SPF 30+ to face, neck, and exposed skin
@@ -109,6 +117,10 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 | **Foundation** | $0 | Avoid peak sun (10 AM – 4 PM), wear hats and clothing |
 | **Essential** | ~$10-15/mo | Drugstore broad-spectrum SPF 30+ |
 | **Complete** | ~$20-30/mo | Premium mineral sunscreen, body coverage |
+
+---
+
+---
 
 ---
 
@@ -167,18 +179,30 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 
 ---
 
+---
+
+---
+
 ## Quick Reference — Environment
 
 | # | Practice | Dose | Evidence | Ancient Source |
 |---|----------|------|----------|---------------|
-| 1 | Water Filter | Always | ★★★★★ | Hippocrates, Sushruta Samhita |
-| 2 | Sunscreen SPF 30+ | Daily | ★★★★★ | Avicenna, Dioscorides |
+| 1 | Water Filtration | All drinking and cooking water | ★★★★★ | Hippocrates, Dioscorides |
+| 2 | Sun Protection | Daily SPF 30+ to face, neck, and exposed skin | ★★★★★ | Avicenna, Dioscorides |
+| 3 | Air Quality | Monitor AQI daily; HEPA filter indoors; ventilate after cooking | ★★★★☆ | Hippocrates, Avicenna, Galen |
 
 ---
 
 ## References
 
-1. Grandjean P, Landrigan PJ. Developmental neurotoxicity of industrial chemicals. *Lancet*. 2006;368(9553):2167-2178. PMID: 17174709.
-2. Green AC, et al. Reduced melanoma after regular sunscreen use: randomized trial follow-up. *J Clin Oncol*. 2011;29(3):257-263. PMID: 21135266.
-3. Hippocrates. *On Regimen*. ~400 BC. Book II.
-4. Avicenna. *The Canon of Medicine*. 1025 AD. Book III.
+1. Grandjean & Landrigan, 2006, *Lancet*. PMID: 17174709.
+2. Steenland et al., 2022, *Environ Health Perspect*. PMID: 33385391.
+3. Helte et al., 2025, *Environ Res*. PMID: 39837568.
+4. Green et al., 2011, *J Clin Oncol*. PMID: 21135266.
+5. Hughes et al., 2013, *Ann Intern Med* (meta-analysis). PMID: 23732711.
+6. Rittié & Fisher, 2005, *Am J Pathol*. PMID: 12208239.
+7. Pope et al., 2002, *JAMA*. PMID: 11879110.
+8. Nielsen et al., 2017, *Arch Toxicol*. PMID: 27209488.
+9. Young et al., 2023, *Ann Intern Med*. PMID: 38011704.
+10. Younan et al., 2020, *J Alzheimers Dis*. PMID: 32651321.
+11. Pathak et al., 2020, *Int J Environ Health Res*. PMID: 30754998.

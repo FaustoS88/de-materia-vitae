@@ -10,6 +10,8 @@ Chronic stress is not a feeling — it's a physiological state that accelerates 
 
 ---
 
+---
+
 ## Ancient Source
 
 | Source | Text | Reference |
@@ -18,6 +20,8 @@ Chronic stress is not a feeling — it's a physiological state that accelerates 
 | Avicenna, *Canon of Medicine*, 1025 AD | "Strong emotions, if prolonged, alter the temperament of the body and cause disease. The physician must attend to the patient's emotional state." | Book I, Chapter 6 |
 | *Charaka Samhita*, ~400 BC | "A balanced mind, free from fear, grief, anger, and pride, is the foundation of health." | Sutrasthana Chapter 30 |
 | Seneca, *On Anger*, ~50 AD | "The greatest remedy for anger is delay. No passion so interferes with clear judgment as anger." | Book II, Chapter 29 |
+
+---
 
 ---
 
@@ -70,6 +74,8 @@ Chronic stress is not a feeling — it's a physiological state that accelerates 
 
 ---
 
+---
+
 ## II. Breathwork
 
 **Dose:** 5–10 minutes, 1–2× daily
@@ -114,18 +120,24 @@ Chronic stress is not a feeling — it's a physiological state that accelerates 
 
 ---
 
+---
+
 ## Quick Reference — Stress & Recovery
 
 | # | Practice | Dose | Evidence | Ancient Source |
 |---|----------|------|----------|---------------|
-| 1 | Meditation | 10–20 min/day | ★★★★☆ | Hippocrates, Avicenna, Charaka Samhita |
-| 2 | Breathwork | 5–10 min, 1–2×/day | ★★★★☆ | Avicenna, Charaka Samhita |
+| 1 | Ancient Source | — | — | — |
+| 2 | Meditation | 10–20 minutes daily | ★★★★☆ | — |
+| 3 | Breathwork | 5–10 minutes, 1–2× daily | ★★★★☆ | — |
 
 ---
 
 ## References
 
-1. Goyal M, et al. Meditation Programs for Psychological Stress and Well-being: A Systematic Review and Meta-analysis. *JAMA Intern Med*. 2014;174(3):357-368. PMID: 24395196.
-2. Epel ES, et al. Can meditation slow rate of cellular aging? *Mol Psychiatry*. 2009;14(9):836-838. PMID: 29494257.
-3. Zaccaro A, et al. How Breath-Control Can Change Your Life. *Front Hum Neurosci*. 2018;12:353. PMID: 30245619.
-4. Avicenna. *The Canon of Medicine*. 1025 AD. Book I, Chapter 6.
+1. Goyal et al., 2014, meta-analysis (47 RCTs), *JAMA Intern Med*. PMID: 24395196.
+2. Epel et al., 2009, *Mol Psychiatry*. PMID: 29494257.
+3. Kaliman et al., 2014, *Psychoneuroendocrinology*. PMID: 24485481.
+4. Chaix et al., 2020, *Transl Psychiatry*. PMID: 28889075.
+5. Zaccaro et al., 2018, *Front Hum Neurosci* (systematic review). PMID: 30245619.
+6. Steffen et al., 2017, *Front Public Health*. PMID: 28890890.
+7. Lehrer & Gevirtz, 2014, *Front Psychol*. PMID: 25101026.

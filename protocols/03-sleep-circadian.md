@@ -10,6 +10,8 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 
 ---
 
+---
+
 ## Ancient Source
 
 | Source | Text | Reference |
@@ -17,6 +19,8 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 | Hippocrates, *On Regimen*, ~400 BC | "Sleep and wakefulness in excess are both unwholesome. Sleep should be taken in the night, and one should rise with the sun." | Book I |
 | Avicenna, *Canon of Medicine*, 1025 AD | "Sleep is necessary for digestion, growth, and the preservation of strength. It should be taken on the right side, in darkness and silence." | Book I, Chapter 5 |
 | *Charaka Samhita*, ~400 BC | "Sleep is the nourisher of all beings. From sleep are derived happiness and strength of body." | Sutrasthana Chapter 21 |
+
+---
 
 ---
 
@@ -89,6 +93,8 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 
 ---
 
+---
+
 ## II. Sleep Optimization
 
 **Dose:** 7–9 hours per night
@@ -125,19 +131,22 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 
 ---
 
-## Quick Reference — Sleep & Circadian
+---
+
+## Quick Reference — Sleep & Circadian Optimization
 
 | # | Practice | Dose | Evidence | Ancient Source |
 |---|----------|------|----------|---------------|
-| 1 | Blue Light Glasses | All screen time | ★★★★★ | Hippocrates, Avicenna |
-| 2 | Sleep (7–9h) | Nightly, consistent times | ★★★★★ | Hippocrates, Avicenna, Charaka Samhita |
+| 1 | Ancient Source | — | — | — |
+| 2 | Blue Light Management | During all screen exposure — 14+ hours/day for heavy users | ★★★★★ | Hippocrates, Avicenna |
+| 3 | Sleep Optimization | 7–9 hours per night | ★★★★★ | — |
 
 ---
 
 ## References
 
-1. Hippocrates. *On Regimen*. ~400 BC.
-2. Avicenna. *The Canon of Medicine*. 1025 AD. Book I, Chapter 5.
-3. Czeisler CA. Perspective: Casting light on sleep deficiency. *Nature*. 2013;497(7450):S13. PMID: 21193540.
-4. Chang AM, et al. Evening use of light-emitting eReaders negatively affects sleep. *PNAS*. 2015;112(4):1232-1237. PMID: 25535358.
-5. Xie L, et al. Sleep drives metabolite clearance from the adult brain. *Science*. 2013;342(6156):373-377. PMID: 36093063.
+1. Czeisler, 2013, *Nature*. PMID: 21193540.
+2. Chang et al., 2015, *PNAS*. PMID: 25535358.
+3. Cappuccio et al., 2010, meta-analysis, *Sleep*. PMID: 21300732.
+4. Watson et al., 2015, *Sleep* (National Sleep Foundation). PMID: 26039963.
+5. Xie et al., 2013, *Science*. PMID: 36093063.

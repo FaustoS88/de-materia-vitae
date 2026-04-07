@@ -10,6 +10,8 @@ Periodic maintenance of internal systems: deworming, testing schedules, and biom
 
 ---
 
+---
+
 ## I. Routine Deworming
 
 **Dose:** Natural protocol quarterly OR pharmaceutical protocol biannually
@@ -88,6 +90,8 @@ Quick version:
 
 ---
 
+---
+
 ## II. Testing Schedule
 
 ### Recommended Annual Biomarkers
@@ -115,6 +119,8 @@ Quick version:
 | **Dexa scan** | Bone density, body composition |
 | **Coronary calcium scan** | Atherosclerosis detection (age 40+) |
 | **Biological age clock** | GrimAge or DunedinPACE (epigenetic aging rate) |
+
+---
 
 ---
 
@@ -159,19 +165,20 @@ Quick version:
 
 ---
 
+---
+
 ## Quick Reference — Systemic Maintenance
 
 | # | Practice | Dose | Evidence | Ancient Source |
 |---|----------|------|----------|---------------|
-| 1 | Deworming | Quarterly–biannually | ★★★★★ (pharma) | Dioscorides, Avicenna, Sushruta |
-| 2 | Blood work | Annual | ★★★★★ | Modern only |
-| 3 | Time-Restricted Eating | 8–10 hr window | ★★★★☆ | Hippocrates, Avicenna, Charaka Samhita |
+| 1 | Routine Deworming | Natural protocol quarterly OR pharmaceutical protocol biannually | — | Dioscorides, Avicenna, Ebers Papyrus |
+| 2 | Testing Schedule | — | — | — |
+| 3 | Time-Restricted Eating | 8–10 hour eating window daily | ★★★★☆ | Hippocrates, Avicenna |
 
 ---
 
 ## References
 
-1. Dioscorides. *De Materia Medica*. ~60 AD. Book III, Chapter 116.
-2. Avicenna. *The Canon of Medicine*. 1025 AD. Book II.
-3. de Cabo R, Mattson MP. Effects of Intermittent Fasting on Health, Aging, and Disease. *N Engl J Med*. 2019;381(26):2541-2551. PMID: 31881139.
-4. Wilkinson DS, et al. Ten-Hour Time-Restricted Eating Reduces Weight, Blood Pressure, and Atherogenic Lipids. *Cell Metab*. 2020;31(1):92-104. PMID: 31813824.
+1. Wilkinson et al., 2020, *Cell Metab*. PMID: 31813824.
+2. Sutton et al., 2018, *Cell Metab*. PMID: 29754952.
+3. de Cabo & Mattson, 2019, *NEJM* (review). PMID: 31881139.

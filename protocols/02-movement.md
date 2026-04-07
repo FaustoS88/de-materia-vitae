@@ -10,6 +10,8 @@ Movement as medicine: the two practices with the strongest evidence for healthsp
 
 ---
 
+---
+
 ## Ancient Source
 
 | Source | Text | Reference |
@@ -17,6 +19,8 @@ Movement as medicine: the two practices with the strongest evidence for healthsp
 | Hippocrates, *On Regimen*, ~400 BC | "Walking is man's best medicine. All parts of the body which have a function, if used in moderation and exercised in labors to which each is accustomed, become healthy and well-developed." | Aphorism IV, 3 |
 | Dioscorides, *De Materia Medica*, ~60 AD | "Exercise before meals is beneficial for warming the body, promoting digestion, and strengthening the constitution." | Book I, Introduction |
 | Avicenna, *Canon of Medicine*, 1025 AD | "Exercise is that which is deliberate and purposeful, and it is necessary for the preservation of health. It should be practiced daily." | Book I, Chapter 4 |
+
+---
 
 ---
 
@@ -71,6 +75,8 @@ Movement as medicine: the two practices with the strongest evidence for healthsp
 | **Ancient source** | Hippocrates, Avicenna |
 | **Key biomarker** | Grip strength |
 | **Watch out for** | Start light, focus on form; injury derails everything |
+
+---
 
 ---
 
@@ -129,19 +135,23 @@ Movement as medicine: the two practices with the strongest evidence for healthsp
 
 ---
 
+---
+
 ## Quick Reference — Movement
 
 | # | Practice | Dose | Evidence | Ancient Source |
 |---|----------|------|----------|---------------|
-| 1 | Resistance Training | 2–3×/week, 30–45 min | ★★★★★ | Hippocrates, Avicenna |
-| 2 | Walking | 7,000–10,000 steps/day | ★★★★★ | Hippocrates |
+| 1 | Ancient Source | — | — | — |
+| 2 | Resistance Training | 2–3 sessions per week, 30–45 minutes | ★★★★★ | — |
+| 3 | Walking | 7,000–10,000 steps daily | ★★★★★ | — |
 
 ---
 
 ## References
 
-1. Hippocrates. *Aphorisms*. ~400 BC. Section IV, Aphorism 3.
-2. Avicenna. *The Canon of Medicine*. 1025 AD. Book I, Chapter 4.
-3. Leong DP, et al. Prognostic value of grip strength: findings from the PURE study. *Lancet*. 2015;386(9990):266-273. PMID: 25982160.
-4. Paluch AE, et al. Daily Steps and All-Cause Mortality: A Meta-analysis of 15 Prospective Cohort Studies. *JAMA Netw Open*. 2021;4(10):e2131633. PMID: 34477847.
-5. Lee IM, et al. Association of Step Volume and Intensity With All-Cause Mortality in Older Women. *JAMA Intern Med*. 2019;179(8):1105-1112. PMID: 31141585.
+1. Leong et al., 2015, *Lancet* (PURE study, 140K adults). PMID: 25982160.
+2. Srikanthan & Karlamangla, 2014, *Am J Med*. PMID: 24561114.
+3. Peterson et al., 2011, *Prev Med*. PMID: 35599175.
+4. Paluch et al., 2021, *JAMA Netw Open*. PMID: 34477847.
+5. Lee et al., 2019, *JAMA Intern Med*. PMID: 31141585.
+6. Saint-Maurice et al., 2020, *JAMA*. PMID: 32207799.

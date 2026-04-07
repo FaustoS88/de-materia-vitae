@@ -16,6 +16,92 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Rebuild Quick Reference + References
+        run: |
+          cat > /tmp/rebuild-refs.mjs << 'SCRIPT'
+          import { readFileSync, writeFileSync, readdirSync } from 'node:fs'
+          import { join } from 'node:path'
+
+          const PROTOCOLS = join(process.env.GITHUB_WORKSPACE, 'protocols')
+
+          function parseProtocol(content) {
+            const sections = [], parts = content.split(/(?=^## )/m)
+            let intro = '', quickRef = null, refs = null
+            for (const part of parts) {
+              const m = part.match(/^## (.+)/)
+              if (!m) { intro = part; continue }
+              const t = m[1].trim()
+              if (/^Quick Reference/i.test(t)) quickRef = part
+              else if (/^References$/i.test(t) || /^Riferimenti$/i.test(t) || /^Referencias$/i.test(t)) refs = part
+              else sections.push({ title: t, content: part })
+            }
+            return { intro, sections, quickRef, refs }
+          }
+
+          function extractData(section) {
+            const title = section.title.replace(/^[IVXLC]+\.\s*/, '').replace(/^\d+\.\s*/, '').trim()
+            const doseM = section.content.match(/\*\*Dose:\*\*\s*(.+)/i)
+            const dose = doseM ? doseM[1].trim() : '—'
+            const evM = section.content.match(/Evidence Summary:\*\*\s*(★+☆*)/i)
+            const evidence = evM ? evM[1] : '—'
+            const sources = []
+            const srcM = section.content.match(/### Ancient Source[\s\S]*?\|[\s\S]*?\|[\s\S]*?\|([\s\S]*?)(?=###|\n---|\n## )/i)
+            if (srcM) {
+              for (const row of srcM[1].split('\n').filter(r => r.trim().startsWith('|') && !r.includes('---'))) {
+                const c = row.split('|').filter(x => x.trim())
+                if (c.length >= 1) {
+                  const s = c[0].trim().replace(/\*[^*]*\*/g, '').split(',')[0].trim()
+                  if (s && !s.includes('Source') && !s.includes('---')) sources.push(s)
+                }
+              }
+            }
+            const pmids = []
+            const re = /\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*PMID:\s*(\d+)\s*\|/g
+            let pm
+            while ((pm = re.exec(section.content)) !== null) {
+              pmids.push({ study: pm[1].trim(), pmid: pm[3] })
+            }
+            return { title, dose, evidence, sources, pmids }
+          }
+
+          const files = readdirSync(PROTOCOLS).filter(f => f.endsWith('.md') && f !== '_template.md').sort()
+          for (const file of files) {
+            const path = join(PROTOCOLS, file)
+            const content = readFileSync(path, 'utf-8')
+            const { intro, sections } = parseProtocol(content)
+            if (!sections.length) continue
+            const data = sections.map(extractData)
+            const nameM = intro.match(/^# \d+\s*—\s*(.+)/m)
+            const name = nameM ? nameM[1].trim() : 'Protocol'
+            const qr = ['## Quick Reference — ' + name, '', '| # | Practice | Dose | Evidence | Ancient Source |', '|---|----------|------|----------|---------------|']
+            data.forEach((d, i) => qr.push(`| ${i+1} | ${d.title} | ${d.dose} | ${d.evidence} | ${d.sources.slice(0,3).join(', ') || '—'} |`))
+            const seen = new Set()
+            const refLines = ['## References', '']
+            let n = 1
+            for (const d of data) for (const p of d.pmids) {
+              if (seen.has(p.pmid)) continue
+              seen.add(p.pmid)
+              refLines.push(`${n++}. ${p.study}. PMID: ${p.pmid}.`)
+            }
+            const parts = [intro.trim(), ...sections.map(s => s.content.trim()), qr.join('\n')]
+            if (refLines.length > 2) parts.push(refLines.join('\n'))
+            writeFileSync(path, parts.join('\n\n---\n\n') + '\n', 'utf-8')
+            console.log(`  ${file}: ${data.length} sections, ${seen.size} refs`)
+          }
+          SCRIPT
+          node /tmp/rebuild-refs.mjs
+
+      - name: Commit rebuilt refs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add protocols/
+          if git diff --cached --quiet; then
+            echo "No reference changes"
+          else
+            git commit -m "chore: auto-rebuild Quick Reference + References [skip ci]"
+          fi
+
       - name: Translate protocols to IT + ES
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
@@ -68,14 +154,12 @@ jobs:
           SCRIPT
           node /tmp/translate.mjs
 
-      - name: Commit and push translations
+      - name: Commit and push all changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add translations/
+          git add translations/ protocols/
           if git diff --cached --quiet; then
-            echo "No translation changes"
+            echo "No changes"
           else
-            git commit -m "chore(i18n): auto-update IT/ES translations [skip ci]"
+            git commit -m "chore: auto-rebuild refs + update IT/ES translations [skip ci]"
             git push
           fi
