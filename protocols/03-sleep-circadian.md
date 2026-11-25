@@ -40,7 +40,7 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 | Study | Finding | Reference |
 |-------|---------|-----------|
 | Gooley et al., 2011, *J Clin Endocrinol Metab* | Room light before bedtime delayed melatonin onset and shortened melatonin duration by about 90 minutes; room light during usual sleep hours suppressed melatonin by more than 50% in most trials | PMID: 21193540 |
-| Chang et al., 2015, *PNAS* | Evening screen use reduces melatonin, impairs next-morning alertness, disrupts REM sleep | PMID: 25535358 |
+| Chang et al., 2015, *PNAS* | Reading a light-emitting eBook before bed, vs. a printed book, delayed sleep onset and circadian timing and reduced melatonin secretion and next-morning alertness | PMID: 25535358 |
 | WHO/IARC, 2019 | Shift work involving circadian disruption classified as "probably carcinogenic to humans" (Group 2A) | IARC Monograph 124 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Circadian disruption is a WHO-classified health risk.
@@ -104,7 +104,7 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 | Study | Finding | Reference |
 |-------|---------|-----------|
 | Cappuccio et al., 2011, meta-analysis, *Eur Heart J* | Short sleep associated with 48% higher risk of developing or dying from coronary heart disease and 15% higher risk of stroke | PMID: 21300732 |
-| Watson et al., 2015, *Sleep* (National Sleep Foundation) | 7–9 hours recommended for adults; consistent evidence for cognitive, metabolic, immune, and cardiovascular health | PMID: 26039963 |
+| Watson et al., 2015, *Sleep* (AASM/SRS consensus) | Joint AASM and SRS consensus recommendation on the amount of sleep adults need for optimal health | PMID: 26039963 |
 | Xie et al., 2013, *Science* | In mice, sleep was associated with a 60% larger interstitial space in the brain and faster β-amyloid clearance | PMID: 24136970 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Sleep deprivation is one of the most well-established health risks.
@@ -148,5 +148,5 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 1. Gooley et al., 2011, *J Clin Endocrinol Metab*. PMID: 21193540.
 2. Chang et al., 2015, *PNAS*. PMID: 25535358.
 3. Cappuccio et al., 2011, meta-analysis, *Eur Heart J*. PMID: 21300732.
-4. Watson et al., 2015, *Sleep* (National Sleep Foundation). PMID: 26039963.
+4. Watson et al., 2015, *Sleep* (AASM/SRS consensus). PMID: 26039963.
 5. Xie et al., 2013, *Science*. PMID: 24136970.

@@ -140,9 +140,9 @@ Quick version:
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Wilkinson et al., 2020, *Cell Metab* | 10-hour TRE in humans improves metabolic health, reduces weight, improves blood pressure | PMID: 31813824 |
+| Wilkinson et al., 2020, *Cell Metab* | In a single-arm trial of 19 patients with metabolic syndrome, 12 weeks of 10-hour TRE improved cardiometabolic health, with lower weight, blood pressure and atherogenic lipids | PMID: 31813824 |
 | Sutton et al., 2018, *Cell Metab* | Early TRE (6-hr window, early dinner) improves insulin sensitivity, blood pressure, oxidative stress | PMID: 29754952 |
-| de Cabo & Mattson, 2019, *NEJM* (review) | Intermittent fasting improves glucose regulation, stress resistance, reduces inflammation | PMID: 31881139 |
+| de Cabo & Mattson, 2019, *NEJM* (review) | Review of the effects of intermittent fasting on health, aging and disease | PMID: 31881139 |
 
 **Evidence Summary:** ★★★★☆ (Very Good) — Strong metabolic benefits; longevity extension proven in animals, emerging in humans.
 
