@@ -33,9 +33,9 @@ Lo stress cronico non è un sentimento — è uno stato fisiologico che accelera
 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
-| Goyal et al., 2014, meta-analisi (47 RCTs), *JAMA Intern Med* | I programmi di meditazione migliorano l'ansia, la depressione e il dolore con effetti di grandezza comparabili agli antidepressivi (0,3–0,4) | PMID: 24395196 |
+| Goyal et al., 2014, meta-analisi (47 RCTs), *JAMA Intern Med* | I programmi di meditazione mindfulness hanno migliorato ansia (dimensione dell'effetto 0,38) e depressione (0,30) a 8 settimane, e dolore (0,33); nessuna prova che superino i trattamenti attivi come farmaci o esercizio | PMID: 24395196 |
 | Epel & Prather, 2018, *Annu Rev Clin Psychol* | Lo stress psicologico cronico è esaminato come mediatore fra disturbi psichiatrici e telomeri più corti | PMID: 29494257 |
-| Kaliman et al., 2014, *Psychoneuroendocrinology* | La pratica di mindfulness riduce la via NF-κB, riduce l'espressione genica pro-infiammatoria, aumenta l'attività dell'enzima deacetilasi | PMID: 24485481 |
+| Kaliman et al., 2014, *Psychoneuroendocrinology* | Un giorno di pratica intensiva di mindfulness in meditatori esperti (19 contro 21 controlli) ha ridotto l'espressione dei geni delle istone deacetilasi (HDAC2, 3, 9) e dei geni pro-infiammatori (RIPK2, COX2) | PMID: 24485481 |
 | Chaix et al., 2017, *Psychoneuroendocrinology* | La pratica di meditazione è associata a un invecchiamento epigenetico più lento (orologio di Horvath) nei meditatori esperti | PMID: 28889075 |
 
 **Riassunto dell'Evidenza:** ★★★★☆ (Molto Buono) — Evidenza forte per gli esiti di salute mentale; crescente evidenza per i marcatori di invecchiamento biologico.
@@ -85,8 +85,8 @@ Lo stress cronico non è un sentimento — è uno stato fisiologico che accelera
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
 | Zaccaro et al., 2018, *Front Hum Neurosci* (revisione sistematica) | La respirazione lenta aumenta la HRV, riduce l'ansia e la depressione, migliora l'equilibrio autonomico | PMID: 30245619 |
-| Steffen et al., 2017, *Front Public Health* | La respirazione a frequenza di risonanza (6 respiri/min) massimizza la HRV e la sensibilità barorecettiva | PMID: 28890890 |
-| Lehrer & Gevirtz, 2014, *Front Psychol* | L'allenamento di feedback HRV (via respirazione lenta) efficace per l'asma, la depressione, l'ansia, la fibromialgia | PMID: 25101026 |
+| Steffen et al., 2017, *Front Public Health* | 15 minuti di respirazione alla frequenza di risonanza (circa 6 respiri al minuto) hanno migliorato l'umore positivo, alzato il rapporto LF/HF dell'HRV e abbassato la pressione sistolica durante e dopo il test PASAT, rispetto ai controlli | PMID: 28890890 |
+| Lehrer & Gevirtz, 2014, *Front Psychol* | Rassegna sul biofeedback HRV: condizioni diverse come asma e depressione sembrano rispondere; il meccanismo possibile più sostenuto è il rafforzamento dell'omeostasi barocettiva | PMID: 25101026 |
 
 **Riassunto dell'Evidenza:** ★★★★☆ (Molto Buono) — Evidenza forte per gli effetti del sistema nervoso autonomo; crescente applicazione clinica.
 

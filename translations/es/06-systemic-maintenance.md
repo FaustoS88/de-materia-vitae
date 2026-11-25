@@ -140,9 +140,9 @@ Versión rápida:
 
 | Estudio | Encontró | Referencia |
 |---------|----------|------------|
-| Wilkinson et al., 2020, *Cell Metab* | TRE de 10 horas en humanos mejora la salud metabólica, reduce el peso, mejora la presión arterial | PMID: 31813824 |
+| Wilkinson et al., 2020, *Cell Metab* | En un ensayo de un solo grupo con 19 pacientes con síndrome metabólico, 12 semanas de TRE de 10 horas mejoraron la salud cardiometabólica, con menor peso, presión arterial y lípidos aterogénicos | PMID: 31813824 |
 | Sutton et al., 2018, *Cell Metab* | TRE temprano (ventana de 6 horas, cena temprana) mejora la sensibilidad a la insulina, la presión arterial, el estrés oxidativo | PMID: 29754952 |
-| de Cabo & Mattson, 2019, *NEJM* (revisión) | Ayuno intermitente mejora la regulación glucémica, la resistencia al estrés, reduce la inflamación | PMID: 31881139 |
+| de Cabo & Mattson, 2019, *NEJM* (revisión) | Revisión de los efectos del ayuno intermitente sobre la salud, el envejecimiento y la enfermedad | PMID: 31881139 |
 
 **Resumen de la Evidencia:** ★★★★☆ (Muy Bueno) — Beneficios metabólicos sólidos; extensión de la longevidad probada en animales, emergente en humanos.
 

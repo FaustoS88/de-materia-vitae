@@ -33,9 +33,9 @@ El estrés crónico no es una sensación — es un estado fisiológico que acele
 
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
-| Goyal et al., 2014, meta-análisis (47 RCTs), *JAMA Intern Med* | Los programas de meditación mejoran la ansiedad, la depresión y el dolor con tamaños de efecto comparables a los antidepresivos (0,3–0,4) | PMID: 24395196 |
+| Goyal et al., 2014, meta-análisis (47 RCTs), *JAMA Intern Med* | Los programas de meditación mindfulness mejoraron la ansiedad (tamaño del efecto 0,38) y la depresión (0,30) a las 8 semanas, y el dolor (0,33); sin pruebas de que superen a tratamientos activos como fármacos o ejercicio | PMID: 24395196 |
 | Epel & Prather, 2018, *Annu Rev Clin Psychol* | El estrés psicológico crónico se revisa como mediador entre los trastornos psiquiátricos y los telómeros más cortos | PMID: 29494257 |
-| Kaliman et al., 2014, *Psychoneuroendocrinology* | La práctica de la atención plena regula la vía de NF-κB, reduce la expresión de genes pro-inflamatorios, aumenta la actividad de la histona desacetilasa | PMID: 24485481 |
+| Kaliman et al., 2014, *Psychoneuroendocrinology* | Un día de práctica intensiva de mindfulness en meditadores experimentados (19 frente a 21 controles) redujo la expresión de los genes de las histona desacetilasas (HDAC2, 3, 9) y de genes proinflamatorios (RIPK2, COX2) | PMID: 24485481 |
 | Chaix et al., 2017, *Psychoneuroendocrinology* | La práctica de la meditación se asocia con una edad epigenética más lenta (reloj de Horvath) en meditadores experimentados | PMID: 28889075 |
 
 **Resumen de la Evidencia:** ★★★★☆ (Muy Bueno) — Evidencia fuerte para los resultados de salud mental; creciente evidencia para los marcadores de envejecimiento biológico.
@@ -85,8 +85,8 @@ El estrés crónico no es una sensación — es un estado fisiológico que acele
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
 | Zaccaro et al., 2018, *Front Hum Neurosci* (revisión sistemática) | La respiración lenta aumenta la HRV, reduce la ansiedad y la depresión, mejora el equilibrio autónomo | PMID: 30245619 |
-| Steffen et al., 2017, *Front Public Health* | La respiración de frecuencia de resonancia (6 respiraciones/min) maximiza la HRV y la sensibilidad del reflejo barorregulador | PMID: 28890890 |
-| Lehrer & Gevirtz, 2014, *Front Psychol* | El entrenamiento de biofeedback de HRV (a través de respiración lenta) es efectivo para el asma, la depresión, la ansiedad, la fibromialgia | PMID: 25101026 |
+| Steffen et al., 2017, *Front Public Health* | 15 minutos de respiración a la frecuencia de resonancia (unas 6 respiraciones por minuto) mejoraron el estado de ánimo positivo, elevaron el cociente LF/HF de la HRV y bajaron la presión sistólica durante y después de la prueba PASAT, frente a los controles | PMID: 28890890 |
+| Lehrer & Gevirtz, 2014, *Front Psychol* | Revisión sobre el biofeedback de HRV: afecciones tan distintas como el asma y la depresión parecen responder; el posible mecanismo con más apoyo es el refuerzo de la homeostasis barorreceptora | PMID: 25101026 |
 
 **Resumen de la Evidencia:** ★★★★☆ (Muy Bueno) — Evidencia fuerte para los efectos del sistema nervioso autónomo; creciente aplicación clínica.
 

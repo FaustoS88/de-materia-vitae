@@ -85,7 +85,7 @@ Ocho alimentos dietéticos con la evidencia más fuerte para la extensión de la
 
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
-| Morris et al., 2018, *Neurology* | 1–2 porciones al día de verduras verdes asociadas con función cognitiva equivalente a ser 11 años más joven | PMID: 29263222 |
+| Morris et al., 2018, *Neurology* | El mayor consumo de verduras de hoja verde (mediana de 1,3 raciones al día) asociado a un deterioro cognitivo más lento, equivalente a tener 11 años menos | PMID: 29263222 |
 | Joshipura et al., 2001, *Ann Intern Med* | Cada porción diaria de verduras verdes asociada con un 20% menor riesgo de enfermedad cardíaca coronaria | PMID: 11412050 |
 | Lidder & Webb, 2013, *Br J Clin Pharmacol* | Nitrato dietético de las verduras mejora la función endotelial, reduce la presión arterial, mejora la eficiencia del ejercicio | PMID: 22882425 |
 
@@ -127,7 +127,7 @@ Ocho alimentos dietéticos con la evidencia más fuerte para la extensión de la
 
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
-| Mozaffarian & Rimm, 2006, *JAMA* | Consumo de pescado 2-4 veces a la semana asociado con un 36% menor mortalidad por enfermedad cardíaca coronaria | PMID: 17047219 |
+| Mozaffarian & Rimm, 2006, *JAMA* | Un consumo moderado de pescado (por ejemplo, 1-2 raciones a la semana), sobre todo de especies ricas en EPA y DHA, reduce el riesgo de muerte coronaria un 36% y la mortalidad total un 17% | PMID: 17047219 |
 | Harris et al., 2017, *Atherosclerosis* | Cada desviación estándar más del índice omega-3 asociada a un riesgo un 15% menor de muerte por cardiopatía coronaria; pasar del 4% al 8% se estima que reduce el riesgo en torno a un 30% | PMID: 28511049 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — Décadas de evidencia consistente en cohortes y RCT.
@@ -177,7 +177,7 @@ Ocho alimentos dietéticos con la evidencia más fuerte para la extensión de la
 |-------|---------|-----------|
 | Bao et al., 2013, *NEJM* | Consumo de frutos secos ≥7 veces a la semana asociado con un 20% menor mortalidad por todas las causas | PMID: 24256379 |
 | Aune et al., 2016, meta-análisis, *BMC Med* | Cada 28 g/día de frutos secos asociado con un 21% menor riesgo de CVD, un 15% menor riesgo de cáncer, un 22% menor riesgo de mortalidad por todas las causas | PMID: 27916000 |
-| Guasch-Ferré et al., 2017, *JACC* | Consumo de nueces asociado con un 50% menor riesgo de muerte cardiovascular y 1,3 años de vida adicional | PMID: 29145952 |
+| Guasch-Ferré et al., 2017, *JACC* | Nueces 1 o más veces por semana (y cacahuetes u otros frutos secos 2 o más veces por semana) asociadas a un riesgo un 13-19% menor de enfermedad cardiovascular y un 15-23% menor de cardiopatía coronaria en 3 grandes cohortes | PMID: 29145952 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — Consistente en cada estudio de cohorte importante.
 
@@ -260,8 +260,8 @@ Ocho alimentos dietéticos con la evidencia más fuerte para la extensión de la
 
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
-| Wastyk et al., 2021, *Cell* (Stanford) | Intervención de 10 semanas con alimentos fermentados aumentó la diversidad del microbioma, redujo 19 proteínas inflamatorias (incluida la IL-6) | PMID: 34256014 |
-| Hill et al., 2014, *Nat Rev Gastroenterol Hepatol* | El consumo de probióticos/alimentos fermentados apoya la función de barrera del intestino, la modulación inmunológica, la salud mental a través del eje cerebro-intestino | PMID: 24912386 |
+| Wastyk et al., 2021, *Cell* (Stanford) | En un estudio aleatorizado de 17 semanas (18 personas por grupo), una dieta rica en alimentos fermentados aumentó de forma constante la diversidad de la microbiota y redujo los marcadores inflamatorios | PMID: 34256014 |
+| Hill et al., 2014, *Nat Rev Gastroenterol Hepatol* | El consenso de expertos de la ISAPP confirmó la definición FAO/OMS de probiótico (microorganismos vivos que, administrados en cantidades adecuadas, confieren un beneficio para la salud del huésped) y aclaró el alcance del término | PMID: 24912386 |
 
 **Resumen de la Evidencia:** ★★★★☆ (Muy Bueno) — Evidencia mecánica y emergente de intervención.
 
@@ -303,9 +303,9 @@ Ocho alimentos dietéticos con la evidencia más fuerte para la extensión de la
 
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
-| Aune et al., 2016, meta-análisis (45 estudios), *BMJ* | Cada 90 g/día de granos enteros asociado con un 17% menor mortalidad por todas las causas, un 22% menor mortalidad por CVD | PMID: 27301975 |
+| Aune et al., 2016, meta-análisis (45 estudios), *BMJ* | Cada aumento de 90 g al día de cereales integrales asociado a una mortalidad total un 17% menor y a un riesgo de enfermedad cardiovascular un 22% menor | PMID: 27301975 |
 | Reynolds et al., 2019, *Lancet* (meta-análisis) | Mayor consumo de fibra/granos enteros asociado con un 15-30% menor mortalidad por todas las causas y CVD | PMID: 30638909 |
-| Slavin, 2013, *Nutrients* | Fibra de grano entero alimenta bacterias beneficiosas → producción de SCFA (butirato) → beneficios antiinflamatorios, anticancerígenos, metabólicos | PMID: 23609775 |
+| Slavin, 2013, *Nutrients* | Las fibras prebióticas resisten la digestión en el intestino delgado y la flora intestinal las fermenta en el colon; el trigo y el maíz integrales tienen efectos prebióticos; un mayor consumo de fibra se asocia a menos enfermedad cardiovascular y a un peso corporal más bajo | PMID: 23609775 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — Consistente en cada estudio de cohorte importante.
 

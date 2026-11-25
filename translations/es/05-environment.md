@@ -30,7 +30,7 @@ Protegiendo el cuerpo de daños ambientales. Agua limpia, protección UV y calid
 
 | Estudio | Hallazgo | Referencia |
 |---------|----------|-----------|
-| Grandjean & Landrigan, 2006, *Lancet* | Contaminantes químicos (plomo, arsénico, flúor, PFAS) causan neurotoxicidad del desarrollo en millones de niños en todo el mundo | PMID: 17174709 |
+| Grandjean & Landrigan, 2006, *Lancet* | Algunas sustancias químicas industriales (plomo, metilmercurio, PCB, arsénico, tolueno) son causas reconocidas de trastornos del neurodesarrollo; se sabe que otras 200 causan efectos neurotóxicos en adultos | PMID: 17174709 |
 | Steenland & Winquist, 2021, *Environ Res* | Entre los cánceres, el de testículo y el de riñón tienen la mayor evidencia epidemiológica para los PFAS; en conjunto la evidencia sigue siendo escasa | PMID: 33385391 |
 | Helte et al., 2025, *Environ Health Perspect* | La exposición a largo plazo a productos de desinfección por descomposición en el agua de beber se asocia con un aumento del riesgo de cáncer | PMID: 39837568 |
 
@@ -86,8 +86,8 @@ Protegiendo el cuerpo de daños ambientales. Agua limpia, protección UV y calid
 
 | Estudio | Hallazgo | Referencia |
 |---------|----------|-----------|
-| Green et al., 2011, *J Clin Oncol* | El uso diario de protector solar reduce el carcinoma de células escamosas en un 40% y el melanoma en un 50% | PMID: 21135266 |
-| Hughes et al., 2013, *Ann Intern Med* (meta-análisis) | El uso diario de protector solar previene la fotoenvejecimiento — la principal causa del envejecimiento visible de la piel | PMID: 23732711 |
+| Green et al., 2011, *J Clin Oncol* | En un ensayo aleatorizado con 1.621 adultos, el uso diario de protector solar fue seguido, 10 años después del final del ensayo, por la mitad de la tasa de melanomas nuevos, en el límite de la significación (HR 0,50, IC 95% 0,24-1,02), y por menos melanomas invasivos (HR 0,27) | PMID: 21135266 |
+| Hughes et al., 2013, *Ann Intern Med* (ensayo aleatorizado) | En 903 adultos menores de 55 años, con el uso diario de protector solar no se detectó aumento del envejecimiento cutáneo en 4,5 años, y el envejecimiento fue un 24% menor que con el uso a discreción | PMID: 23732711 |
 | Rittié & Fisher, 2002, *Ageing Res Rev* | La radiación UV activa AP-1 y las MMP en la piel, aumenta la degradación del colágeno y reduce su síntesis | PMID: 12208239 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — El protector solar es la intervención anti-envejecimiento tópica más probada que existe.
@@ -141,7 +141,7 @@ Protegiendo el cuerpo de daños ambientales. Agua limpia, protección UV y calid
 | Estudio | Hallazgo | Referencia |
 |---------|----------|-----------|
 | Pope et al., 2002, *JAMA* | Cada aumento de 10 μg/m³ en PM2.5 se asocia con un 4% mayor mortalidad por todas las causas, un 6% mayor mortalidad cardiopulmonar y un 8% mayor mortalidad por cáncer de pulmón — en ~500,000 adultos durante 16 años | PMID: 11879110 |
-| Nielsen et al., 2017, *Arch Toxicol* | El formaldehído en el interior a 0,1 mg/m³ causa inflamación de vías respiratorias y irritación sensorial; La guía de la OMS de 0,08 ppm sigue siendo protectora contra el riesgo de cáncer | PMID: 27209488 |
+| Nielsen et al., 2017, *Arch Toxicol* | La guía de la OMS para el formaldehído en interiores, 0,1 mg/m³, previene la inflamación de las vías respiratorias y la irritación sensorial; los nuevos estudios sobre cáncer desde 2013 no la han cuestionado | PMID: 27209488 |
 | Young et al., 2023, *Ann Intern Med* | Ensayo cruzado aleatorio: la filtración HEPA en vehículos redujo las partículas en un 86% y disminuyó la presión arterial diastólica en 4,7 mmHg dentro de 1 hora | PMID: 38011704 |
 | Paul et al., 2020, *J Alzheimers Dis* | Estudio prospectivo de 10 años: la exposición a la contaminación del aire relacionada con el tráfico se asoció con un 55% mayor riesgo de demencia (HR 1,55), ~20% mediado a través de la diabetes tipo 2 | PMID: 32651321 |
 | Pathak et al., 2020, *Int J Environ Health Res* | Meta-análisis de 35 estudios (73,122 participantes): el uso de combustible de cocina de biomasa aumentó el riesgo de EPOC en 2,65× y el cáncer de bronquitis en 2,89× | PMID: 30754998 |
@@ -199,7 +199,7 @@ Protegiendo el cuerpo de daños ambientales. Agua limpia, protección UV y calid
 2. Steenland & Winquist, 2021, *Environ Res*. PMID: 33385391.
 3. Helte et al., 2025, *Environ Health Perspect*. PMID: 39837568.
 4. Green et al., 2011, *J Clin Oncol*. PMID: 21135266.
-5. Hughes et al., 2013, *Ann Intern Med* (meta-análisis). PMID: 23732711.
+5. Hughes et al., 2013, *Ann Intern Med* (ensayo aleatorizado). PMID: 23732711.
 6. Rittié & Fisher, 2002, *Ageing Res Rev*. PMID: 12208239.
 7. Pope et al., 2002, *JAMA*. PMID: 11879110.
 8. Nielsen et al., 2017, *Arch Toxicol*. PMID: 27209488.

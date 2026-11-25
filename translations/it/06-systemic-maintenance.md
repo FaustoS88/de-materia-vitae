@@ -140,9 +140,9 @@ Versione rapida:
 
 | Studio | Trovazione | Riferimento |
 |-------|---------|-----------|
-| Wilkinson et al., 2020, *Cell Metab* | 10 ore di TRE in esseri umani migliorano la salute metabolica, riducono il peso, migliorano la pressione sanguigna | PMID: 31813824 |
+| Wilkinson et al., 2020, *Cell Metab* | In uno studio a braccio singolo su 19 pazienti con sindrome metabolica, 12 settimane di TRE a 10 ore hanno migliorato la salute cardiometabolica, con peso, pressione e lipidi aterogeni più bassi | PMID: 31813824 |
 | Sutton et al., 2018, *Cell Metab* | TRE precoce (6 ore di finestra, cena presto) migliora la sensibilità all'insulina, la pressione sanguigna, lo stress ossidativo | PMID: 29754952 |
-| de Cabo & Mattson, 2019, *NEJM* (recensione) | Astenza intermittente migliora la regolazione del glucosio, la resistenza allo stress, riduce l'inflamazione | PMID: 31881139 |
+| de Cabo & Mattson, 2019, *NEJM* (rassegna) | Rassegna sugli effetti del digiuno intermittente su salute, invecchiamento e malattie | PMID: 31881139 |
 
 **Riassunto dell'Evidenza:** ★★★★☆ (Molto Buono) — Forti benefici metabolici; estensione della longevità dimostrata negli animali, emergente negli esseri umani.
 
@@ -181,4 +181,4 @@ Versione rapida:
 
 1. Wilkinson et al., 2020, *Cell Metab*. PMID: 31813824.
 2. Sutton et al., 2018, *Cell Metab*. PMID: 29754952.
-3. de Cabo & Mattson, 2019, *NEJM* (recensione). PMID: 31881139.
+3. de Cabo & Mattson, 2019, *NEJM* (rassegna). PMID: 31881139.
