@@ -27,7 +27,7 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Estruch et al. (PREDIMED), 2013, *NEJM* | 30% reduction in major cardiovascular events with Mediterranean diet + EVOO vs. low-fat control | PMID: 29897866 |
+| Estruch et al. (PREDIMED), 2018, *NEJM* | 30% reduction in major cardiovascular events with Mediterranean diet + EVOO vs. low-fat control | PMID: 29897866 |
 | Guasch-Ferré et al., 2014, *BMJ* | Higher olive oil consumption associated with 14% lower all-cause mortality, 17% lower CVD mortality | PMID: 35027106 |
 | Schwingshackl & Hoffmann, 2014, meta-analysis, *PLoS One* | Monounsaturated fat (especially from olive oil) significantly reduces CVD risk factors | PMID: 25274026 |
 
@@ -86,8 +86,8 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 | Study | Finding | Reference |
 |-------|---------|-----------|
 | Morris et al., 2018, *Neurology* | 1–2 servings/day of leafy greens associated with cognitive function equivalent to being 11 years younger | PMID: 29263222 |
-| Joshipura et al., 2001, *JAMA* | Each daily serving of greens associated with 20% lower risk of coronary heart disease | PMID: 11412050 |
-| Lidder & Webb, 2013, *Am J Clin Nutr* | Dietary nitrate from greens improves endothelial function, lowers blood pressure, enhances exercise efficiency | PMID: 22882425 |
+| Joshipura et al., 2001, *Ann Intern Med* | Each daily serving of greens associated with 20% lower risk of coronary heart disease | PMID: 11412050 |
+| Lidder & Webb, 2013, *Br J Clin Pharmacol* | Dietary nitrate from greens improves endothelial function, lowers blood pressure, enhances exercise efficiency | PMID: 22882425 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Consistent across epidemiological and interventional studies.
 
@@ -219,7 +219,7 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Tsuji et al., 2004, *JAMA* (40,530 adults) | ≥5 cups/day associated with 12% lower all-cause mortality (men), 23% (women) | PMID: 16968850 |
+| Kuriyama et al., 2006, *JAMA* (40,530 adults) | ≥5 cups/day associated with 12% lower all-cause mortality (men), 23% (women) | PMID: 16968850 |
 | Kuriyama et al., 2006, *JAMA* | Green tea consumption inversely associated with CVD and all-cause mortality | PMID: 16968850 |
 | Deka & Vita, 2011, *Am J Clin Nutr* | Tea catechins improve endothelial function, reduce blood pressure, lower LDL oxidation | PMID: 21477653 |
 
@@ -391,19 +391,19 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 ## References
 
-1. Estruch et al. (PREDIMED), 2013, *NEJM*. PMID: 29897866.
+1. Estruch et al. (PREDIMED), 2018, *NEJM*. PMID: 29897866.
 2. Guasch-Ferré et al., 2014, *BMJ*. PMID: 35027106.
 3. Schwingshackl & Hoffmann, 2014, meta-analysis, *PLoS One*. PMID: 25274026.
 4. Morris et al., 2018, *Neurology*. PMID: 29263222.
-5. Joshipura et al., 2001, *JAMA*. PMID: 11412050.
-6. Lidder & Webb, 2013, *Am J Clin Nutr*. PMID: 22882425.
+5. Joshipura et al., 2001, *Ann Intern Med*. PMID: 11412050.
+6. Lidder & Webb, 2013, *Br J Clin Pharmacol*. PMID: 22882425.
 7. Mozaffarian & Rimm, 2006, *JAMA*. PMID: 17047219.
 8. Harris & Del Gobbo, 2019, *Am J Clin Nutr*. PMID: 15208005.
 9. Pottala et al., 2014, *Am J Cardiol*. PMID: 23010452.
 10. Bao et al., 2013, *NEJM*. PMID: 24256379.
 11. Aune et al., 2016, meta-analysis, *BMC Med*. PMID: 27916000.
 12. Guasch-Ferré et al., 2017, *JACC*. PMID: 29145952.
-13. Tsuji et al., 2004, *JAMA* (40,530 adults). PMID: 16968850.
+13. Kuriyama et al., 2006, *JAMA* (40,530 adults). PMID: 16968850.
 14. Deka & Vita, 2011, *Am J Clin Nutr*. PMID: 21477653.
 15. Wastyk et al., 2021, *Cell* (Stanford). PMID: 34256014.
 16. Asnicar et al., 2021, *Nature*. PMID: 33432175.
