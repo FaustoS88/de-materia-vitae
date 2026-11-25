@@ -28,8 +28,8 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 | Study | Finding | Reference |
 |-------|---------|-----------|
 | Estruch et al. (PREDIMED), 2018, *NEJM* | 30% reduction in major cardiovascular events with Mediterranean diet + EVOO vs. low-fat control | PMID: 29897866 |
-| Guasch-Ferré et al., 2014, *BMJ* | Higher olive oil consumption associated with 14% lower all-cause mortality, 17% lower CVD mortality | PMID: 35027106 |
-| Schwingshackl & Hoffmann, 2014, meta-analysis, *PLoS One* | Monounsaturated fat (especially from olive oil) significantly reduces CVD risk factors | PMID: 25274026 |
+| Guasch-Ferré et al., 2022, *JACC* | More than ½ tablespoon/day of olive oil associated with 19% lower all-cause and 19% lower cardiovascular mortality vs. never or rarely | PMID: 35027106 |
+| Schwingshackl & Hoffmann, 2014, meta-analysis, *Lipids Health Dis* | Highest vs. lowest intake of MUFA, olive oil and oleic acid associated with 11% lower all-cause and 12% lower cardiovascular mortality; in subgroups only olive oil was significant | PMID: 25274026 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Multiple large RCTs, replicated across populations.
 
@@ -128,7 +128,7 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 | Study | Finding | Reference |
 |-------|---------|-----------|
 | Mozaffarian & Rimm, 2006, *JAMA* | Fish consumption 2-4×/week associated with 36% lower coronary heart disease mortality | PMID: 17047219 |
-| Harris & Del Gobbo, 2019, *Am J Clin Nutr* | Omega-3 index >8% associated with 35% lower CVD mortality; each 1% increase ≈ 0.5 years life expectancy | PMID: 15208005 |
+| Harris et al., 2017, *Atherosclerosis* | Each 1-SD higher omega-3 index associated with 15% lower risk of fatal coronary heart disease; moving from 4% to 8% estimated at about 30% lower risk | PMID: 28511049 |
 | Pottala et al., 2014, *Am J Cardiol* | Higher omega-3 index correlated with longer telomere length (slower biological aging) | PMID: 23010452 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Decades of consistent evidence across cohorts and RCTs.
@@ -221,7 +221,7 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 |-------|---------|-----------|
 | Kuriyama et al., 2006, *JAMA* (40,530 adults) | ≥5 cups/day associated with 12% lower all-cause mortality (men), 23% (women) | PMID: 16968850 |
 | Kuriyama et al., 2006, *JAMA* | Green tea consumption inversely associated with CVD and all-cause mortality | PMID: 16968850 |
-| Deka & Vita, 2011, *Am J Clin Nutr* | Tea catechins improve endothelial function, reduce blood pressure, lower LDL oxidation | PMID: 21477653 |
+| Deka & Vita, 2011, *Pharmacol Res* | Tea has favorable effects on endothelial function and cardiovascular risk factors; observational data on disease are mixed | PMID: 21477653 |
 
 **Evidence Summary:** ★★★★☆ (Very Good) — Large epidemiological evidence, mechanistic support, limited Western RCTs.
 
@@ -348,8 +348,8 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Cassidy et al., 2013, *Ann Neurol* | ≥2 servings/week of blueberries/strawberries associated with up to 2.5 years delay in cognitive aging | PMID: 22535616 |
-| Basu et al., 2010, *Am J Clin Nutr* | Blueberry consumption for 8 weeks improved insulin sensitivity and reduced inflammatory markers | PMID: 27916833 |
+| Devore et al., 2012, *Ann Neurol* | Higher intake of blueberries and strawberries associated with up to 2.5 years delay in cognitive aging | PMID: 22535616 |
+| Basu et al., 2010, *J Nutr* | In adults with metabolic syndrome, 8 weeks of blueberries lowered systolic (−6%) and diastolic (−4%) blood pressure and oxidized LDL (−28%); glucose and lipids were not affected | PMID: 20660279 |
 | Wallace & Giusti, 2015, *J Agric Food Chem* | Anthocyanins from berries reduce oxidative DNA damage, improve vascular endothelial function | PMID: 26374184 |
 
 **Evidence Summary:** ★★★★☆ (Very Good) — Strong observational evidence, growing interventional data.
@@ -392,25 +392,25 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 ## References
 
 1. Estruch et al. (PREDIMED), 2018, *NEJM*. PMID: 29897866.
-2. Guasch-Ferré et al., 2014, *BMJ*. PMID: 35027106.
-3. Schwingshackl & Hoffmann, 2014, meta-analysis, *PLoS One*. PMID: 25274026.
+2. Guasch-Ferré et al., 2022, *JACC*. PMID: 35027106.
+3. Schwingshackl & Hoffmann, 2014, meta-analysis, *Lipids Health Dis*. PMID: 25274026.
 4. Morris et al., 2018, *Neurology*. PMID: 29263222.
 5. Joshipura et al., 2001, *Ann Intern Med*. PMID: 11412050.
 6. Lidder & Webb, 2013, *Br J Clin Pharmacol*. PMID: 22882425.
 7. Mozaffarian & Rimm, 2006, *JAMA*. PMID: 17047219.
-8. Harris & Del Gobbo, 2019, *Am J Clin Nutr*. PMID: 15208005.
+8. Harris et al., 2017, *Atherosclerosis*. PMID: 28511049.
 9. Pottala et al., 2014, *Am J Cardiol*. PMID: 23010452.
 10. Bao et al., 2013, *NEJM*. PMID: 24256379.
 11. Aune et al., 2016, meta-analysis, *BMC Med*. PMID: 27916000.
 12. Guasch-Ferré et al., 2017, *JACC*. PMID: 29145952.
 13. Kuriyama et al., 2006, *JAMA* (40,530 adults). PMID: 16968850.
-14. Deka & Vita, 2011, *Am J Clin Nutr*. PMID: 21477653.
+14. Deka & Vita, 2011, *Pharmacol Res*. PMID: 21477653.
 15. Wastyk et al., 2021, *Cell* (Stanford). PMID: 34256014.
 16. Asnicar et al., 2021, *Nature*. PMID: 33432175.
 17. Hill et al., 2014, *Nat Rev Gastroenterol Hepatol*. PMID: 24912386.
 18. Aune et al., 2016, meta-analysis (45 studies), *BMJ*. PMID: 27301975.
 19. Reynolds et al., 2019, *Lancet* (meta-analysis). PMID: 30638909.
 20. Slavin, 2013, *Nutrients*. PMID: 23609775.
-21. Cassidy et al., 2013, *Ann Neurol*. PMID: 22535616.
-22. Basu et al., 2010, *Am J Clin Nutr*. PMID: 27916833.
+21. Devore et al., 2012, *Ann Neurol*. PMID: 22535616.
+22. Basu et al., 2010, *J Nutr*. PMID: 20660279.
 23. Wallace & Giusti, 2015, *J Agric Food Chem*. PMID: 26374184.

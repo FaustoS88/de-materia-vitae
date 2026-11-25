@@ -34,7 +34,7 @@ Movement as medicine: the two practices with the strongest evidence for healthsp
 |-------|---------|-----------|
 | Leong et al., 2015, *Lancet* (PURE study, 140K adults) | Grip strength is a stronger predictor of all-cause mortality than systolic blood pressure | PMID: 25982160 |
 | Srikanthan & Karlamangla, 2014, *Am J Med* | Muscle mass index inversely associated with all-cause mortality in elderly | PMID: 24561114 |
-| Peterson et al., 2011, *Prev Med* | Resistance training associated with 23% reduction in all-cause mortality | PMID: 35599175 |
+| Shailendra et al., 2022, *Am J Prev Med* | Any resistance training associated with 15% lower all-cause mortality, with the largest reduction (27%) at about 60 minutes per week | PMID: 35599175 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Grip strength is one of the most validated biomarkers of aging.
 
@@ -151,7 +151,7 @@ Movement as medicine: the two practices with the strongest evidence for healthsp
 
 1. Leong et al., 2015, *Lancet* (PURE study, 140K adults). PMID: 25982160.
 2. Srikanthan & Karlamangla, 2014, *Am J Med*. PMID: 24561114.
-3. Peterson et al., 2011, *Prev Med*. PMID: 35599175.
+3. Shailendra et al., 2022, *Am J Prev Med*. PMID: 35599175.
 4. Paluch et al., 2021, *JAMA Netw Open*. PMID: 34477847.
 5. Lee et al., 2019, *JAMA Intern Med*. PMID: 31141585.
 6. Saint-Maurice et al., 2020, *JAMA*. PMID: 32207799.

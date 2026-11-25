@@ -31,7 +31,7 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 | Study | Finding | Reference |
 |-------|---------|-----------|
 | Grandjean & Landrigan, 2006, *Lancet* | Chemical contaminants (lead, arsenic, fluoride, PFAS) cause developmental neurotoxicity in millions of children worldwide | PMID: 17174709 |
-| Steenland et al., 2022, *Environ Health Perspect* | PFAS exposure associated with reduced vaccine response, increased cholesterol, liver damage, testicular/kidney cancer | PMID: 33385391 |
+| Steenland & Winquist, 2021, *Environ Res* | Among cancers, testicular and kidney cancer have the most epidemiologic evidence for PFAS; overall evidence remains sparse | PMID: 33385391 |
 | Helte et al., 2025, *Environ Health Perspect* | Long-term exposure to disinfection byproducts in drinking water associated with increased cancer risk | PMID: 39837568 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Water contaminants are among the most well-documented environmental health risks.
@@ -88,7 +88,7 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 |-------|---------|-----------|
 | Green et al., 2011, *J Clin Oncol* | Daily sunscreen use reduces squamous cell carcinoma by 40% and melanoma by 50% | PMID: 21135266 |
 | Hughes et al., 2013, *Ann Intern Med* (meta-analysis) | Daily sunscreen use prevents photoaging — the primary cause of visible skin aging | PMID: 23732711 |
-| Rittié & Fisher, 2005, *Am J Pathol* | UV radiation causes ~90% of visible skin aging via collagen/elastin degradation and MMP activation | PMID: 12208239 |
+| Rittié & Fisher, 2002, *Ageing Res Rev* | UV radiation activates AP-1 and MMPs in skin, increasing collagen degradation and reducing collagen synthesis | PMID: 12208239 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Sunscreen is the most proven topical anti-aging intervention in existence.
 
@@ -196,11 +196,11 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 ## References
 
 1. Grandjean & Landrigan, 2006, *Lancet*. PMID: 17174709.
-2. Steenland et al., 2022, *Environ Health Perspect*. PMID: 33385391.
+2. Steenland & Winquist, 2021, *Environ Res*. PMID: 33385391.
 3. Helte et al., 2025, *Environ Health Perspect*. PMID: 39837568.
 4. Green et al., 2011, *J Clin Oncol*. PMID: 21135266.
 5. Hughes et al., 2013, *Ann Intern Med* (meta-analysis). PMID: 23732711.
-6. Rittié & Fisher, 2005, *Am J Pathol*. PMID: 12208239.
+6. Rittié & Fisher, 2002, *Ageing Res Rev*. PMID: 12208239.
 7. Pope et al., 2002, *JAMA*. PMID: 11879110.
 8. Nielsen et al., 2017, *Arch Toxicol*. PMID: 27209488.
 9. Young et al., 2023, *Ann Intern Med*. PMID: 38011704.

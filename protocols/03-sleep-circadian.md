@@ -39,7 +39,7 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Czeisler, 2013, *Nature* | Evening light exposure suppresses melatonin by >50%, shifts circadian clock by 3 hours | PMID: 21193540 |
+| Gooley et al., 2011, *J Clin Endocrinol Metab* | Room light before bedtime delayed melatonin onset and shortened melatonin duration by about 90 minutes; room light during usual sleep hours suppressed melatonin by more than 50% in most trials | PMID: 21193540 |
 | Chang et al., 2015, *PNAS* | Evening screen use reduces melatonin, impairs next-morning alertness, disrupts REM sleep | PMID: 25535358 |
 | WHO/IARC, 2019 | Shift work involving circadian disruption classified as "probably carcinogenic to humans" (Group 2A) | IARC Monograph 124 |
 
@@ -103,9 +103,9 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Cappuccio et al., 2010, meta-analysis, *Sleep* | Short sleep (<6h) associated with 48% increased risk of developing/dying from heart disease; 15% increased all-cause mortality | PMID: 21300732 |
+| Cappuccio et al., 2011, meta-analysis, *Eur Heart J* | Short sleep associated with 48% higher risk of developing or dying from coronary heart disease and 15% higher risk of stroke | PMID: 21300732 |
 | Watson et al., 2015, *Sleep* (National Sleep Foundation) | 7–9 hours recommended for adults; consistent evidence for cognitive, metabolic, immune, and cardiovascular health | PMID: 26039963 |
-| Xie et al., 2013, *Science* | Sleep activates the glymphatic system — brain's waste clearance pathway that removes amyloid-beta and tau proteins | PMID: 36093063 |
+| Xie et al., 2013, *Science* | In mice, sleep was associated with a 60% larger interstitial space in the brain and faster β-amyloid clearance | PMID: 24136970 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Sleep deprivation is one of the most well-established health risks.
 
@@ -145,8 +145,8 @@ Sleep is the single most effective daily intervention for healthspan. Circadian 
 
 ## References
 
-1. Czeisler, 2013, *Nature*. PMID: 21193540.
+1. Gooley et al., 2011, *J Clin Endocrinol Metab*. PMID: 21193540.
 2. Chang et al., 2015, *PNAS*. PMID: 25535358.
-3. Cappuccio et al., 2010, meta-analysis, *Sleep*. PMID: 21300732.
+3. Cappuccio et al., 2011, meta-analysis, *Eur Heart J*. PMID: 21300732.
 4. Watson et al., 2015, *Sleep* (National Sleep Foundation). PMID: 26039963.
-5. Xie et al., 2013, *Science*. PMID: 36093063.
+5. Xie et al., 2013, *Science*. PMID: 24136970.

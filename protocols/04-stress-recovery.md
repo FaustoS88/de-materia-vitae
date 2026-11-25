@@ -34,7 +34,7 @@ Chronic stress is not a feeling — it's a physiological state that accelerates 
 | Study | Finding | Reference |
 |-------|---------|-----------|
 | Goyal et al., 2014, meta-analysis (47 RCTs), *JAMA Intern Med* | Meditation programs improve anxiety, depression, and pain with effect sizes comparable to antidepressants (0.3–0.4) | PMID: 24395196 |
-| Epel et al., 2009, *Mol Psychiatry* | Chronic stress associated with shorter telomeres; meditation increases telomerase activity | PMID: 29494257 |
+| Epel & Prather, 2018, *Annu Rev Clin Psychol* | Chronic psychological stress is reviewed as a mediator between psychiatric disorders and shorter telomeres | PMID: 29494257 |
 | Kaliman et al., 2014, *Psychoneuroendocrinology* | Mindfulness practice downregulates NF-κB pathway, reduces pro-inflammatory gene expression, increases histone deacetylase activity | PMID: 24485481 |
 | Chaix et al., 2017, *Psychoneuroendocrinology* | Meditation practice associated with slower epigenetic aging (Horvath clock) in experienced meditators | PMID: 28889075 |
 
@@ -135,7 +135,7 @@ Chronic stress is not a feeling — it's a physiological state that accelerates 
 ## References
 
 1. Goyal et al., 2014, meta-analysis (47 RCTs), *JAMA Intern Med*. PMID: 24395196.
-2. Epel et al., 2009, *Mol Psychiatry*. PMID: 29494257.
+2. Epel & Prather, 2018, *Annu Rev Clin Psychol*. PMID: 29494257.
 3. Kaliman et al., 2014, *Psychoneuroendocrinology*. PMID: 24485481.
 4. Chaix et al., 2017, *Psychoneuroendocrinology*. PMID: 28889075.
 5. Zaccaro et al., 2018, *Front Hum Neurosci* (systematic review). PMID: 30245619.
