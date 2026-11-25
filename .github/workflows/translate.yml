@@ -53,7 +53,7 @@ jobs:
 
           const ROOT = process.env.GITHUB_WORKSPACE
           const LANGS = { it: 'Italian', es: 'Spanish' }
-          const MODEL = 'llama-3.1-8b-instant'
+          const MODEL = 'openai/gpt-oss-120b'
           const API = 'https://api.groq.com/openai/v1/chat/completions'
 
           async function translate(markdown, langName) {
@@ -116,9 +116,9 @@ jobs:
           git push --force origin "$branch"
           # The bot's PR does not trigger check-citations.yml, so the result goes on the commit as a status
           state=$([ "$code" -eq 0 ] && echo success || echo failure)
-          gh api "repos/$GITHUB_REPOSITORY/statuses/$(git rev-parse HEAD)" \
+          gh api --silent "repos/$GITHUB_REPOSITORY/statuses/$(git rev-parse HEAD)" \
             -f state="$state" -f context=check-citations -f description="${summary:0:140}" -f target_url="$run"
           gh pr view "$branch" > /dev/null 2>&1 || gh pr create --base develop --head "$branch" \
             --title "Translate $short to IT and ES" \
-            --body "$(printf 'Machine translation (Groq `llama-3.1-8b-instant`) of the protocols changed in %s: %s.\n\nCitation check: %s\n\nRun: %s' "$GITHUB_SHA" "$TODO" "$summary" "$run")"
+            --body "$(printf 'Machine translation (Groq `openai/gpt-oss-120b`) of the protocols changed in %s: %s.\n\nCitation check: %s\n\nRun: %s' "$GITHUB_SHA" "$TODO" "$summary" "$run")"
           exit $code
