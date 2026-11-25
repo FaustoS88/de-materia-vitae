@@ -34,9 +34,9 @@ Lo stress cronico non è un sentimento — è uno stato fisiologico che accelera
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
 | Goyal et al., 2014, meta-analisi (47 RCTs), *JAMA Intern Med* | I programmi di meditazione migliorano l'ansia, la depressione e il dolore con effetti di grandezza comparabili agli antidepressivi (0,3–0,4) | PMID: 24395196 |
-| Epel et al., 2009, *Mol Psychiatry* | Lo stress cronico è associato a telomeri più corti; la meditazione aumenta l'attività della telomerasi | PMID: 29494257 |
+| Epel & Prather, 2018, *Annu Rev Clin Psychol* | Lo stress psicologico cronico è esaminato come mediatore fra disturbi psichiatrici e telomeri più corti | PMID: 29494257 |
 | Kaliman et al., 2014, *Psychoneuroendocrinology* | La pratica di mindfulness riduce la via NF-κB, riduce l'espressione genica pro-infiammatoria, aumenta l'attività dell'enzima deacetilasi | PMID: 24485481 |
-| Chaix et al., 2020, *Transl Psychiatry* | La pratica di meditazione è associata a un invecchiamento epigenetico più lento (orologio di Horvath) nei meditatori esperti | PMID: 28889075 |
+| Chaix et al., 2017, *Psychoneuroendocrinology* | La pratica di meditazione è associata a un invecchiamento epigenetico più lento (orologio di Horvath) nei meditatori esperti | PMID: 28889075 |
 
 **Riassunto dell'Evidenza:** ★★★★☆ (Molto Buono) — Evidenza forte per gli esiti di salute mentale; crescente evidenza per i marcatori di invecchiamento biologico.
 
@@ -135,9 +135,9 @@ Lo stress cronico non è un sentimento — è uno stato fisiologico che accelera
 ## Riferimenti
 
 1. Goyal et al., 2014, meta-analisi (47 RCTs), *JAMA Intern Med*. PMID: 24395196.
-2. Epel et al., 2009, *Mol Psychiatry*. PMID: 29494257.
+2. Epel & Prather, 2018, *Annu Rev Clin Psychol*. PMID: 29494257.
 3. Kaliman et al., 2014, *Psychoneuroendocrinology*. PMID: 24485481.
-4. Chaix et al., 2020, *Transl Psychiatry*. PMID: 28889075.
+4. Chaix et al., 2017, *Psychoneuroendocrinology*. PMID: 28889075.
 5. Zaccaro et al., 2018, *Front Hum Neurosci* (revisione sistematica). PMID: 30245619.
 6. Steffen et al., 2017, *Front Public Health*. PMID: 28890890.
 7. Lehrer & Gevirtz, 2014, *Front Psychol*. PMID: 25101026.

@@ -31,8 +31,8 @@ Protegiendo el cuerpo de daños ambientales. Agua limpia, protección UV y calid
 | Estudio | Hallazgo | Referencia |
 |---------|----------|-----------|
 | Grandjean & Landrigan, 2006, *Lancet* | Contaminantes químicos (plomo, arsénico, flúor, PFAS) causan neurotoxicidad del desarrollo en millones de niños en todo el mundo | PMID: 17174709 |
-| Steenland et al., 2022, *Environ Health Perspect* | La exposición a PFAS se asocia con una respuesta inmune reducida, un aumento del colesterol, daño hepático, cáncer testicular y renal | PMID: 33385391 |
-| Helte et al., 2025, *Environ Res* | La exposición a largo plazo a productos de desinfección por descomposición en el agua de beber se asocia con un aumento del riesgo de cáncer | PMID: 39837568 |
+| Steenland & Winquist, 2021, *Environ Res* | Entre los cánceres, el de testículo y el de riñón tienen la mayor evidencia epidemiológica para los PFAS; en conjunto la evidencia sigue siendo escasa | PMID: 33385391 |
+| Helte et al., 2025, *Environ Health Perspect* | La exposición a largo plazo a productos de desinfección por descomposición en el agua de beber se asocia con un aumento del riesgo de cáncer | PMID: 39837568 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — Los contaminantes del agua son entre los riesgos de salud ambiental mejor documentados.
 
@@ -88,7 +88,7 @@ Protegiendo el cuerpo de daños ambientales. Agua limpia, protección UV y calid
 |---------|----------|-----------|
 | Green et al., 2011, *J Clin Oncol* | El uso diario de protector solar reduce el carcinoma de células escamosas en un 40% y el melanoma en un 50% | PMID: 21135266 |
 | Hughes et al., 2013, *Ann Intern Med* (meta-análisis) | El uso diario de protector solar previene la fotoenvejecimiento — la principal causa del envejecimiento visible de la piel | PMID: 23732711 |
-| Rittié & Fisher, 2005, *Am J Pathol* | La radiación UV causa ~90% del envejecimiento visible de la piel a través de la degradación de la colágeno/elastina y la activación de MMP | PMID: 12208239 |
+| Rittié & Fisher, 2002, *Ageing Res Rev* | La radiación UV activa AP-1 y las MMP en la piel, aumenta la degradación del colágeno y reduce su síntesis | PMID: 12208239 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — El protector solar es la intervención anti-envejecimiento tópica más probada que existe.
 
@@ -143,7 +143,7 @@ Protegiendo el cuerpo de daños ambientales. Agua limpia, protección UV y calid
 | Pope et al., 2002, *JAMA* | Cada aumento de 10 μg/m³ en PM2.5 se asocia con un 4% mayor mortalidad por todas las causas, un 6% mayor mortalidad cardiopulmonar y un 8% mayor mortalidad por cáncer de pulmón — en ~500,000 adultos durante 16 años | PMID: 11879110 |
 | Nielsen et al., 2017, *Arch Toxicol* | El formaldehído en el interior a 0,1 mg/m³ causa inflamación de vías respiratorias y irritación sensorial; La guía de la OMS de 0,08 ppm sigue siendo protectora contra el riesgo de cáncer | PMID: 27209488 |
 | Young et al., 2023, *Ann Intern Med* | Ensayo cruzado aleatorio: la filtración HEPA en vehículos redujo las partículas en un 86% y disminuyó la presión arterial diastólica en 4,7 mmHg dentro de 1 hora | PMID: 38011704 |
-| Younan et al., 2020, *J Alzheimers Dis* | Estudio prospectivo de 10 años: la exposición a la contaminación del aire relacionada con el tráfico se asoció con un 55% mayor riesgo de demencia (HR 1,55), ~20% mediado a través de la diabetes tipo 2 | PMID: 32651321 |
+| Paul et al., 2020, *J Alzheimers Dis* | Estudio prospectivo de 10 años: la exposición a la contaminación del aire relacionada con el tráfico se asoció con un 55% mayor riesgo de demencia (HR 1,55), ~20% mediado a través de la diabetes tipo 2 | PMID: 32651321 |
 | Pathak et al., 2020, *Int J Environ Health Res* | Meta-análisis de 35 estudios (73,122 participantes): el uso de combustible de cocina de biomasa aumentó el riesgo de EPOC en 2,65× y el cáncer de bronquitis en 2,89× | PMID: 30754998 |
 
 ### Resumen de la Evidencia
@@ -196,13 +196,13 @@ Protegiendo el cuerpo de daños ambientales. Agua limpia, protección UV y calid
 ## Referencias
 
 1. Grandjean & Landrigan, 2006, *Lancet*. PMID: 17174709.
-2. Steenland et al., 2022, *Environ Health Perspect*. PMID: 33385391.
-3. Helte et al., 2025, *Environ Res*. PMID: 39837568.
+2. Steenland & Winquist, 2021, *Environ Res*. PMID: 33385391.
+3. Helte et al., 2025, *Environ Health Perspect*. PMID: 39837568.
 4. Green et al., 2011, *J Clin Oncol*. PMID: 21135266.
 5. Hughes et al., 2013, *Ann Intern Med* (meta-análisis). PMID: 23732711.
-6. Rittié & Fisher, 2005, *Am J Pathol*. PMID: 12208239.
+6. Rittié & Fisher, 2002, *Ageing Res Rev*. PMID: 12208239.
 7. Pope et al., 2002, *JAMA*. PMID: 11879110.
 8. Nielsen et al., 2017, *Arch Toxicol*. PMID: 27209488.
 9. Young et al., 2023, *Ann Intern Med*. PMID: 38011704.
-10. Younan et al., 2020, *J Alzheimers Dis*. PMID: 32651321.
+10. Paul et al., 2020, *J Alzheimers Dis*. PMID: 32651321.
 11. Pathak et al., 2020, *Int J Environ Health Res*. PMID: 30754998.

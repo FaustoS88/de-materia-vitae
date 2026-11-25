@@ -31,8 +31,8 @@ La protezione del corpo dagli inquinamenti ambientali. Acqua pulita, protezione 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
 | Grandjean & Landrigan, 2006, *Lancet* | I contaminanti chimici (piombo, arsenico, fluoro, PFAS) causano una neurotoxicità dello sviluppo in milioni di bambini in tutto il mondo | PMID: 17174709 |
-| Steenland et al., 2022, *Environ Health Perspect* | L'esposizione ai PFAS è associata a una risposta vaccinale ridotta, un aumento del colesterolo, un danno ai reni e ai testicoli, un cancro | PMID: 33385391 |
-| Helte et al., 2025, *Environ Res* | L'esposizione a lungo termine ai prodotti di disinfezione per l'acqua è associata a un aumento del rischio di cancro | PMID: 39837568 |
+| Steenland & Winquist, 2021, *Environ Res* | Fra i tumori, quelli del testicolo e del rene hanno il maggior numero di prove epidemiologiche per i PFAS; nel complesso le prove restano scarse | PMID: 33385391 |
+| Helte et al., 2025, *Environ Health Perspect* | L'esposizione a lungo termine ai prodotti di disinfezione per l'acqua è associata a un aumento del rischio di cancro | PMID: 39837568 |
 
 **Riassunto dell'Evidenza:** ★★★★★ (Eccezionale) — I contaminanti dell'acqua sono tra i rischi per la salute ambientale più documentati.
 
@@ -88,7 +88,7 @@ La protezione del corpo dagli inquinamenti ambientali. Acqua pulita, protezione 
 |-------|---------|-----------|
 | Green et al., 2011, *J Clin Oncol* | L'uso quotidiano di protezione solare riduce la carcinoma basocellulare del 40% e il melanoma del 50% | PMID: 21135266 |
 | Hughes et al., 2013, *Ann Intern Med* (meta-analisi) | L'uso quotidiano di protezione solare prevene l'invecchiamento fotoindotto — la principale causa dell'invecchiamento visibile della pelle | PMID: 23732711 |
-| Rittié & Fisher, 2005, *Am J Pathol* | La radiazione UV causa ~90% dell'invecchiamento visibile della pelle attraverso la degradazione della colageno/elastina e l'attivazione delle MMP | PMID: 12208239 |
+| Rittié & Fisher, 2002, *Ageing Res Rev* | I raggi UV attivano AP-1 e le MMP nella pelle, aumentano la degradazione del collagene e ne riducono la sintesi | PMID: 12208239 |
 
 **Riassunto dell'Evidenza:** ★★★★★ (Eccezionale) — La protezione solare è l'intervento topico anti-invecchiamento più provato in esistenza.
 
@@ -143,7 +143,7 @@ La protezione del corpo dagli inquinamenti ambientali. Acqua pulita, protezione 
 | Pope et al., 2002, *JAMA* | Ogni aumento di 10 μg/m³ di PM2.5 è associato a un aumento del 4% della mortalità totale, del 6% della cardiopulmonale e del 8% del cancro polmonare — in ~500.000 adulti in 16 anni | PMID: 11879110 |
 | Nielsen et al., 2017, *Arch Toxicol* | Formaldeide indoor superiore a 0,1 mg/m³ causa infiammazione delle vie respiratorie e irritazione sensoriale; la linea guida dell'OMS di 0,08 ppm rimane protettiva contro il rischio di cancro | PMID: 27209488 |
 | Young et al., 2023, *Ann Intern Med* | Studio crossover casuale: la filtrazione HEPA in veicolo riduce le particelle di 86% e abbassa la pressione diastolica di 4,7 mmHg entro 1 ora | PMID: 38011704 |
-| Younan et al., 2020, *J Alzheimers Dis* | Studio prospettico a 10 anni: l'esposizione a inquinamento atmosferico correlato al traffico è associata a un aumento del 55% del rischio di demenza (HR 1,55), ~20% mediato attraverso diabete di tipo 2 | PMID: 32651321 |
+| Paul et al., 2020, *J Alzheimers Dis* | Studio prospettico a 10 anni: l'esposizione a inquinamento atmosferico correlato al traffico è associata a un aumento del 55% del rischio di demenza (HR 1,55), ~20% mediato attraverso diabete di tipo 2 | PMID: 32651321 |
 | Pathak et al., 2020, *Int J Environ Health Res* | Meta-analisi di 35 studi (73.122 partecipanti): il carbone vegetale aumenta il rischio di BPCO del 2,65× e di bronchite cronica del 2,89× | PMID: 30754998 |
 
 ### Riassunto dell'Evidenza
@@ -196,13 +196,13 @@ La protezione del corpo dagli inquinamenti ambientali. Acqua pulita, protezione 
 ## Riferimenti
 
 1. Grandjean & Landrigan, 2006, *Lancet*. PMID: 17174709.
-2. Steenland et al., 2022, *Environ Health Perspect*. PMID: 33385391.
-3. Helte et al., 2025, *Environ Res*. PMID: 39837568.
+2. Steenland & Winquist, 2021, *Environ Res*. PMID: 33385391.
+3. Helte et al., 2025, *Environ Health Perspect*. PMID: 39837568.
 4. Green et al., 2011, *J Clin Oncol*. PMID: 21135266.
 5. Hughes et al., 2013, *Ann Intern Med* (meta-analisi). PMID: 23732711.
-6. Rittié & Fisher, 2005, *Am J Pathol*. PMID: 12208239.
+6. Rittié & Fisher, 2002, *Ageing Res Rev*. PMID: 12208239.
 7. Pope et al., 2002, *JAMA*. PMID: 11879110.
 8. Nielsen et al., 2017, *Arch Toxicol*. PMID: 27209488.
 9. Young et al., 2023, *Ann Intern Med*. PMID: 38011704.
-10. Younan et al., 2020, *J Alzheimers Dis*. PMID: 32651321.
+10. Paul et al., 2020, *J Alzheimers Dis*. PMID: 32651321.
 11. Pathak et al., 2020, *Int J Environ Health Res*. PMID: 30754998.

@@ -39,7 +39,7 @@ El sueño es la intervención diaria más efectiva para la salud de larga duraci
 
 | Estudio | Hallazgo | Referencia |
 |-------|---------|-----------|
-| Czeisler, 2013, *Nature* | La exposición a la luz en la noche suprime la melatonina por >50%, desplaza el reloj circadiano en 3 horas | PMID: 21193540 |
+| Gooley et al., 2011, *J Clin Endocrinol Metab* | La luz de una habitación antes de dormir retrasó el inicio de la melatonina y acortó su duración unos 90 minutos; esa luz durante las horas habituales de sueño la redujo más de un 50% en la mayoría de las pruebas | PMID: 21193540 |
 | Chang et al., 2015, *PNAS* | El uso de pantallas por la noche reduce la melatonina, entorpece la alerta de la mañana, interrumpe el sueño REM | PMID: 25535358 |
 | WHO/IARC, 2019 | El trabajo de turno que implica la desorientación circadiana se clasifica como "probablemente carcinógeno para los humanos" (Grupo 2A) | IARC Monografía 124 |
 
@@ -103,9 +103,9 @@ El sueño es la intervención diaria más efectiva para la salud de larga duraci
 
 | Estudio | Hallazgo | Referencia |
 |-------|---------|-----------|
-| Cappuccio et al., 2010, meta-análisis, *Sleep* | El sueño corto (<6h) se asocia con un 48% mayor riesgo de desarrollar/morir de enfermedad cardíaca; 15% mayor mortalidad por todas las causas | PMID: 21300732 |
+| Cappuccio et al., 2011, meta-análisis, *Eur Heart J* | Dormir poco asociado a un riesgo un 48% mayor de desarrollar o morir de cardiopatía coronaria y un 15% mayor de ictus | PMID: 21300732 |
 | Watson et al., 2015, *Sleep* (Fundación Nacional del Sueño) | 7–9 horas recomendadas para adultos; evidencia consistente para la salud cognitiva, metabólica, inmunológica y cardiovascular | PMID: 26039963 |
-| Xie et al., 2013, *Science* | El sueño activa el sistema glicílico — vía de eliminación de desechos cerebral que elimina las proteínas beta-amiloide y tau | PMID: 36093063 |
+| Xie et al., 2013, *Science* | En ratones, el sueño se asocia a un espacio intersticial cerebral un 60% mayor y a una eliminación más rápida de la β-amiloide | PMID: 24136970 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — La privación de sueño es uno de los riesgos de salud mejor establecidos.
 
@@ -145,8 +145,8 @@ El sueño es la intervención diaria más efectiva para la salud de larga duraci
 
 ## Referencias
 
-1. Czeisler, 2013, *Nature*. PMID: 21193540.
+1. Gooley et al., 2011, *J Clin Endocrinol Metab*. PMID: 21193540.
 2. Chang et al., 2015, *PNAS*. PMID: 25535358.
-3. Cappuccio et al., 2010, meta-análisis, *Sleep*. PMID: 21300732.
+3. Cappuccio et al., 2011, meta-análisis, *Eur Heart J*. PMID: 21300732.
 4. Watson et al., 2015, *Sleep* (Fundación Nacional del Sueño). PMID: 26039963.
-5. Xie et al., 2013, *Science*. PMID: 36093063.
+5. Xie et al., 2013, *Science*. PMID: 24136970.

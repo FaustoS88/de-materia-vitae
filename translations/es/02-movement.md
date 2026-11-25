@@ -34,7 +34,7 @@ Movimiento como medicina: las dos prácticas con la evidencia más fuerte para l
 |-------|---------|-----------|
 | Leong et al., 2015, *Lancet* (estudio PURE, 140K adultos) | La fuerza de agarre es un predictor más fuerte de mortalidad por todas las causas que la presión arterial sistólica | PMID: 25982160 |
 | Srikanthan & Karlamangla, 2014, *Am J Med* | El índice de masa muscular se asocia inversamente con la mortalidad por todas las causas en personas mayores | PMID: 24561114 |
-| Peterson et al., 2011, *Prev Med* | El entrenamiento de resistencia se asocia con una reducción del 23% en la mortalidad por todas las causas | PMID: 35599175 |
+| Shailendra et al., 2022, *Am J Prev Med* | Cualquier entrenamiento de fuerza asociado a una mortalidad total un 15% menor, con la mayor reducción (27%) en torno a 60 minutos por semana | PMID: 35599175 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — La fuerza de agarre es uno de los biomarcadores más validados del envejecimiento.
 
@@ -151,7 +151,7 @@ Movimiento como medicina: las dos prácticas con la evidencia más fuerte para l
 
 1. Leong et al., 2015, *Lancet* (estudio PURE, 140K adultos). PMID: 25982160.
 2. Srikanthan & Karlamangla, 2014, *Am J Med*. PMID: 24561114.
-3. Peterson et al., 2011, *Prev Med*. PMID: 35599175.
+3. Shailendra et al., 2022, *Am J Prev Med*. PMID: 35599175.
 4. Paluch et al., 2021, *JAMA Netw Open*. PMID: 34477847.
 5. Lee et al., 2019, *JAMA Intern Med*. PMID: 31141585.
 6. Saint-Maurice et al., 2020, *JAMA*. PMID: 32207799.

@@ -27,7 +27,7 @@ Mantenimiento periódico de sistemas internos: desparasitación, horarios de pru
 
 ### Evidencia Moderna
 
-Para una visión general completa, consulte: Olds GR. "Desparasitación del Mundo." *Trans Am Clin Climatol Assoc*. 2013;124:265-274. [PMID: 23874034](https://pubmed.ncbi.nlm.nih.gov/23874034/)
+Para una visión general completa, consulte: Olds GR. "Deworming the World." *Trans Am Clin Climatol Assoc*. 2013;124:265-274. [PMID: 23874034](https://pubmed.ncbi.nlm.nih.gov/23874034/)
 
 **Resumen:**
 
