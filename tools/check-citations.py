@@ -3,7 +3,8 @@
 De Materia Vitae — Citation Check
 
 Compares every cited PMID in the protocols and their translations with PubMed:
-first author, year, journal and, when the line quotes one, the title.
+first author, year, journal and, when the line quotes one, the title. Also checks
+that each translation cites every PMID of its English protocol.
 Prints each line that differs and exits 1 if there is any. It fixes nothing.
 
 Usage:
@@ -49,6 +50,18 @@ def cited_lines():
                 else:
                     label = line[: pmid.start()]
                 yield f"{folder}/{path.name}:{number}", pmid.group(1), label.strip()
+
+
+def missing_from_translations():
+    for path in sorted((ROOT / "protocols").glob("*.md")):
+        english = set(re.findall(r"PMID:?\s*(\d{6,9})", path.read_text(encoding="utf-8")))
+        for folder in FOLDERS[1:]:
+            translated = ROOT / folder / path.name
+            if path.name == "_template.md" or not translated.exists():
+                continue
+            cited = set(re.findall(r"PMID:?\s*(\d{6,9})", translated.read_text(encoding="utf-8")))
+            for pmid in sorted(english - cited):
+                yield f"{folder}/{path.name}", pmid
 
 
 def cited_author(label):
@@ -97,8 +110,13 @@ def main():
             for item in found:
                 print(f"    {item}")
 
-    print(f"\n{len(lines)} cited lines, {len(ids)} distinct PMIDs, {wrong} lines differ from PubMed")
-    return 1 if wrong else 0
+    missing = list(missing_from_translations())
+    for where, pmid in missing:
+        print(f"{where}  PMID {pmid}  cited in protocols/ but missing here")
+
+    summary = f"{len(lines)} cited lines, {len(ids)} distinct PMIDs, {wrong} lines differ from PubMed"
+    print(f"\n{summary}" + (f", {len(missing)} PMIDs missing from a translation" if missing else ""))
+    return 1 if wrong or missing else 0
 
 
 if __name__ == "__main__":

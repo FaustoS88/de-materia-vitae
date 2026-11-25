@@ -2,128 +2,68 @@ name: Auto-translate protocols
 
 on:
   push:
-    branches: [main]
+    branches: [develop]
     paths:
       - 'protocols/*.md'
+
+permissions:
+  contents: write
+  pull-requests: write
+  statuses: write
 
 jobs:
   translate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Rebuild Quick Reference + References
+      - name: Pick the translations this push did not update
+        id: pick
+        env:
+          BEFORE: ${{ github.event.before }}
         run: |
-          cat > /tmp/rebuild-refs.mjs << 'SCRIPT'
-          import { readFileSync, writeFileSync, readdirSync } from 'node:fs'
-          import { join } from 'node:path'
+          # After a force push the old head may be gone: compare with the parent instead
+          changed=$(git diff --name-only --diff-filter=d "$BEFORE" "$GITHUB_SHA" 2>/dev/null || git diff --name-only --diff-filter=d HEAD^ HEAD)
+          todo=""
+          for name in $(echo "$changed" | sed -n 's|^protocols/\([^/]*\.md\)$|\1|p'); do
+            [ "$name" = _template.md ] && continue
+            for lang in it es; do
+              echo "$changed" | grep -qx "translations/$lang/$name" || todo="$todo $lang/$name"
+            done
+          done
+          todo=${todo# }
+          echo "todo=$todo" >> "$GITHUB_OUTPUT"
+          echo "To translate: ${todo:-nothing}"
 
-          const PROTOCOLS = join(process.env.GITHUB_WORKSPACE, 'protocols')
-
-          function parseProtocol(content) {
-            const sections = [], parts = content.split(/(?=^## )/m)
-            let intro = '', quickRef = null, refs = null
-            for (const part of parts) {
-              const m = part.match(/^## (.+)/)
-              if (!m) { intro = part; continue }
-              const t = m[1].trim()
-              if (/^Quick Reference/i.test(t)) quickRef = part
-              else if (/^References$/i.test(t) || /^Riferimenti$/i.test(t) || /^Referencias$/i.test(t)) refs = part
-              else sections.push({ title: t, content: part })
-            }
-            return { intro, sections, quickRef, refs }
-          }
-
-          function extractData(section) {
-            const title = section.title.replace(/^[IVXLC]+\.\s*/, '').replace(/^\d+\.\s*/, '').trim()
-            const doseM = section.content.match(/\*\*Dose:\*\*\s*(.+)/i)
-            const dose = doseM ? doseM[1].trim() : '—'
-            const evM = section.content.match(/Evidence Summary:\*\*\s*(★+☆*)/i)
-            const evidence = evM ? evM[1] : '—'
-            const sources = []
-            const srcM = section.content.match(/### Ancient Source[\s\S]*?\|[\s\S]*?\|[\s\S]*?\|([\s\S]*?)(?=###|\n---|\n## )/i)
-            if (srcM) {
-              for (const row of srcM[1].split('\n').filter(r => r.trim().startsWith('|') && !r.includes('---'))) {
-                const c = row.split('|').filter(x => x.trim())
-                if (c.length >= 1) {
-                  const s = c[0].trim().replace(/\*[^*]*\*/g, '').split(',')[0].trim()
-                  if (s && !s.includes('Source') && !s.includes('---')) sources.push(s)
-                }
-              }
-            }
-            const pmids = []
-            const re = /\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*PMID:\s*(\d+)\s*\|/g
-            let pm
-            while ((pm = re.exec(section.content)) !== null) {
-              pmids.push({ study: pm[1].trim(), pmid: pm[3] })
-            }
-            return { title, dose, evidence, sources, pmids }
-          }
-
-          const files = readdirSync(PROTOCOLS).filter(f => f.endsWith('.md') && f !== '_template.md').sort()
-          for (const file of files) {
-            const path = join(PROTOCOLS, file)
-            const content = readFileSync(path, 'utf-8')
-            const { intro, sections } = parseProtocol(content)
-            if (!sections.length) continue
-            const data = sections.map(extractData)
-            const nameM = intro.match(/^# \d+\s*—\s*(.+)/m)
-            const name = nameM ? nameM[1].trim() : 'Protocol'
-            const qr = ['## Quick Reference — ' + name, '', '| # | Practice | Dose | Evidence | Ancient Source |', '|---|----------|------|----------|---------------|']
-            data.forEach((d, i) => qr.push(`| ${i+1} | ${d.title} | ${d.dose} | ${d.evidence} | ${d.sources.slice(0,3).join(', ') || '—'} |`))
-            const seen = new Set()
-            const refLines = ['## References', '']
-            let n = 1
-            for (const d of data) for (const p of d.pmids) {
-              if (seen.has(p.pmid)) continue
-              seen.add(p.pmid)
-              refLines.push(`${n++}. ${p.study}. PMID: ${p.pmid}.`)
-            }
-            const parts = [intro.trim(), ...sections.map(s => s.content.trim()), qr.join('\n')]
-            if (refLines.length > 2) parts.push(refLines.join('\n'))
-            writeFileSync(path, parts.join('\n\n---\n\n') + '\n', 'utf-8')
-            console.log(`  ${file}: ${data.length} sections, ${seen.size} refs`)
-          }
-          SCRIPT
-          node /tmp/rebuild-refs.mjs
-
-      - name: Commit rebuilt refs
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add protocols/
-          if git diff --cached --quiet; then
-            echo "No reference changes"
-          else
-            git commit -m "chore: auto-rebuild Quick Reference + References [skip ci]"
-          fi
-
-      - name: Translate protocols to IT + ES
+      - name: Translate to IT and ES
+        if: steps.pick.outputs.todo != ''
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TODO: ${{ steps.pick.outputs.todo }}
         run: |
           cat > /tmp/translate.mjs << 'SCRIPT'
-          import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs'
+          import { readFileSync, writeFileSync, mkdirSync } from 'node:fs'
           import { join } from 'node:path'
 
-          const BACKEND = process.env.GITHUB_WORKSPACE
-          const PROTOCOLS = join(BACKEND, 'protocols')
+          const ROOT = process.env.GITHUB_WORKSPACE
           const LANGS = { it: 'Italian', es: 'Spanish' }
           const MODEL = 'llama-3.1-8b-instant'
           const API = 'https://api.groq.com/openai/v1/chat/completions'
 
-          async function translate(markdown, lang, langName) {
+          async function translate(markdown, langName) {
             const res = await fetch(API, {
               method: 'POST',
               headers: { Authorization: `Bearer ${process.env.GROQ_API_KEY}`, 'Content-Type': 'application/json' },
               body: JSON.stringify({
                 model: MODEL,
                 messages: [
-                  { role: 'system', content: `You are a precise medical/scientific translator. Translate the following markdown from English to ${langName}. Preserve ALL markdown formatting, URLs, DOIs, PMIDs, author names, journal names, years, page numbers, citation references, star ratings. Translate naturally using proper ${langName} medical terminology. Return ONLY the translated markdown.` },
+                  { role: 'system', content: `You are a precise medical/scientific translator. Translate the following markdown from English to ${langName}. Preserve ALL markdown formatting, URLs, DOIs, PMIDs, page numbers and star ratings. Copy every citation label exactly as written, untranslated: author names, years, journal names in *italics* (*Sleep* stays *Sleep*) and titles in quotes. Translate naturally using proper ${langName} medical terminology. Return ONLY the translated markdown.` },
                   { role: 'user', content: markdown },
                 ],
                 temperature: 0.2,
@@ -132,34 +72,53 @@ jobs:
             })
             if (!res.ok) throw new Error(`Groq ${res.status}: ${await res.text()}`)
             const data = await res.json()
-            return data.choices[0]?.message?.content || ''
+            const text = data.choices[0]?.message?.content || ''
+            if (data.choices[0]?.finish_reason === 'length') throw new Error('Groq cut the translation at max_tokens')
+            if (!text.trim()) throw new Error('Groq returned an empty translation')
+            return text
           }
 
-          const files = readdirSync(PROTOCOLS).filter(f => f.endsWith('.md') && f !== '_template.md').sort()
-          console.log(`Translating ${files.length} files...`)
-
-          for (const [lang, name] of Object.entries(LANGS)) {
-            const outDir = join(BACKEND, 'translations', lang)
-            mkdirSync(outDir, { recursive: true })
-            for (const file of files) {
-              const english = readFileSync(join(PROTOCOLS, file), 'utf-8')
-              process.stdout.write(`  [${lang.toUpperCase()}] ${file}... `)
-              const t0 = Date.now()
-              const translated = await translate(english, lang, name)
-              writeFileSync(join(outDir, file), translated, 'utf-8')
-              console.log(`done (${((Date.now()-t0)/1000).toFixed(1)}s)`)
-            }
+          for (const item of process.env.TODO.split(' ')) {
+            const [lang, file] = item.split('/')
+            const english = readFileSync(join(ROOT, 'protocols', file), 'utf-8')
+            process.stdout.write(`  [${lang.toUpperCase()}] ${file}... `)
+            const t0 = Date.now()
+            const translated = await translate(english, LANGS[lang])
+            mkdirSync(join(ROOT, 'translations', lang), { recursive: true })
+            writeFileSync(join(ROOT, 'translations', lang, file), translated, 'utf-8')
+            console.log(`done (${((Date.now()-t0)/1000).toFixed(1)}s)`)
           }
-          console.log('Done.')
           SCRIPT
           node /tmp/translate.mjs
 
-      - name: Commit and push all changes
+      - name: Open a pull request to develop with the citation check
+        if: steps.pick.outputs.todo != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TODO: ${{ steps.pick.outputs.todo }}
         run: |
-          git add translations/ protocols/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          short=${GITHUB_SHA::7}
+          branch="i18n/translate-$short"
+          git switch -c "$branch"
+          git add translations/
           if git diff --cached --quiet; then
-            echo "No changes"
-          else
-            git commit -m "chore: auto-rebuild refs + update IT/ES translations [skip ci]"
-            git push
+            echo "No translation changes"
+            exit 0
           fi
+          git commit -m "chore(i18n): translate $short to IT and ES"
+          code=0
+          python3 tools/check-citations.py > /tmp/check.txt || code=$?
+          cat /tmp/check.txt
+          summary=$(tail -1 /tmp/check.txt)
+          run="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          git push --force origin "$branch"
+          # The bot's PR does not trigger check-citations.yml, so the result goes on the commit as a status
+          state=$([ "$code" -eq 0 ] && echo success || echo failure)
+          gh api "repos/$GITHUB_REPOSITORY/statuses/$(git rev-parse HEAD)" \
+            -f state="$state" -f context=check-citations -f description="${summary:0:140}" -f target_url="$run"
+          gh pr view "$branch" > /dev/null 2>&1 || gh pr create --base develop --head "$branch" \
+            --title "Translate $short to IT and ES" \
+            --body "$(printf 'Machine translation (Groq `llama-3.1-8b-instant`) of the protocols changed in %s: %s.\n\nCitation check: %s\n\nRun: %s' "$GITHUB_SHA" "$TODO" "$summary" "$run")"
+          exit $code
