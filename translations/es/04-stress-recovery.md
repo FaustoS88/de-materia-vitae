@@ -34,9 +34,9 @@ El estrés crónico no es una sensación — es un estado fisiológico que acele
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
 | Goyal et al., 2014, meta-análisis (47 RCTs), *JAMA Intern Med* | Los programas de meditación mejoran la ansiedad, la depresión y el dolor con tamaños de efecto comparables a los antidepresivos (0,3–0,4) | PMID: 24395196 |
-| Epel et al., 2009, *Mol Psychiatry* | El estrés crónico se asocia con telómeros más cortos; la meditación aumenta la actividad de la telomerasa | PMID: 29494257 |
+| Epel & Prather, 2018, *Annu Rev Clin Psychol* | El estrés psicológico crónico se revisa como mediador entre los trastornos psiquiátricos y los telómeros más cortos | PMID: 29494257 |
 | Kaliman et al., 2014, *Psychoneuroendocrinology* | La práctica de la atención plena regula la vía de NF-κB, reduce la expresión de genes pro-inflamatorios, aumenta la actividad de la histona desacetilasa | PMID: 24485481 |
-| Chaix et al., 2020, *Transl Psychiatry* | La práctica de la meditación se asocia con una edad epigenética más lenta (reloj de Horvath) en meditadores experimentados | PMID: 28889075 |
+| Chaix et al., 2017, *Psychoneuroendocrinology* | La práctica de la meditación se asocia con una edad epigenética más lenta (reloj de Horvath) en meditadores experimentados | PMID: 28889075 |
 
 **Resumen de la Evidencia:** ★★★★☆ (Muy Bueno) — Evidencia fuerte para los resultados de salud mental; creciente evidencia para los marcadores de envejecimiento biológico.
 
@@ -135,9 +135,9 @@ El estrés crónico no es una sensación — es un estado fisiológico que acele
 ## Referencias
 
 1. Goyal et al., 2014, meta-análisis (47 RCTs), *JAMA Intern Med*. PMID: 24395196.
-2. Epel et al., 2009, *Mol Psychiatry*. PMID: 29494257.
+2. Epel & Prather, 2018, *Annu Rev Clin Psychol*. PMID: 29494257.
 3. Kaliman et al., 2014, *Psychoneuroendocrinology*. PMID: 24485481.
-4. Chaix et al., 2020, *Transl Psychiatry*. PMID: 28889075.
+4. Chaix et al., 2017, *Psychoneuroendocrinology*. PMID: 28889075.
 5. Zaccaro et al., 2018, *Front Hum Neurosci* (revisión sistemática). PMID: 30245619.
 6. Steffen et al., 2017, *Front Public Health*. PMID: 28890890.
 7. Lehrer & Gevirtz, 2014, *Front Psychol*. PMID: 25101026.

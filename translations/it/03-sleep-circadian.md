@@ -39,7 +39,7 @@ Il sonno è l'intervento quotidiano più efficace per la salute. L'allineamento 
 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
-| Czeisler, 2013, *Nature* | L'esposizione serale alla luce riduce la melatonina di >50%, sposta l'orologio circadiano di 3 ore | PMID: 21193540 |
+| Gooley et al., 2011, *J Clin Endocrinol Metab* | La luce di una stanza prima di dormire ha ritardato l'inizio della melatonina e ne ha accorciato la durata di circa 90 minuti; la stessa luce nelle ore abituali di sonno l'ha ridotta di oltre il 50% nella maggior parte delle prove | PMID: 21193540 |
 | Chang et al., 2015, *PNAS* | L'uso serale dello schermo riduce la melatonina, impedisce l'attivazione mattutina, interrompe il sonno REM | PMID: 25535358 |
 | WHO/IARC, 2019 | Il lavoro di turni che comporta la disruzione circadiana è classificato come "probabilmente cancerogeno per gli esseri umani" (Gruppo 2A) | IARC Monografia 124 |
 
@@ -103,9 +103,9 @@ Il sonno è l'intervento quotidiano più efficace per la salute. L'allineamento 
 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
-| Cappuccio et al., 2010, meta-analisi, *Sonno* | Sonno breve (<6h) associato a 48% aumento del rischio di sviluppare/morire da malattie cardiache; 15% aumento della mortalità totale | PMID: 21300732 |
-| Watson et al., 2015, *Sonno* (Fondazione Nazionale del Sonno) | 7–9 ore raccomandate per gli adulti; evidenza consistente per la salute cognitiva, metabolica, immunitaria e cardiaca | PMID: 26039963 |
-| Xie et al., 2013, *Science* | Il sonno attiva il sistema glicinfatico — il percorso di eliminazione dei rifiuti cerebrali che rimuove le proteine beta-amiloide e tau | PMID: 36093063 |
+| Cappuccio et al., 2011, meta-analisi, *Eur Heart J* | Dormire poco associato a un rischio più alto del 48% di sviluppare o morire di cardiopatia coronarica e del 15% di ictus | PMID: 21300732 |
+| Watson et al., 2015, *Sleep* (Fondazione Nazionale del Sonno) | 7–9 ore raccomandate per gli adulti; evidenza consistente per la salute cognitiva, metabolica, immunitaria e cardiaca | PMID: 26039963 |
+| Xie et al., 2013, *Science* | Nei topi il sonno è associato a uno spazio interstiziale del cervello più ampio del 60% e a una rimozione più rapida della β-amiloide | PMID: 24136970 |
 
 **Riepilogo dell'Evidenza:** ★★★★★ (Eccezionale) — La privazione del sonno è uno dei rischi per la salute meglio stabiliti.
 
@@ -145,8 +145,8 @@ Il sonno è l'intervento quotidiano più efficace per la salute. L'allineamento 
 
 ## Riferimenti
 
-1. Czeisler, 2013, *Nature*. PMID: 21193540.
+1. Gooley et al., 2011, *J Clin Endocrinol Metab*. PMID: 21193540.
 2. Chang et al., 2015, *PNAS*. PMID: 25535358.
-3. Cappuccio et al., 2010, meta-analisi, *Sonno*. PMID: 21300732.
-4. Watson et al., 2015, *Sonno* (Fondazione Nazionale del Sonno). PMID: 26039963.
-5. Xie et al., 2013, *Science*. PMID: 36093063.
+3. Cappuccio et al., 2011, meta-analisi, *Eur Heart J*. PMID: 21300732.
+4. Watson et al., 2015, *Sleep* (Fondazione Nazionale del Sonno). PMID: 26039963.
+5. Xie et al., 2013, *Science*. PMID: 24136970.

@@ -27,9 +27,9 @@ Ocho alimentos dietéticos con la evidencia más fuerte para la extensión de la
 
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
-| Estruch et al. (PREDIMED), 2013, *NEJM* | 30% reducción en eventos cardiovasculares graves con dieta mediterránea + EVOO vs. control bajo en grasas | PMID: 29897866 |
-| Guasch-Ferré et al., 2014, *BMJ* | Consumo de aceite de oliva más alto asociado con 14% menor mortalidad por todas las causas, 17% menor mortalidad por CVD | PMID: 35027106 |
-| Schwingshackl & Hoffmann, 2014, meta-análisis, *PLoS One* | Grasas monoinsatúricas (especialmente del aceite de oliva) reducen significativamente los factores de riesgo CVD | PMID: 25274026 |
+| Estruch et al. (PREDIMED), 2018, *NEJM* | 30% reducción en eventos cardiovasculares graves con dieta mediterránea + EVOO vs. control bajo en grasas | PMID: 29897866 |
+| Guasch-Ferré et al., 2022, *JACC* | Más de ½ cucharada al día de aceite de oliva asociada a una mortalidad total y cardiovascular un 19% menor frente a nunca o casi nunca | PMID: 35027106 |
+| Schwingshackl & Hoffmann, 2014, meta-análisis, *Lipids Health Dis* | Mayor frente a menor consumo de grasas monoinsaturadas (MUFA), aceite de oliva y ácido oleico asociado a una mortalidad total un 11% menor y cardiovascular un 12% menor; en los subgrupos solo el aceite de oliva fue significativo | PMID: 25274026 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — Multiples RCT grandes, replicados en poblaciones.
 
@@ -86,8 +86,8 @@ Ocho alimentos dietéticos con la evidencia más fuerte para la extensión de la
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
 | Morris et al., 2018, *Neurology* | 1–2 porciones al día de verduras verdes asociadas con función cognitiva equivalente a ser 11 años más joven | PMID: 29263222 |
-| Joshipura et al., 2001, *JAMA* | Cada porción diaria de verduras verdes asociada con un 20% menor riesgo de enfermedad cardíaca coronaria | PMID: 11412050 |
-| Lidder & Webb, 2013, *Am J Clin Nutr* | Nitrato dietético de las verduras mejora la función endotelial, reduce la presión arterial, mejora la eficiencia del ejercicio | PMID: 22882425 |
+| Joshipura et al., 2001, *Ann Intern Med* | Cada porción diaria de verduras verdes asociada con un 20% menor riesgo de enfermedad cardíaca coronaria | PMID: 11412050 |
+| Lidder & Webb, 2013, *Br J Clin Pharmacol* | Nitrato dietético de las verduras mejora la función endotelial, reduce la presión arterial, mejora la eficiencia del ejercicio | PMID: 22882425 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — Consistente en estudios epidemiológicos y de intervención.
 
@@ -128,8 +128,7 @@ Ocho alimentos dietéticos con la evidencia más fuerte para la extensión de la
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
 | Mozaffarian & Rimm, 2006, *JAMA* | Consumo de pescado 2-4 veces a la semana asociado con un 36% menor mortalidad por enfermedad cardíaca coronaria | PMID: 17047219 |
-| Harris & Del Gobbo, 2019, *Am J Clin Nutr* | Índice de omega-3 >8% asociado con un 35% menor mortalidad por CVD; cada 1% de aumento ≈ 0,5 años de vida adicional | PMID: 15208005 |
-| Pottala et al., 2014, *Am J Cardiol* | Índice de omega-3 más alto correlacionado con una longitud de telómeros más larga (envejecimiento biológico más lento) | PMID: 23010452 |
+| Harris et al., 2017, *Atherosclerosis* | Cada desviación estándar más del índice omega-3 asociada a un riesgo un 15% menor de muerte por cardiopatía coronaria; pasar del 4% al 8% se estima que reduce el riesgo en torno a un 30% | PMID: 28511049 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — Décadas de evidencia consistente en cohortes y RCT.
 
@@ -219,9 +218,9 @@ Ocho alimentos dietéticos con la evidencia más fuerte para la extensión de la
 
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
-| Tsuji et al., 2004, *JAMA* (40,530 adultos) | ≥5 tazas/día asociadas con un 12% menor mortalidad por todas las causas (hombres), un 23% (mujeres) | PMID: 16968850 |
+| Kuriyama et al., 2006, *JAMA* (40,530 adultos) | ≥5 tazas/día asociadas con un 12% menor mortalidad por todas las causas (hombres), un 23% (mujeres) | PMID: 16968850 |
 | Kuriyama et al., 2006, *JAMA* | Consumo de té verde inversamente asociado con CVD y mortalidad por todas las causas | PMID: 16968850 |
-| Deka & Vita, 2011, *Am J Clin Nutr* | Catequinas del té mejoran la función endotelial, reducen la presión arterial, reducen la oxidación de LDL | PMID: 21477653 |
+| Deka & Vita, 2011, *Pharmacol Res* | El té tiene efectos favorables sobre la función endotelial y los factores de riesgo cardiovascular; los datos observacionales sobre enfermedad son dispares | PMID: 21477653 |
 
 **Resumen de la Evidencia:** ★★★★☆ (Muy Bueno) — Evidencia epidemiológica grande, apoyo mecánico, limitada evidencia de RCT occidental.
 
@@ -262,7 +261,6 @@ Ocho alimentos dietéticos con la evidencia más fuerte para la extensión de la
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
 | Wastyk et al., 2021, *Cell* (Stanford) | Intervención de 10 semanas con alimentos fermentados aumentó la diversidad del microbioma, redujo 19 proteínas inflamatorias (incluida la IL-6) | PMID: 34256014 |
-| Asnicar et al., 2021, *Nature* | La diversidad del microbioma es uno de los biomarcadores más fuertes de la salud y la longevidad; los centenarios tienen firmas de microbioma distintivas | PMID: 33432175 |
 | Hill et al., 2014, *Nat Rev Gastroenterol Hepatol* | El consumo de probióticos/alimentos fermentados apoya la función de barrera del intestino, la modulación inmunológica, la salud mental a través del eje cerebro-intestino | PMID: 24912386 |
 
 **Resumen de la Evidencia:** ★★★★☆ (Muy Bueno) — Evidencia mecánica y emergente de intervención.
@@ -348,9 +346,8 @@ Ocho alimentos dietéticos con la evidencia más fuerte para la extensión de la
 
 | Estudio | Encontrado | Referencia |
 |-------|---------|-----------|
-| Cassidy et al., 2013, *Ann Neurol* | ≥2 porciones/semana de fresas/arándanos asociadas con un retraso de hasta 2,5 años en el envejecimiento cognitivo | PMID: 22535616 |
-| Basu et al., 2010, *Am J Clin Nutr* | Consumo de fresas durante 8 semanas mejoró la sensibilidad a la insulina y redujo los marcadores inflamatorios | PMID: 27916833 |
-| Wallace & Giusti, 2015, *J Agric Food Chem* | Antocianinas de las frutas reducen el daño oxidativo del ADN, mejoran la función endotelial vascular | PMID: 26374184 |
+| Devore et al., 2012, *Ann Neurol* | Un mayor consumo de arándanos y fresas asociado a un retraso de hasta 2,5 años en el envejecimiento cognitivo | PMID: 22535616 |
+| Basu et al., 2010, *J Nutr* | En adultos con síndrome metabólico, 8 semanas de arándanos redujeron la presión sistólica (−6%) y diastólica (−4%) y el LDL oxidado (−28%); la glucosa y los lípidos no cambiaron | PMID: 20660279 |
 
 **Resumen de la Evidencia:** ★★★★☆ (Muy Bueno) — Evidencia observacional fuerte, creciente evidencia de intervención.
 
@@ -391,26 +388,23 @@ Ocho alimentos dietéticos con la evidencia más fuerte para la extensión de la
 
 ## Referencias
 
-1. Estruch et al. (PREDIMED), 2013, *NEJM*. PMID: 29897866.
-2. Guasch-Ferré et al., 2014, *BMJ*. PMID: 35027106.
-3. Schwingshackl & Hoffmann, 2014, meta-análisis, *PLoS One*. PMID: 25274026.
+1. Estruch et al. (PREDIMED), 2018, *NEJM*. PMID: 29897866.
+2. Guasch-Ferré et al., 2022, *JACC*. PMID: 35027106.
+3. Schwingshackl & Hoffmann, 2014, meta-análisis, *Lipids Health Dis*. PMID: 25274026.
 4. Morris et al., 2018, *Neurology*. PMID: 29263222.
-5. Joshipura et al., 2001, *JAMA*. PMID: 11412050.
-6. Lidder & Webb, 2013, *Am J Clin Nutr*. PMID: 22882425.
+5. Joshipura et al., 2001, *Ann Intern Med*. PMID: 11412050.
+6. Lidder & Webb, 2013, *Br J Clin Pharmacol*. PMID: 22882425.
 7. Mozaffarian & Rimm, 2006, *JAMA*. PMID: 17047219.
-8. Harris & Del Gobbo, 2019, *Am J Clin Nutr*. PMID: 15208005.
-9. Pottala et al., 2014, *Am J Cardiol*. PMID: 23010452.
-10. Bao et al., 2013, *NEJM*. PMID: 24256379.
-11. Aune et al., 2016, meta-análisis, *BMC Med*. PMID: 27916000.
-12. Guasch-Ferré et al., 2017, *JACC*. PMID: 29145952.
-13. Tsuji et al., 2004, *JAMA* (40,530 adultos). PMID: 16968850.
-14. Deka & Vita, 2011, *Am J Clin Nutr*. PMID: 21477653.
-15. Wastyk et al., 2021, *Cell* (Stanford). PMID: 34256014.
-16. Asnicar et al., 2021, *Nature*. PMID: 33432175.
-17. Hill et al., 2014, *Nat Rev Gastroenterol Hepatol*. PMID: 24912386.
-18. Aune et al., 2016, meta-análisis (45 estudios), *BMJ*. PMID: 27301975.
-19. Reynolds et al., 2019, *Lancet* (meta-análisis). PMID: 30638909.
-20. Slavin, 2013, *Nutrients*. PMID: 23609775.
-21. Cassidy et al., 2013, *Ann Neurol*. PMID: 22535616.
-22. Basu et al., 2010, *Am J Clin Nutr*. PMID: 27916833.
-23. Wallace & Giusti, 2015, *J Agric Food Chem*. PMID: 26374184.
+8. Harris et al., 2017, *Atherosclerosis*. PMID: 28511049.
+9. Bao et al., 2013, *NEJM*. PMID: 24256379.
+10. Aune et al., 2016, meta-análisis, *BMC Med*. PMID: 27916000.
+11. Guasch-Ferré et al., 2017, *JACC*. PMID: 29145952.
+12. Kuriyama et al., 2006, *JAMA* (40,530 adultos). PMID: 16968850.
+13. Deka & Vita, 2011, *Pharmacol Res*. PMID: 21477653.
+14. Wastyk et al., 2021, *Cell* (Stanford). PMID: 34256014.
+15. Hill et al., 2014, *Nat Rev Gastroenterol Hepatol*. PMID: 24912386.
+16. Aune et al., 2016, meta-análisis (45 estudios), *BMJ*. PMID: 27301975.
+17. Reynolds et al., 2019, *Lancet* (meta-análisis). PMID: 30638909.
+18. Slavin, 2013, *Nutrients*. PMID: 23609775.
+19. Devore et al., 2012, *Ann Neurol*. PMID: 22535616.
+20. Basu et al., 2010, *J Nutr*. PMID: 20660279.

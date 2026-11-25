@@ -27,9 +27,9 @@ Otto alimenti con la più forte evidenza per l'estensione della salute e della v
 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
-| Estruch et al. (PREDIMED), 2013, *NEJM* | Riduzione del 30% degli eventi cardiovascolari gravi con dieta mediterranea + EVOO vs. controllo a basso grassi | PMID: 29897866 |
-| Guasch-Ferré et al., 2014, *BMJ* | Consumo di olio d'oliva più alto associato a una riduzione del 14% della mortalità totale, del 17% della mortalità cardiovascolare | PMID: 35027106 |
-| Schwingshackl & Hoffmann, 2014, meta-analisi, *PLoS One* | Grassi monounsaturati (specialmente da olio d'oliva) riducono significativamente i fattori di rischio cardiovascolare | PMID: 25274026 |
+| Estruch et al. (PREDIMED), 2018, *NEJM* | Riduzione del 30% degli eventi cardiovascolari gravi con dieta mediterranea + EVOO vs. controllo a basso grassi | PMID: 29897866 |
+| Guasch-Ferré et al., 2022, *JACC* | Più di ½ cucchiaio al giorno di olio d'oliva associato a una mortalità totale e cardiovascolare più bassa del 19% rispetto a mai o quasi mai | PMID: 35027106 |
+| Schwingshackl & Hoffmann, 2014, meta-analisi, *Lipids Health Dis* | Consumo più alto rispetto al più basso di grassi monoinsaturi (MUFA), olio d'oliva e acido oleico associato a una mortalità totale più bassa dell'11% e cardiovascolare del 12%; nei sottogruppi solo l'olio d'oliva è risultato significativo | PMID: 25274026 |
 
 **Riassunto dell'Evidenza:** ★★★★★ (Eccezionale) — Molti grandi RCT, replicati in diverse popolazioni.
 
@@ -86,8 +86,8 @@ Otto alimenti con la più forte evidenza per l'estensione della salute e della v
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
 | Morris et al., 2018, *Neurology* | 1–2 porzioni al giorno di verdure a foglia verde associate a una funzione cognitiva equivalente a essere 11 anni più giovani | PMID: 29263222 |
-| Joshipura et al., 2001, *JAMA* | Ogni porzione al giorno di verdure a foglia verde associata a un rischio del 20% inferiore di malattia cardiovascolare | PMID: 11412050 |
-| Lidder & Webb, 2013, *Am J Clin Nutr* | Il nitrito alimentare dalle verdure migliora la funzione endoteliale, abbassa la pressione sanguigna, migliora l'efficienza dell'esercizio | PMID: 22882425 |
+| Joshipura et al., 2001, *Ann Intern Med* | Ogni porzione al giorno di verdure a foglia verde associata a un rischio del 20% inferiore di malattia cardiovascolare | PMID: 11412050 |
+| Lidder & Webb, 2013, *Br J Clin Pharmacol* | Il nitrito alimentare dalle verdure migliora la funzione endoteliale, abbassa la pressione sanguigna, migliora l'efficienza dell'esercizio | PMID: 22882425 |
 
 **Riassunto dell'Evidenza:** ★★★★★ (Eccezionale) — Consistente in tutti gli studi epidemiologici e interventionali.
 
@@ -128,8 +128,7 @@ Otto alimenti con la più forte evidenza per l'estensione della salute e della v
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
 | Mozaffarian & Rimm, 2006, *JAMA* | Consumo di pesce 2-4 volte a settimana associato a una riduzione del 36% della mortalità cardiovascolare | PMID: 17047219 |
-| Harris & Del Gobbo, 2019, *Am J Clin Nutr* | Indice di omega-3 >8% associato a una riduzione del 35% della mortalità cardiovascolare; ogni 1% di aumento ≈ 0,5 anni di vita aggiunti | PMID: 15208005 |
-| Pottala et al., 2014, *Am J Cardiol* | Indice di omega-3 più alto correlato a una lunghezza di telomero più lunga (invecchiamento biologico più lento) | PMID: 23010452 |
+| Harris et al., 2017, *Atherosclerosis* | Ogni deviazione standard in più dell'indice omega-3 associata a un rischio più basso del 15% di morte per cardiopatia coronarica; passare dal 4% all'8% è stimato ridurre il rischio di circa il 30% | PMID: 28511049 |
 
 **Riassunto dell'Evidenza:** ★★★★★ (Eccezionale) — Decenni di evidenza consistente in tutti i grandi studi.
 
@@ -219,9 +218,9 @@ Otto alimenti con la più forte evidenza per l'estensione della salute e della v
 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
-| Tsuji et al., 2004, *JAMA* (40,530 adulti) | ≥5 tazze al giorno associate a una riduzione del 12% della mortalità totale (uomini), del 23% (donne) | PMID: 16968850 |
+| Kuriyama et al., 2006, *JAMA* (40,530 adulti) | ≥5 tazze al giorno associate a una riduzione del 12% della mortalità totale (uomini), del 23% (donne) | PMID: 16968850 |
 | Kuriyama et al., 2006, *JAMA* | Consumo di tè verde inversamente associato alla mortalità cardiovascolare e totale | PMID: 16968850 |
-| Deka & Vita, 2011, *Am J Clin Nutr* | Catecine del tè migliorano la funzione endoteliale, abbassano la pressione arteriosa, riducono l'ossidazione LDL | PMID: 21477653 |
+| Deka & Vita, 2011, *Pharmacol Res* | Il tè ha effetti favorevoli sulla funzione endoteliale e sui fattori di rischio cardiovascolare; i dati osservazionali sulle malattie sono discordanti | PMID: 21477653 |
 
 **Riassunto dell'Evidenza:** ★★★★☆ (Molto Buono) — Evidenza epidemiologica grande, supporto meccanistico, limitati RCT occidentali.
 
@@ -262,7 +261,6 @@ Otto alimenti con la più forte evidenza per l'estensione della salute e della v
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
 | Wastyk et al., 2021, *Cell* (Stanford) | Intervento alimentare con alimenti fermentati per 10 settimane aumentò la diversità del microbioma, ridusse 19 proteine infiammatorie (compresa IL-6) | PMID: 34256014 |
-| Asnicar et al., 2021, *Nature* | Diversità del microbioma è uno dei biomarcatori più forti della salute e della longevità; centenari hanno segni distintivi del microbioma | PMID: 33432175 |
 | Hill et al., 2014, *Nat Rev Gastroenterol Hepatol* | Consumo di probiotici/alimenti fermentati supporta la funzione barriera del gut, la modulazione immunitaria, la salute mentale via l'asse gut-cervello | PMID: 24912386 |
 
 **Riassunto dell'Evidenza:** ★★★★☆ (Molto Buono) — Evidenza meccanistica e interventionale emergente.
@@ -348,9 +346,8 @@ Otto alimenti con la più forte evidenza per l'estensione della salute e della v
 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
-| Cassidy et al., 2013, *Ann Neurol* | ≥2 porzioni a settimana di more/blu di Francia associate a un ritardo di 2,5 anni nella invecchiamento cognitivo | PMID: 22535616 |
-| Basu et al., 2010, *Am J Clin Nutr* | Consumo di more per 8 settimane migliorò la sensibilità all'insulina e ridusse i marcatori infiammatori | PMID: 27916833 |
-| Wallace & Giusti, 2015, *J Agric Food Chem* | Antociani dalle more riducono il danno ossidativo al DNA, migliorano la funzione endoteliale vascolare | PMID: 26374184 |
+| Devore et al., 2012, *Ann Neurol* | Un consumo più alto di mirtilli e fragole associato a un ritardo fino a 2,5 anni nell'invecchiamento cognitivo | PMID: 22535616 |
+| Basu et al., 2010, *J Nutr* | In adulti con sindrome metabolica, 8 settimane di mirtilli hanno ridotto la pressione sistolica (−6%) e diastolica (−4%) e le LDL ossidate (−28%); glucosio e lipidi non sono cambiati | PMID: 20660279 |
 
 **Riassunto dell'Evidenza:** ★★★★☆ (Molto Buono) — Evidenza osservazionale forte, dati interventionali crescenti.
 
@@ -391,26 +388,23 @@ Otto alimenti con la più forte evidenza per l'estensione della salute e della v
 
 ## Riferimenti
 
-1. Estruch et al. (PREDIMED), 2013, *NEJM*. PMID: 29897866.
-2. Guasch-Ferré et al., 2014, *BMJ*. PMID: 35027106.
-3. Schwingshackl & Hoffmann, 2014, meta-analisi, *PLoS One*. PMID: 25274026.
+1. Estruch et al. (PREDIMED), 2018, *NEJM*. PMID: 29897866.
+2. Guasch-Ferré et al., 2022, *JACC*. PMID: 35027106.
+3. Schwingshackl & Hoffmann, 2014, meta-analisi, *Lipids Health Dis*. PMID: 25274026.
 4. Morris et al., 2018, *Neurology*. PMID: 29263222.
-5. Joshipura et al., 2001, *JAMA*. PMID: 11412050.
-6. Lidder & Webb, 2013, *Am J Clin Nutr*. PMID: 22882425.
+5. Joshipura et al., 2001, *Ann Intern Med*. PMID: 11412050.
+6. Lidder & Webb, 2013, *Br J Clin Pharmacol*. PMID: 22882425.
 7. Mozaffarian & Rimm, 2006, *JAMA*. PMID: 17047219.
-8. Harris & Del Gobbo, 2019, *Am J Clin Nutr*. PMID: 15208005.
-9. Pottala et al., 2014, *Am J Cardiol*. PMID: 23010452.
-10. Bao et al., 2013, *NEJM*. PMID: 24256379.
-11. Aune et al., 2016, meta-analisi, *BMC Med*. PMID: 27916000.
-12. Guasch-Ferré et al., 2017, *JACC*. PMID: 29145952.
-13. Tsuji et al., 2004, *JAMA* (40,530 adulti). PMID: 16968850.
-14. Deka & Vita, 2011, *Am J Clin Nutr*. PMID: 21477653.
-15. Wastyk et al., 2021, *Cell* (Stanford). PMID: 34256014.
-16. Asnicar et al., 2021, *Nature*. PMID: 33432175.
-17. Hill et al., 2014, *Nat Rev Gastroenterol Hepatol*. PMID: 24912386.
-18. Aune et al., 2016, meta-analisi (45 studi), *BMJ*. PMID: 27301975.
-19. Reynolds et al., 2019, *Lancet* (meta-analisi). PMID: 30638909.
-20. Slavin, 2013, *Nutrients*. PMID: 23609775.
-21. Cassidy et al., 2013, *Ann Neurol*. PMID: 22535616.
-22. Basu et al., 2010, *Am J Clin Nutr*. PMID: 27916833.
-23. Wallace & Giusti, 2015, *J Agric Food Chem*. PMID: 26374184.
+8. Harris et al., 2017, *Atherosclerosis*. PMID: 28511049.
+9. Bao et al., 2013, *NEJM*. PMID: 24256379.
+10. Aune et al., 2016, meta-analisi, *BMC Med*. PMID: 27916000.
+11. Guasch-Ferré et al., 2017, *JACC*. PMID: 29145952.
+12. Kuriyama et al., 2006, *JAMA* (40,530 adulti). PMID: 16968850.
+13. Deka & Vita, 2011, *Pharmacol Res*. PMID: 21477653.
+14. Wastyk et al., 2021, *Cell* (Stanford). PMID: 34256014.
+15. Hill et al., 2014, *Nat Rev Gastroenterol Hepatol*. PMID: 24912386.
+16. Aune et al., 2016, meta-analisi (45 studi), *BMJ*. PMID: 27301975.
+17. Reynolds et al., 2019, *Lancet* (meta-analisi). PMID: 30638909.
+18. Slavin, 2013, *Nutrients*. PMID: 23609775.
+19. Devore et al., 2012, *Ann Neurol*. PMID: 22535616.
+20. Basu et al., 2010, *J Nutr*. PMID: 20660279.

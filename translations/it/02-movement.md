@@ -34,7 +34,7 @@ Il movimento come medicina: le due pratiche con la maggiore evidenza per la salu
 |-------|---------|-----------|
 | Leong et al., 2015, *Lancet* (studio PURE, 140K adulti) | La forza di presa è un predittore più forte della mortalità totale rispetto alla pressione sanguigna sistolica | PMID: 25982160 |
 | Srikanthan & Karlamangla, 2014, *Am J Med* | L'indice di massa muscolare è inversamente associato alla mortalità totale negli anziani | PMID: 24561114 |
-| Peterson et al., 2011, *Prev Med* | L'allenamento di resistenza è associato a una riduzione del 23% della mortalità totale | PMID: 35599175 |
+| Shailendra et al., 2022, *Am J Prev Med* | Qualsiasi allenamento di forza associato a una mortalità totale più bassa del 15%, con la riduzione massima (27%) a circa 60 minuti a settimana | PMID: 35599175 |
 
 **Riassunto dell'Evidenza:** ★★★★★ (Eccezionale) — La forza di presa è uno dei biomarcatori più validati dell'invecchiamento.
 
@@ -151,7 +151,7 @@ Il movimento come medicina: le due pratiche con la maggiore evidenza per la salu
 
 1. Leong et al., 2015, *Lancet* (studio PURE, 140K adulti). PMID: 25982160.
 2. Srikanthan & Karlamangla, 2014, *Am J Med*. PMID: 24561114.
-3. Peterson et al., 2011, *Prev Med*. PMID: 35599175.
+3. Shailendra et al., 2022, *Am J Prev Med*. PMID: 35599175.
 4. Paluch et al., 2021, *JAMA Netw Open*. PMID: 34477847.
 5. Lee et al., 2019, *JAMA Intern Med*. PMID: 31141585.
 6. Saint-Maurice et al., 2020, *JAMA*. PMID: 32207799.

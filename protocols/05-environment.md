@@ -31,8 +31,8 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 | Study | Finding | Reference |
 |-------|---------|-----------|
 | Grandjean & Landrigan, 2006, *Lancet* | Chemical contaminants (lead, arsenic, fluoride, PFAS) cause developmental neurotoxicity in millions of children worldwide | PMID: 17174709 |
-| Steenland et al., 2022, *Environ Health Perspect* | PFAS exposure associated with reduced vaccine response, increased cholesterol, liver damage, testicular/kidney cancer | PMID: 33385391 |
-| Helte et al., 2025, *Environ Res* | Long-term exposure to disinfection byproducts in drinking water associated with increased cancer risk | PMID: 39837568 |
+| Steenland & Winquist, 2021, *Environ Res* | Among cancers, testicular and kidney cancer have the most epidemiologic evidence for PFAS; overall evidence remains sparse | PMID: 33385391 |
+| Helte et al., 2025, *Environ Health Perspect* | Long-term exposure to disinfection byproducts in drinking water associated with increased cancer risk | PMID: 39837568 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Water contaminants are among the most well-documented environmental health risks.
 
@@ -88,7 +88,7 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 |-------|---------|-----------|
 | Green et al., 2011, *J Clin Oncol* | Daily sunscreen use reduces squamous cell carcinoma by 40% and melanoma by 50% | PMID: 21135266 |
 | Hughes et al., 2013, *Ann Intern Med* (meta-analysis) | Daily sunscreen use prevents photoaging — the primary cause of visible skin aging | PMID: 23732711 |
-| Rittié & Fisher, 2005, *Am J Pathol* | UV radiation causes ~90% of visible skin aging via collagen/elastin degradation and MMP activation | PMID: 12208239 |
+| Rittié & Fisher, 2002, *Ageing Res Rev* | UV radiation activates AP-1 and MMPs in skin, increasing collagen degradation and reducing collagen synthesis | PMID: 12208239 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Sunscreen is the most proven topical anti-aging intervention in existence.
 
@@ -143,7 +143,7 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 | Pope et al., 2002, *JAMA* | Each 10 μg/m³ increase in PM2.5 associated with 4% higher all-cause mortality, 6% cardiopulmonary, 8% lung cancer — in ~500,000 adults over 16 years | PMID: 11879110 |
 | Nielsen et al., 2017, *Arch Toxicol* | Indoor formaldehyde above 0.1 mg/m³ causes airway inflammation and sensory irritation; WHO guideline of 0.08 ppm remains protective against cancer risk | PMID: 27209488 |
 | Young et al., 2023, *Ann Intern Med* | Randomized crossover trial: in-vehicle HEPA filtration reduced particles by 86% and lowered diastolic blood pressure by 4.7 mmHg within 1 hour | PMID: 38011704 |
-| Younan et al., 2020, *J Alzheimers Dis* | 10-year prospective study: higher traffic-related air pollution associated with 55% increased dementia risk (HR 1.55), ~20% mediated through type 2 diabetes | PMID: 32651321 |
+| Paul et al., 2020, *J Alzheimers Dis* | 10-year prospective study: higher traffic-related air pollution associated with 55% increased dementia risk (HR 1.55), ~20% mediated through type 2 diabetes | PMID: 32651321 |
 | Pathak et al., 2020, *Int J Environ Health Res* | Meta-analysis of 35 studies (73,122 participants): biomass cooking fuel increases COPD risk 2.65× and chronic bronchitis 2.89× | PMID: 30754998 |
 
 ### Evidence Summary
@@ -196,13 +196,13 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 ## References
 
 1. Grandjean & Landrigan, 2006, *Lancet*. PMID: 17174709.
-2. Steenland et al., 2022, *Environ Health Perspect*. PMID: 33385391.
-3. Helte et al., 2025, *Environ Res*. PMID: 39837568.
+2. Steenland & Winquist, 2021, *Environ Res*. PMID: 33385391.
+3. Helte et al., 2025, *Environ Health Perspect*. PMID: 39837568.
 4. Green et al., 2011, *J Clin Oncol*. PMID: 21135266.
 5. Hughes et al., 2013, *Ann Intern Med* (meta-analysis). PMID: 23732711.
-6. Rittié & Fisher, 2005, *Am J Pathol*. PMID: 12208239.
+6. Rittié & Fisher, 2002, *Ageing Res Rev*. PMID: 12208239.
 7. Pope et al., 2002, *JAMA*. PMID: 11879110.
 8. Nielsen et al., 2017, *Arch Toxicol*. PMID: 27209488.
 9. Young et al., 2023, *Ann Intern Med*. PMID: 38011704.
-10. Younan et al., 2020, *J Alzheimers Dis*. PMID: 32651321.
+10. Paul et al., 2020, *J Alzheimers Dis*. PMID: 32651321.
 11. Pathak et al., 2020, *Int J Environ Health Res*. PMID: 30754998.
