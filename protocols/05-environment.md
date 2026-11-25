@@ -206,4 +206,3 @@ Protecting the body from environmental harm. Clean water, UV protection, and air
 9. Young et al., 2023, *Ann Intern Med*. PMID: 38011704.
 10. Paul et al., 2020, *J Alzheimers Dis*. PMID: 32651321.
 11. Pathak et al., 2020, *Int J Environ Health Res*. PMID: 30754998.
-
