@@ -40,7 +40,7 @@ El sueño es la intervención diaria más efectiva para la salud de larga duraci
 | Estudio | Hallazgo | Referencia |
 |-------|---------|-----------|
 | Gooley et al., 2011, *J Clin Endocrinol Metab* | La luz de una habitación antes de dormir retrasó el inicio de la melatonina y acortó su duración unos 90 minutos; esa luz durante las horas habituales de sueño la redujo más de un 50% en la mayoría de las pruebas | PMID: 21193540 |
-| Chang et al., 2015, *PNAS* | El uso de pantallas por la noche reduce la melatonina, entorpece la alerta de la mañana, interrumpe el sueño REM | PMID: 25535358 |
+| Chang et al., 2015, *PNAS* | Leer un libro electrónico con pantalla luminosa antes de dormir, frente a un libro impreso, retrasó el inicio del sueño y el reloj circadiano y redujo la secreción de melatonina y el estado de alerta de la mañana siguiente | PMID: 25535358 |
 | WHO/IARC, 2019 | El trabajo de turno que implica la desorientación circadiana se clasifica como "probablemente carcinógeno para los humanos" (Grupo 2A) | IARC Monografía 124 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — La desorientación circadiana es un riesgo de salud clasificado por la OMS.
@@ -104,7 +104,7 @@ El sueño es la intervención diaria más efectiva para la salud de larga duraci
 | Estudio | Hallazgo | Referencia |
 |-------|---------|-----------|
 | Cappuccio et al., 2011, meta-análisis, *Eur Heart J* | Dormir poco asociado a un riesgo un 48% mayor de desarrollar o morir de cardiopatía coronaria y un 15% mayor de ictus | PMID: 21300732 |
-| Watson et al., 2015, *Sleep* (Fundación Nacional del Sueño) | 7–9 horas recomendadas para adultos; evidencia consistente para la salud cognitiva, metabólica, inmunológica y cardiovascular | PMID: 26039963 |
+| Watson et al., 2015, *Sleep* (consenso AASM/SRS) | Recomendación conjunta de consenso de la AASM y la SRS sobre la cantidad de sueño que necesitan los adultos para una salud óptima | PMID: 26039963 |
 | Xie et al., 2013, *Science* | En ratones, el sueño se asocia a un espacio intersticial cerebral un 60% mayor y a una eliminación más rápida de la β-amiloide | PMID: 24136970 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — La privación de sueño es uno de los riesgos de salud mejor establecidos.
@@ -148,5 +148,5 @@ El sueño es la intervención diaria más efectiva para la salud de larga duraci
 1. Gooley et al., 2011, *J Clin Endocrinol Metab*. PMID: 21193540.
 2. Chang et al., 2015, *PNAS*. PMID: 25535358.
 3. Cappuccio et al., 2011, meta-análisis, *Eur Heart J*. PMID: 21300732.
-4. Watson et al., 2015, *Sleep* (Fundación Nacional del Sueño). PMID: 26039963.
+4. Watson et al., 2015, *Sleep* (consenso AASM/SRS). PMID: 26039963.
 5. Xie et al., 2013, *Science*. PMID: 24136970.

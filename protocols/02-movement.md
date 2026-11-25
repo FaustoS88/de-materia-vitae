@@ -88,9 +88,9 @@ Movement as medicine: the two practices with the strongest evidence for healthsp
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Paluch et al., 2021, *JAMA Netw Open* | Each 1,000-step increment associated with 6–36% lower mortality; benefits plateau ~7,000–10,000 steps | PMID: 34477847 |
+| Paluch et al., 2021, *JAMA Netw Open* | Compared with fewer than 7,000 steps/day, 7,000-9,999 steps/day (HR 0.28) and 10,000 or more (HR 0.45) associated with lower mortality in 2,110 adults aged 38-50 | PMID: 34477847 |
 | Lee et al., 2019, *JAMA Intern Med* | 4,400 steps/day associated with 41% lower mortality vs. 2,700; benefit continues to ~7,500 | PMID: 31141585 |
-| Saint-Maurice et al., 2020, *JAMA* | 8,000 steps/day associated with 51% lower all-cause mortality vs. 4,000; 75% lower cardiovascular mortality | PMID: 32207799 |
+| Saint-Maurice et al., 2020, *JAMA* | 8,000 steps/day associated with 51% lower all-cause mortality vs. 4,000 (HR 0.49); 12,000 steps/day HR 0.35 | PMID: 32207799 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Walking is the most studied and most accessible health intervention.
 

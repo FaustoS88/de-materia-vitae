@@ -40,7 +40,7 @@ Il sonno è l'intervento quotidiano più efficace per la salute. L'allineamento 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
 | Gooley et al., 2011, *J Clin Endocrinol Metab* | La luce di una stanza prima di dormire ha ritardato l'inizio della melatonina e ne ha accorciato la durata di circa 90 minuti; la stessa luce nelle ore abituali di sonno l'ha ridotta di oltre il 50% nella maggior parte delle prove | PMID: 21193540 |
-| Chang et al., 2015, *PNAS* | L'uso serale dello schermo riduce la melatonina, impedisce l'attivazione mattutina, interrompe il sonno REM | PMID: 25535358 |
+| Chang et al., 2015, *PNAS* | Leggere un eBook a schermo luminoso prima di dormire, rispetto a un libro stampato, ha ritardato l'addormentamento e l'orologio circadiano e ridotto la secrezione di melatonina e la vigilanza del mattino dopo | PMID: 25535358 |
 | WHO/IARC, 2019 | Il lavoro di turni che comporta la disruzione circadiana è classificato come "probabilmente cancerogeno per gli esseri umani" (Gruppo 2A) | IARC Monografia 124 |
 
 **Riepilogo dell'Evidenza:** ★★★★★ (Eccezionale) — La disruzione circadiana è un rischio per la salute classificato dalla WHO.
@@ -104,7 +104,7 @@ Il sonno è l'intervento quotidiano più efficace per la salute. L'allineamento 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
 | Cappuccio et al., 2011, meta-analisi, *Eur Heart J* | Dormire poco associato a un rischio più alto del 48% di sviluppare o morire di cardiopatia coronarica e del 15% di ictus | PMID: 21300732 |
-| Watson et al., 2015, *Sleep* (Fondazione Nazionale del Sonno) | 7–9 ore raccomandate per gli adulti; evidenza consistente per la salute cognitiva, metabolica, immunitaria e cardiaca | PMID: 26039963 |
+| Watson et al., 2015, *Sleep* (consenso AASM/SRS) | Raccomandazione congiunta di consenso di AASM e SRS sulla quantità di sonno necessaria agli adulti per una salute ottimale | PMID: 26039963 |
 | Xie et al., 2013, *Science* | Nei topi il sonno è associato a uno spazio interstiziale del cervello più ampio del 60% e a una rimozione più rapida della β-amiloide | PMID: 24136970 |
 
 **Riepilogo dell'Evidenza:** ★★★★★ (Eccezionale) — La privazione del sonno è uno dei rischi per la salute meglio stabiliti.
@@ -148,5 +148,5 @@ Il sonno è l'intervento quotidiano più efficace per la salute. L'allineamento 
 1. Gooley et al., 2011, *J Clin Endocrinol Metab*. PMID: 21193540.
 2. Chang et al., 2015, *PNAS*. PMID: 25535358.
 3. Cappuccio et al., 2011, meta-analisi, *Eur Heart J*. PMID: 21300732.
-4. Watson et al., 2015, *Sleep* (Fondazione Nazionale del Sonno). PMID: 26039963.
+4. Watson et al., 2015, *Sleep* (consenso AASM/SRS). PMID: 26039963.
 5. Xie et al., 2013, *Science*. PMID: 24136970.

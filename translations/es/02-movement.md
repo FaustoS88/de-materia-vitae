@@ -88,9 +88,9 @@ Movimiento como medicina: las dos prácticas con la evidencia más fuerte para l
 
 | Estudio | Hallazgo | Referencia |
 |-------|---------|-----------|
-| Paluch et al., 2021, *JAMA Netw Open* | Cada incremento de 1,000 pasos se asocia con una reducción del 6–36% en la mortalidad; los beneficios se estabilizan ~7,000–10,000 pasos | PMID: 34477847 |
+| Paluch et al., 2021, *JAMA Netw Open* | Frente a menos de 7.000 pasos al día, 7.000-9.999 pasos (HR 0,28) y 10.000 o más (HR 0,45) asociados a una mortalidad menor en 2.110 adultos de 38 a 50 años | PMID: 34477847 |
 | Lee et al., 2019, *JAMA Intern Med* | 4,400 pasos/día se asocian con una reducción del 41% en la mortalidad vs. 2,700; el beneficio continúa hasta ~7,500 | PMID: 31141585 |
-| Saint-Maurice et al., 2020, *JAMA* | 8,000 pasos/día se asocian con una reducción del 51% en la mortalidad por todas las causas vs. 4,000; reducción del 75% en la mortalidad cardiovascular | PMID: 32207799 |
+| Saint-Maurice et al., 2020, *JAMA* | 8.000 pasos al día asociados a una mortalidad total un 51% menor frente a 4.000 (HR 0,49); con 12.000 pasos, HR 0,35 | PMID: 32207799 |
 
 **Resumen de la Evidencia:** ★★★★★ (Excelente) — La caminata es la intervención de salud más estudiada y accesible.
 

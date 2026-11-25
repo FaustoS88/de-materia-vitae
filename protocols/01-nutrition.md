@@ -85,7 +85,7 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Morris et al., 2018, *Neurology* | 1–2 servings/day of leafy greens associated with cognitive function equivalent to being 11 years younger | PMID: 29263222 |
+| Morris et al., 2018, *Neurology* | Highest intake of green leafy vegetables (median 1.3 servings/day) associated with slower cognitive decline, equivalent to being 11 years younger | PMID: 29263222 |
 | Joshipura et al., 2001, *Ann Intern Med* | Each daily serving of greens associated with 20% lower risk of coronary heart disease | PMID: 11412050 |
 | Lidder & Webb, 2013, *Br J Clin Pharmacol* | Dietary nitrate from greens improves endothelial function, lowers blood pressure, enhances exercise efficiency | PMID: 22882425 |
 
@@ -127,7 +127,7 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Mozaffarian & Rimm, 2006, *JAMA* | Fish consumption 2-4×/week associated with 36% lower coronary heart disease mortality | PMID: 17047219 |
+| Mozaffarian & Rimm, 2006, *JAMA* | Modest fish intake (e.g. 1-2 servings/week), especially species rich in EPA and DHA, reduces coronary death risk by 36% and total mortality by 17% | PMID: 17047219 |
 | Harris et al., 2017, *Atherosclerosis* | Each 1-SD higher omega-3 index associated with 15% lower risk of fatal coronary heart disease; moving from 4% to 8% estimated at about 30% lower risk | PMID: 28511049 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Decades of consistent evidence across cohorts and RCTs.
@@ -177,7 +177,7 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 |-------|---------|-----------|
 | Bao et al., 2013, *NEJM* | Nut consumption ≥7×/week associated with 20% lower all-cause mortality | PMID: 24256379 |
 | Aune et al., 2016, meta-analysis, *BMC Med* | Each 28 g/day of nuts associated with 21% lower CVD risk, 15% lower cancer risk, 22% lower all-cause mortality | PMID: 27916000 |
-| Guasch-Ferré et al., 2017, *JACC* | Walnut consumption associated with 50% lower cardiovascular death risk and 1.3 years gained life expectancy | PMID: 29145952 |
+| Guasch-Ferré et al., 2017, *JACC* | Walnuts 1 or more times/week (and peanuts or tree nuts 2 or more times/week) associated with 13-19% lower cardiovascular disease and 15-23% lower coronary heart disease risk in 3 large cohorts | PMID: 29145952 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Consistent across every major cohort study.
 
@@ -260,8 +260,8 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Wastyk et al., 2021, *Cell* (Stanford) | 10-week fermented food intervention increased microbiome diversity, decreased 19 inflammatory proteins (including IL-6) | PMID: 34256014 |
-| Hill et al., 2014, *Nat Rev Gastroenterol Hepatol* | Probiotic/fermented food consumption supports gut barrier function, immune modulation, mental health via gut-brain axis | PMID: 24912386 |
+| Wastyk et al., 2021, *Cell* (Stanford) | In a 17-week randomized study (18 per arm), a high-fermented-food diet steadily increased microbiota diversity and decreased inflammatory markers | PMID: 34256014 |
+| Hill et al., 2014, *Nat Rev Gastroenterol Hepatol* | ISAPP expert consensus confirmed the FAO/WHO definition of a probiotic (live microorganisms that, administered in adequate amounts, confer a health benefit on the host) and clarified the scope of the term | PMID: 24912386 |
 
 **Evidence Summary:** ★★★★☆ (Very Good) — Strong mechanistic and emerging interventional evidence.
 
@@ -303,9 +303,9 @@ Eight dietary items with the strongest evidence for healthspan and lifespan exte
 
 | Study | Finding | Reference |
 |-------|---------|-----------|
-| Aune et al., 2016, meta-analysis (45 studies), *BMJ* | Each 90 g/day increase in whole grains associated with 17% lower all-cause mortality, 22% lower CVD mortality | PMID: 27301975 |
+| Aune et al., 2016, meta-analysis (45 studies), *BMJ* | Each 90 g/day increase in whole grains associated with 17% lower all-cause mortality and 22% lower cardiovascular disease risk | PMID: 27301975 |
 | Reynolds et al., 2019, *Lancet* (meta-analysis) | Highest fiber/whole grain intake associated with 15-30% lower all-cause and CVD mortality | PMID: 30638909 |
-| Slavin, 2013, *Nutrients* | Whole grain fiber feeds beneficial gut bacteria → SCFA production → anti-inflammatory, anti-cancer, metabolic benefits | PMID: 23609775 |
+| Slavin, 2013, *Nutrients* | Prebiotic fibers resist digestion in the small intestine and are fermented by the gut microflora in the colon; whole grain wheat and corn have prebiotic effects; higher fiber intake linked to less cardiovascular disease and lower body weight | PMID: 23609775 |
 
 **Evidence Summary:** ★★★★★ (Excellent) — Consistent across every major epidemiological study.
 

@@ -85,7 +85,7 @@ Otto alimenti con la più forte evidenza per l'estensione della salute e della v
 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
-| Morris et al., 2018, *Neurology* | 1–2 porzioni al giorno di verdure a foglia verde associate a una funzione cognitiva equivalente a essere 11 anni più giovani | PMID: 29263222 |
+| Morris et al., 2018, *Neurology* | Il consumo più alto di verdure a foglia verde (mediana 1,3 porzioni al giorno) associato a un declino cognitivo più lento, pari a 11 anni di età in meno | PMID: 29263222 |
 | Joshipura et al., 2001, *Ann Intern Med* | Ogni porzione al giorno di verdure a foglia verde associata a un rischio del 20% inferiore di malattia cardiovascolare | PMID: 11412050 |
 | Lidder & Webb, 2013, *Br J Clin Pharmacol* | Il nitrito alimentare dalle verdure migliora la funzione endoteliale, abbassa la pressione sanguigna, migliora l'efficienza dell'esercizio | PMID: 22882425 |
 
@@ -127,7 +127,7 @@ Otto alimenti con la più forte evidenza per l'estensione della salute e della v
 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
-| Mozaffarian & Rimm, 2006, *JAMA* | Consumo di pesce 2-4 volte a settimana associato a una riduzione del 36% della mortalità cardiovascolare | PMID: 17047219 |
+| Mozaffarian & Rimm, 2006, *JAMA* | Un consumo moderato di pesce (per esempio 1-2 porzioni a settimana), soprattutto di specie ricche di EPA e DHA, riduce il rischio di morte coronarica del 36% e la mortalità totale del 17% | PMID: 17047219 |
 | Harris et al., 2017, *Atherosclerosis* | Ogni deviazione standard in più dell'indice omega-3 associata a un rischio più basso del 15% di morte per cardiopatia coronarica; passare dal 4% all'8% è stimato ridurre il rischio di circa il 30% | PMID: 28511049 |
 
 **Riassunto dell'Evidenza:** ★★★★★ (Eccezionale) — Decenni di evidenza consistente in tutti i grandi studi.
@@ -177,7 +177,7 @@ Otto alimenti con la più forte evidenza per l'estensione della salute e della v
 |-------|---------|-----------|
 | Bao et al., 2013, *NEJM* | Consumo di noci ≥7 volte a settimana associato a una riduzione del 20% della mortalità totale | PMID: 24256379 |
 | Aune et al., 2016, meta-analisi, *BMC Med* | Ogni 28 g al giorno di noci associato a una riduzione del 21% del rischio cardiovascolare, del 15% del rischio cancro, del 22% della mortalità totale | PMID: 27916000 |
-| Guasch-Ferré et al., 2017, *JACC* | Consumo di noci associato a una riduzione del 50% del rischio di morte cardiovascolare e a 1,3 anni di vita aggiunti | PMID: 29145952 |
+| Guasch-Ferré et al., 2017, *JACC* | Noci 1 o più volte a settimana (e arachidi o altra frutta a guscio 2 o più volte a settimana) associate a un rischio più basso del 13-19% di malattia cardiovascolare e del 15-23% di cardiopatia coronarica in 3 grandi coorti | PMID: 29145952 |
 
 **Riassunto dell'Evidenza:** ★★★★★ (Eccezionale) — Consistente in tutti gli studi epidemiologici.
 
@@ -260,8 +260,8 @@ Otto alimenti con la più forte evidenza per l'estensione della salute e della v
 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
-| Wastyk et al., 2021, *Cell* (Stanford) | Intervento alimentare con alimenti fermentati per 10 settimane aumentò la diversità del microbioma, ridusse 19 proteine infiammatorie (compresa IL-6) | PMID: 34256014 |
-| Hill et al., 2014, *Nat Rev Gastroenterol Hepatol* | Consumo di probiotici/alimenti fermentati supporta la funzione barriera del gut, la modulazione immunitaria, la salute mentale via l'asse gut-cervello | PMID: 24912386 |
+| Wastyk et al., 2021, *Cell* (Stanford) | In uno studio randomizzato di 17 settimane (18 persone per gruppo), una dieta ricca di alimenti fermentati ha aumentato in modo costante la diversità del microbiota e ridotto i marcatori infiammatori | PMID: 34256014 |
+| Hill et al., 2014, *Nat Rev Gastroenterol Hepatol* | Il consenso di esperti ISAPP ha confermato la definizione FAO/OMS di probiotico (microrganismi vivi che, somministrati in quantità adeguate, apportano un beneficio alla salute dell'ospite) e ha chiarito l'ambito del termine | PMID: 24912386 |
 
 **Riassunto dell'Evidenza:** ★★★★☆ (Molto Buono) — Evidenza meccanistica e interventionale emergente.
 
@@ -303,9 +303,9 @@ Otto alimenti con la più forte evidenza per l'estensione della salute e della v
 
 | Studio | Risultato | Riferimento |
 |-------|---------|-----------|
-| Aune et al., 2016, meta-analisi (45 studi), *BMJ* | Ogni 90 g al giorno di cereali integrali associato a una riduzione del 17% della mortalità totale, del 22% della mortalità cardiovascolare | PMID: 27301975 |
+| Aune et al., 2016, meta-analisi (45 studi), *BMJ* | Ogni aumento di 90 g al giorno di cereali integrali associato a una mortalità totale più bassa del 17% e a un rischio di malattia cardiovascolare più basso del 22% | PMID: 27301975 |
 | Reynolds et al., 2019, *Lancet* (meta-analisi) | Maggiore consumo di fibra/cereali integrali associato a una riduzione del 15-30% della mortalità totale e cardiovascolare | PMID: 30638909 |
-| Slavin, 2013, *Nutrients* | Fibra dei cereali integrali alimenta il microbioma benefico → produzione di SCFA → benefici anti-inflammativi, anti-tumorali, metabolici | PMID: 23609775 |
+| Slavin, 2013, *Nutrients* | Le fibre prebiotiche resistono alla digestione nell'intestino tenue e vengono fermentate dalla flora intestinale nel colon; frumento e mais integrali hanno effetti prebiotici; un consumo più alto di fibre è legato a meno malattie cardiovascolari e a un peso corporeo più basso | PMID: 23609775 |
 
 **Riassunto dell'Evidenza:** ★★★★★ (Eccezionale) — Consistente in tutti gli studi epidemiologici.
 

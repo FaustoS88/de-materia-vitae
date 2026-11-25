@@ -88,9 +88,9 @@ Il movimento come medicina: le due pratiche con la maggiore evidenza per la salu
 
 | Studio | Trovazione | Riferimento |
 |-------|---------|-----------|
-| Paluch et al., 2021, *JAMA Netw Open* | Ogni incremento di 1.000 passi è associato a una riduzione del 6-36% della mortalità; i benefici si stabilizzano ~7.000-10.000 passi | PMID: 34477847 |
+| Paluch et al., 2021, *JAMA Netw Open* | Rispetto a meno di 7.000 passi al giorno, 7.000-9.999 passi (HR 0,28) e 10.000 o più (HR 0,45) associati a una mortalità più bassa in 2.110 adulti tra 38 e 50 anni | PMID: 34477847 |
 | Lee et al., 2019, *JAMA Intern Med* | 4.400 passi al giorno sono associati a una riduzione del 41% della mortalità rispetto a 2.700; il beneficio continua fino a ~7.500 | PMID: 31141585 |
-| Saint-Maurice et al., 2020, *JAMA* | 8.000 passi al giorno sono associati a una riduzione del 51% della mortalità totale rispetto a 4.000; riduzione del 75% della mortalità cardiovascolare | PMID: 32207799 |
+| Saint-Maurice et al., 2020, *JAMA* | 8.000 passi al giorno associati a una mortalità totale più bassa del 51% rispetto a 4.000 (HR 0,49); con 12.000 passi HR 0,35 | PMID: 32207799 |
 
 **Riassunto dell'Evidenza:** ★★★★★ (Eccezionale) — La camminata è l'intervento di salute più studiato e più accessibile.
 
