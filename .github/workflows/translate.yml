@@ -2,7 +2,7 @@ name: Auto-translate protocols
 
 on:
   push:
-    branches: [develop]
+    branches: [develop, test/DMV-003-live]
     paths:
       - 'protocols/*.md'
 
