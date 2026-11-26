@@ -6,15 +6,15 @@
 
 ---
 
-Periodic maintenance of internal systems: deworming, testing schedules, and biomarker monitoring.
+Maintenance of internal systems: deworming when you are at risk, testing schedules, and biomarker monitoring.
 
 ---
 
 ---
 
-## I. Routine Deworming
+## I. Deworming
 
-**Dose:** Natural protocol quarterly OR pharmaceutical protocol biannually
+**Dose:** Only if you live in an area where intestinal worms are common, or after a positive stool test: the drug and dose your doctor prescribes
 
 ### Ancient Source
 
@@ -28,6 +28,8 @@ Periodic maintenance of internal systems: deworming, testing schedules, and biom
 ### Modern Evidence
 
 For a comprehensive overview, see: Olds GR. "Deworming the World." *Trans Am Clin Climatol Assoc*. 2013;124:265-274. [PMID: 23874034](https://pubmed.ncbi.nlm.nih.gov/23874034/)
+
+This review covers mass deworming of at-risk school-aged children in developing countries, where worms are common; it is not about routine deworming of people elsewhere.
 
 **Summary:**
 
@@ -52,20 +54,18 @@ Even subclinical parasitic presence can contribute to:
 
 ### Protocol
 
-**See the full protocol for complete details:** [Deworming Protocol](../deworming-protocol.md)
-
-Quick version:
-- **Natural:** 14-day protocol using garlic, pumpkin seeds, papaya seeds + herbal combo (wormwood, black walnut, cloves) — quarterly
-- **Pharmaceutical:** Albendazole 400 mg single dose, repeated in 14 days — biannually
-- **Hybrid:** Natural quarterly + pharmaceutical biannually (staggered)
+1. **Who:** people who live in an area where intestinal worms are common, and anyone with a positive stool test. Without one of these, this manual does not recommend deworming on a schedule.
+2. **Test first**, unless you live where worms are common: a stool test through your doctor; treat what it finds.
+3. **Pharmaceutical:** albendazole or mebendazole at the dose your doctor prescribes. Where worms are common, public programmes give a single dose periodically.
+4. **Natural:** the foods and herbs in the table above have small studies or none (★ to ★★★); they do not replace the test or the drug.
 
 ### Budget Tiers
 
 | Tier | US Baseline | Notes |
 |------|------------|-------|
-| **Foundation** | $0–5 | Garlic, pumpkin seeds from grocery store |
-| **Essential** | ~$30-50/cycle | Supplement combo (allicin, wormwood, black walnut, cloves) |
-| **Complete** | ~$50-100/cycle | Full supplement combo + stool testing (GI-MAP ~$250–350) |
+| **Foundation** | $0–5 | Garlic and pumpkin seeds as food, not as treatment |
+| **Essential** | Varies by country | Stool test and, if positive, the drug through your doctor |
+| **Complete** | Varies by country | A follow-up stool test after treatment, if your doctor advises it |
 
 ### Interactions & Contraindications
 
@@ -81,11 +81,11 @@ Quick version:
 
 | | |
 |---|---|
-| **What** | Periodic parasite cleansing |
-| **How much** | Natural quarterly; Pharma biannually |
+| **What** | Deworming for people at risk or with a positive stool test |
+| **How much** | The drug and dose your doctor prescribes |
 | **Evidence** | ★★★★★ (pharma) to ★★☆☆☆ (natural) |
 | **Ancient source** | Dioscorides, Avicenna, Sushruta Samhita, Ebers Papyrus |
-| **Modern source** | WHO guidelines, Cochrane reviews |
+| **Modern source** | Olds 2013 (mass deworming where worms are common) |
 | **Watch out for** | Pregnancy, metronidazole interaction, liver disease |
 
 ---
@@ -171,7 +171,7 @@ Quick version:
 
 | # | Practice | Dose | Evidence | Ancient Source |
 |---|----------|------|----------|---------------|
-| 1 | Routine Deworming | Natural protocol quarterly OR pharmaceutical protocol biannually | — | Dioscorides, Avicenna, Ebers Papyrus |
+| 1 | Deworming | Only where worms are common or after a positive stool test, as prescribed | — | Dioscorides, Avicenna, Ebers Papyrus |
 | 2 | Testing Schedule | — | — | — |
 | 3 | Time-Restricted Eating | 8–10 hour eating window daily | ★★★★☆ | Hippocrates, Avicenna |
 

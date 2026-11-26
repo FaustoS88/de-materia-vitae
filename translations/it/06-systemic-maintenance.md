@@ -6,15 +6,15 @@
 
 ---
 
-La manutenzione periodica dei sistemi interni: disinfestazione, orari di controllo e monitoraggio dei biomarcatori.
+La manutenzione dei sistemi interni: sverminazione quando sei a rischio, calendario dei controlli e monitoraggio dei biomarcatori.
 
 ---
 
 ---
 
-## I. Deworming di Routine
+## I. Sverminazione
 
-**Dose:** Protocollo naturale trimestrale o protocollo farmaceutico semestrale
+**Dose:** Solo se vivi in una zona dove i vermi intestinali sono comuni, o dopo un esame delle feci positivo: il farmaco e la dose prescritti dal medico
 
 ### Fonte Antica
 
@@ -28,6 +28,8 @@ La manutenzione periodica dei sistemi interni: disinfestazione, orari di control
 ### Evidenza Moderna
 
 Per un'overview completa, vedere: Olds GR. "Deworming the World." *Trans Am Clin Climatol Assoc*. 2013;124:265-274. [PMID: 23874034](https://pubmed.ncbi.nlm.nih.gov/23874034/)
+
+Questa review riguarda la sverminazione di massa dei bambini in età scolare a rischio nei paesi in via di sviluppo, dove i vermi sono comuni; non parla della sverminazione di routine di chi vive altrove.
 
 **Riassunto:**
 
@@ -52,20 +54,18 @@ Persenza subclinica di parassiti può contribuire a:
 
 ### Protocollo
 
-**Per una panoramica completa, vedere:** Olds GR. "Deworming the World." *Trans Am Clin Climatol Assoc*. 2013;124:265-274. [PMID: 23874034](https://pubmed.ncbi.nlm.nih.gov/23874034/)
-
-Versione rapida:
-- **Naturale:** 14-giorni protocollo utilizzando aglio, semi di zucca, semi di melone + combinazione erboristica (assenzio, noce di nocciole, chiodi di garofano) — trimestrale
-- **Farmaceutico:** Albendazolo 400 mg dose unica, ripetuta dopo 14 giorni — semestrale
-- **Ibrido:** Naturale trimestrale + farmaceutico semestrale (sovrapposti)
+1. **Chi:** chi vive in una zona dove i vermi intestinali sono comuni, e chiunque abbia un esame delle feci positivo. Senza uno di questi motivi, questo manuale non consiglia di sverminarsi a calendario.
+2. **Prima il test**, a meno che tu viva dove i vermi sono comuni: un esame delle feci tramite il medico; si cura quello che trova.
+3. **Farmaceutico:** albendazolo o mebendazolo alla dose prescritta dal medico. Dove i vermi sono comuni, i programmi pubblici danno periodicamente una dose singola.
+4. **Naturale:** gli alimenti e le erbe della tabella qui sopra hanno studi piccoli o nessuno (da ★ a ★★★); non sostituiscono il test né il farmaco.
 
 ### Livelli di Budget
 
 | Livello | Baseline USA | Note |
 |------|------------|-------|
-| **Fondamentale** | $0–5 | Aglio, semi di zucca dal supermercato |
-| **Essenziale** | ~$30-50/ciclo | Combinazione di integratori (allicina, assenzio, noce di nocciole, chiodi di garofano) |
-| **Completo** | ~$50-100/ciclo | Combinazione di integratori completa + test del contenuto di feci (GI-MAP ~$250–350) |
+| **Fondamentale** | $0–5 | Aglio e semi di zucca come cibo, non come cura |
+| **Essenziale** | Varia per paese | Esame delle feci e, se positivo, il farmaco tramite il medico |
+| **Completo** | Varia per paese | Un esame delle feci di controllo dopo la cura, se il medico lo consiglia |
 
 ### Interazioni & Controindicazioni
 
@@ -81,11 +81,11 @@ Versione rapida:
 
 | | |
 |---|---|
-| **Cosa** | Pulizia periodica dei parassiti |
-| **Quanto** | Naturale trimestrale; Farmaceutico semestrale |
+| **Cosa** | Sverminazione per chi è a rischio o ha un esame delle feci positivo |
+| **Quanto** | Il farmaco e la dose prescritti dal medico |
 | **Evidenza** | ★★★★★ (farmaceutico) a ★★☆☆☆ (naturale) |
 | **Fonte antica** | Dioscoride, Avicenna, Papiro di Ebers |
-| **Fonte moderna** | Linee guida WHO, recensioni Cochrane |
+| **Fonte moderna** | Olds 2013 (sverminazione di massa dove i vermi sono comuni) |
 | **Attenzione** | Gravidanza, interazione metronidazolo, malattie epatiche |
 
 ---
@@ -171,7 +171,7 @@ Versione rapida:
 
 | # | Pratica | Dose | Evidenza | Fonte Antica |
 |---|----------|------|----------|---------------|
-| 1 | Deworming di Routine | Protocollo naturale trimestrale o protocollo farmaceutico semestrale | — | Dioscoride, Avicenna, Papiro di Ebers |
+| 1 | Sverminazione | Solo dove i vermi sono comuni o dopo un esame delle feci positivo, come prescritto | — | Dioscoride, Avicenna, Papiro di Ebers |
 | 2 | Orario di Controllo | — | — | — |
 | 3 | Cibo a Orario Limitato | 8–10 ore di finestra di alimentazione quotidiana | ★★★★☆ | Ippocrate, Avicenna |
 

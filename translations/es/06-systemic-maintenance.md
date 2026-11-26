@@ -6,15 +6,15 @@
 
 ---
 
-Mantenimiento periódico de sistemas internos: desparasitación, horarios de pruebas y monitoreo de biomarcadores.
+Mantenimiento de sistemas internos: desparasitación cuando estás en riesgo, calendario de pruebas y monitoreo de biomarcadores.
 
 ---
 
 ---
 
-## I. Desparasitación Rútila
+## I. Desparasitación
 
-**Dosis:** Protocolo natural trimestral o protocolo farmacéutico bianual
+**Dosis:** Solo si vives en una zona donde los gusanos intestinales son comunes, o tras un análisis de heces positivo: el fármaco y la dosis que prescriba tu médico
 
 ### Fuente Antigua
 
@@ -28,6 +28,8 @@ Mantenimiento periódico de sistemas internos: desparasitación, horarios de pru
 ### Evidencia Moderna
 
 Para una visión general completa, consulte: Olds GR. "Deworming the World." *Trans Am Clin Climatol Assoc*. 2013;124:265-274. [PMID: 23874034](https://pubmed.ncbi.nlm.nih.gov/23874034/)
+
+Esta revisión trata de la desparasitación masiva de niños en edad escolar en riesgo en países en desarrollo, donde los gusanos son comunes; no trata de la desparasitación rutinaria de quien vive en otros lugares.
 
 **Resumen:**
 
@@ -52,20 +54,18 @@ Incluso la presencia subclínica de parásitos puede contribuir a:
 
 ### Protocolo
 
-**Consulte el protocolo completo para detalles completos:** [Protocolo de Desparasitación](../protocolo-de-desparasitación.md)
-
-Versión rápida:
-- **Natural:** Protocolo de 14 días utilizando ajo, semillas de calabaza, semillas de papaya + combinación herbal (artemisia, nuez de Castilla, clavos) — trimestral
-- **Farmacéutico:** Albendazol 400 mg dosis única, repetida en 14 días — bianual
-- **Híbrido:** Natural trimestral + farmacéutico bianual (superpuesto)
+1. **Quién:** quien vive en una zona donde los gusanos intestinales son comunes, y cualquiera con un análisis de heces positivo. Sin uno de estos motivos, este manual no recomienda desparasitarse según un calendario.
+2. **Primero la prueba**, salvo si vives donde los gusanos son comunes: un análisis de heces a través de tu médico; se trata lo que encuentre.
+3. **Farmacéutico:** albendazol o mebendazol a la dosis que prescriba tu médico. Donde los gusanos son comunes, los programas públicos dan periódicamente una dosis única.
+4. **Natural:** los alimentos y hierbas de la tabla anterior tienen estudios pequeños o ninguno (de ★ a ★★★); no sustituyen la prueba ni el fármaco.
 
 ### Niveles de Presupuesto
 
 | Nivel | US Baseline | Notas |
 |------|------------|-------|
-| **Fundamental** | $0–5 | Ajo, semillas de calabaza de la tienda de comestibles |
-| **Esencial** | ~$30-50/ciclo | Combinación de suplementos (alilina, artemisia, nuez de Castilla, clavos) |
-| **Completo** | ~$50-100/ciclo | Combinación de suplementos completa + pruebas de heces (GI-MAP ~$250–350) |
+| **Fundamental** | $0–5 | Ajo y semillas de calabaza como alimento, no como tratamiento |
+| **Esencial** | Varía según el país | Análisis de heces y, si es positivo, el fármaco a través de tu médico |
+| **Completo** | Varía según el país | Un análisis de heces de control tras el tratamiento, si tu médico lo aconseja |
 
 ### Interacciones & Contraindicaciones
 
@@ -81,11 +81,11 @@ Versión rápida:
 
 | | |
 |---|---|
-| **Qué** | Limpieza periódica de parásitos |
-| **Cómo mucho** | Natural trimestral; Farmacéutico bianual |
+| **Qué** | Desparasitación para quien está en riesgo o tiene un análisis de heces positivo |
+| **Cuánto** | El fármaco y la dosis que prescriba tu médico |
 | **Evidencia** | ★★★★★ (farmacéutico) a ★★☆☆☆ (natural) |
 | **Fuente antigua** | Dioscorides, Avicena, Papiro de Ebers |
-| **Fuente moderna** | Directrices de la OMS, revisiones de Cochrane |
+| **Fuente moderna** | Olds 2013 (desparasitación masiva donde los gusanos son comunes) |
 | **Cuidado** | Embarazo, interacción con metronidazol, enfermedad hepática |
 
 ---
@@ -171,7 +171,7 @@ Versión rápida:
 
 | # | Práctica | Dosis | Evidencia | Fuente Antigua |
 |---|----------|------|----------|---------------|
-| 1 | Desparasitación Rútila | Protocolo natural trimestral o protocolo farmacéutico bianual | — | Dioscorides, Avicena, Papiro de Ebers |
+| 1 | Desparasitación | Solo donde los gusanos son comunes o tras un análisis de heces positivo, según prescripción | — | Dioscorides, Avicena, Papiro de Ebers |
 | 2 | Horario de Pruebas | — | — | — |
 | 3 | Alimentación Restringida por Tiempo | 8–10 horas de ventana de alimentación diaria | ★★★★☆ | Hipócrates, Avicena |
 
