@@ -41,13 +41,13 @@ DOSES = {
         "per_kg_mg": None,
         "min_mg": 10_000_000_000,   # 10B
         "max_mg": 100_000_000_000,  # 100B
-        "notes": "Maintenance: 10-50B CFU. Post-antibiotic/post-cleanse: 50-100B CFU."
+        "notes": "Maintenance: 10-50B CFU. Post-antibiotic: 50-100B CFU."
     },
     "Allicin (stabilized)": {
         "per_kg_mg": 6,
         "min_mg": 450,
         "max_mg": 1350,
-        "notes": "Antiparasitic. 450mg up to 3x daily during cleanse. Take on empty stomach."
+        "notes": "Antiparasitic only in small studies; does not replace a prescribed drug (protocol 06). 450mg up to 3x daily. Take on empty stomach."
     },
     "Berberine": {
         "per_kg_mg": 7,
