@@ -54,16 +54,16 @@ What do you want to optimize for?
 ├── A. "I want to live longer and healthier" → HEALTHSPAN FOUNDATION
 │   Start with: Nutrition (1-8) + Movement (9-10) + Sleep (13)
 │   Add after 30 days: Stress (14) + Fasting (15) + Environment (11-12)
-│   Maintain: Deworming (16) quarterly/biannually
+│   Deworming (16): only where worms are common or after a positive stool test
 │   → See protocols/01-nutrition.md through protocols/06-systemic-maintenance.md
 │
 ├── B. "I feel like shit right now" → SYMPTOM PATH
 │   │
 │   ├── Chronic fatigue?
 │   │   1. Check: sleep quality, iron/B12/ferritin (blood test)
-│   │   2. If normal → try: deworming protocol, microbiome reset, blue light glasses
+│   │   2. If normal → try: microbiome reset, blue light glasses
 │   │   3. If persists → physician (thyroid, sleep apnea, depression screening)
-│   │   → See protocols/06-systemic-maintenance.md (deworming)
+│   │   → See protocols/03-sleep-circadian.md + protocols/06-systemic-maintenance.md (testing schedule)
 │   │
 │   ├── Can't sleep / poor sleep?
 │   │   1. Start: blue light glasses (red lens 2-3h before bed), no caffeine after 2pm
@@ -74,13 +74,13 @@ What do you want to optimize for?
 │   ├── Brain fog / can't focus?
 │   │   1. Start: sleep protocol (above), omega-3 (fatty fish or algal oil)
 │   │   2. Add: green tea (EGCG + L-theanine), daily walking
-│   │   3. If persists → deworming protocol, comprehensive stool test
+│   │   3. If persists → physician; a stool test if you have been where worms are common
 │   │   → See protocols/01-nutrition.md + protocols/03-sleep-circadian.md
 │   │
 │   ├── Digestive issues (bloating, irregularity)?
 │   │   1. Start: fermented foods daily, 30g+ fiber, eliminate ultra-processed food
 │   │   2. Add: probiotic (50B CFU), L-glutamine, identify food intolerances
-│   │   3. If persists → comprehensive stool test, deworming protocol
+│   │   3. If persists → physician and a stool test; deworming only if it is positive
 │   │   → See protocols/06-systemic-maintenance.md
 │   │
 │   └── Joint pain / low energy / body feels old?
@@ -93,7 +93,7 @@ What do you want to optimize for?
 │   Month 1: Nutrition (all 8 items) + Movement (walking daily)
 │   Month 2: Add resistance training + blue light glasses
 │   Month 3: Add fasting window + meditation
-│   Month 4: Add water filter + sunscreen + deworming protocol
+│   Month 4: Add water filter + sunscreen
 │   Month 6: Blood work, adjust based on biomarkers
 │   → See all protocols/ files, use trackers/ for logging
 │
