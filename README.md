@@ -5,7 +5,7 @@
 <h1 align="center">De Materia Vitae</h1>
 
 <p align="center">
-  Ancient wisdom × Modern evidence — an open-source, evidence-graded guide for healthspan and longevity.<br/>
+  Ancient practice × Modern evidence — an open-source, evidence-graded guide for healthspan and longevity.<br/>
   <a href="https://demateriavitae.duckdns.org">demateriavitae.duckdns.org</a>
 </p>
 
@@ -18,8 +18,16 @@
 </p>
 
 <p align="center">
-  <em>What the greatest physicians of antiquity knew, what modern science has confirmed, and what you should actually do about it — starting today.</em>
+  <em>Six practices, each graded against the trials that tested it. The classical claims that didn't survive them aren't here.</em>
 </p>
+
+---
+
+## How the evidence is checked
+
+Every line in a protocol that cites a study carries a PMID. `tools/check-citations.py` queries PubMed for each one and exits non-zero when the first author, the year or the journal doesn't match the record, or when a line quotes a title that differs from it. The same run fails when a translation doesn't cite every PMID its English original cites. It runs on every pull request, including the ones the translation workflow opens, where a model drafts the Spanish and Italian and this script is what decides.
+
+The classical sources are catalogued apart, in `evidence/ancient-sources/`, with the edition and the translation used, so a reference points to a book and a page rather than to "tradition".
 
 ---
 
@@ -27,19 +35,19 @@
 
 An open-source, evidence-graded, living document for maintaining a human body.
 
-Not a diet book. Not a biohacking blog. Not a medical textbook. Something between all three: **a practical operating manual** built on two foundations that most health advice lacks:
+Not a diet book. Not a biohacking blog. Not a medical textbook. Something between all three: **a practical operating manual** that starts from what the classical texts recommended and keeps only what the evidence after them supports.
 
-1. **Ancient source authority** — Dioscorides' *De Materia Medica* (60 AD), Hippocrates' *Regimen*, Avicenna's *Canon of Medicine* (1025), the *Shennong Bencao Jing* (200 AD), the *Charaka Samhita* (400 BC). These weren't guessing. They had millennia of observation.
-2. **Modern evidence standards** — Every claim is backed by PubMed-indexed research, Cochrane reviews, WHO guidelines, or meta-analyses. We grade the evidence transparently.
+1. **The classical texts as leads, not evidence** — Dioscorides' *De Materia Medica* (60 AD), Hippocrates' *Regimen*, Avicenna's *Canon of Medicine* (1025), the *Shennong Bencao Jing* (200 AD), the *Charaka Samhita* (400 BC). These record what people used for centuries, which is a reason to look and not a reason to believe: bloodletting has the same pedigree. Every practice taken from them is graded on the trials that came later.
+2. **Modern evidence standards** — PubMed-indexed research, Cochrane reviews, WHO guidelines, meta-analyses. Each claim carries a grade and a PMID you can open.
 
-If something appears here, it has **both** — or it doesn't appear at all.
+A claim needs at least one classical source and one peer-reviewed one, and the grade comes from the second.
 
 ---
 
 ## Philosophy
 
 - **Compounding, not perfection.** Small daily practices, stacked over decades. That's the entire game.
-- **Ancient + modern, not either/or.** If garlic worked for parasites for 2,000 years and one RCT confirms it, that's not "just tradition" — that's a replicated observation across civilizations.
+- **Ancient + modern, not either/or.** Traditional use says where to look; a trial says whether to believe it. When the two disagree, the trial wins and the practice loses its place here.
 - **Transparent uncertainty.** We tell you exactly what's proven, what's plausible, and what's traditional. No hype.
 - **Accessible to everyone.** Three budget tiers with PPP-adjusted pricing so whether you're in Mumbai, Milan, or Minneapolis, you know what this costs in your reality.
 - **Action over reading.** This is a decision tree, not a bibliography. You open it, answer a few questions, and get a protocol.
